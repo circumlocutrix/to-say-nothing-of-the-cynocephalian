@@ -3340,10 +3340,10 @@
 #end
 
 --- Triproplesan Forest Champion (Advanced human), Gold: 10, Resources: 8, Roles: [ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Ranged unit
 #newmonster 3839
 #name "Triproplesan Forest Champion"
@@ -3375,11 +3375,11 @@
 #end
 
 --- Triproplesan Light Swordsman (Advanced human), Gold: 12, Resources: 9, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: pillager stealthy, Infantry unit
 #newmonster 3840
 #name "Triproplesan Light Swordsman"
@@ -3413,11 +3413,11 @@
 #end
 
 --- Triproplesan Bandit (Advanced human), Gold: 12, Resources: 8, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: pillager stealthy, Infantry unit
 #newmonster 3841
 #name "Triproplesan Bandit"
@@ -3451,11 +3451,11 @@
 #end
 
 --- Triproplesan Heavy Spear Champion (Advanced human), Gold: 10, Resources: 36, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3842
 #name "Triproplesan Heavy Spear Champion"
@@ -3486,11 +3486,11 @@
 #end
 
 --- Triproplesan Spear Champion (Advanced human), Gold: 10, Resources: 6, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3843
 #name "Triproplesan Spear Champion"
@@ -3521,11 +3521,11 @@
 #end
 
 --- Triproplesan Light Swordsman (Advanced human), Gold: 10, Resources: 7, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3844
 #name "Triproplesan Light Swordsman"
@@ -3556,11 +3556,11 @@
 #end
 
 --- Triproplesan Swordsman (Advanced human), Gold: 10, Resources: 20, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3845
 #name "Triproplesan Swordsman"
@@ -3591,7 +3591,7 @@
 #end
 
 --- Triproplesan Knight (Advanced human), Gold: 30, Resources: 28, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -21
 -- Armor: 1, -4
 -- Offhand: 1, -16
@@ -3630,7 +3630,7 @@
 #end
 
 --- Triproplesan Lancer (Advanced human), Gold: 30, Resources: 30, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -21
 -- Armor: 1, -4
 -- Offhand: 1, -16
@@ -3670,7 +3670,7 @@
 #end
 
 --- Ancient Hierophant (Advanced human), Gold: 40, Resources: 31, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -21
 -- Armor: 1, -4
 -- Offhand: 1, -18
@@ -3713,11 +3713,11 @@
 #end
 
 --- Assassin (Advanced human), Gold: 50, Resources: 1, Roles: [scout] (generic_assassins)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 3849
 #name "Assassin"
@@ -3751,11 +3751,11 @@
 #end
 
 --- Castellan (Advanced human), Gold: 70, Resources: 9, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: pillager stealthy, Infantry unit
 #newmonster 3850
 #name "Castellan"
@@ -3792,11 +3792,11 @@
 #end
 
 --- Captain (Advanced human), Gold: 70, Resources: 36, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3851
 #name "Captain"
@@ -3831,7 +3831,7 @@
 #end
 
 --- Colonel (Advanced human), Gold: 90, Resources: 28, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -21
 -- Armor: 1, -4
 -- Offhand: 1, -16
@@ -3874,7 +3874,7 @@
 #end
 
 --- Arch Abbot (Advanced human), Gold: 90, Resources: 1, Roles: [priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, 2
 -- Armor: 0, 0
 -- Offhand: 2, 0
@@ -3911,7 +3911,7 @@
 #end
 
 --- Novice of the Bright Highlands (Naga), Gold: 195, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]]
@@ -3959,7 +3959,7 @@
 #end
 
 --- Fellow of the Bright Highlands (Naga), Gold: 215, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]]
@@ -4009,7 +4009,7 @@
 #end
 
 --- King of the Bright Highlands (Advanced human), Gold: 345, Resources: 1, Roles: [mage] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, 2
 -- Armor: 0, 0
 -- Offhand: 2, 0
@@ -4050,11 +4050,11 @@
 #end
 
 --- Hero (Advanced human), Gold: 0, Resources: 2, Roles: [mage] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, 2
 -- Armor: 0, 0
 -- Offhand: 2, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (250), resource generator 15, sun awe, spy, ethereal
 #newmonster 3857
 #name "Hero"
@@ -4093,7 +4093,7 @@
 #end
 
 --- Hero (Advanced human), Gold: 0, Resources: 25, Roles: [ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["pillage desc"]], [sacred: []]
@@ -4135,7 +4135,7 @@
 #end
 
 --- Hero (Advanced human), Gold: 0, Resources: 13, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 3, 0
@@ -4273,10 +4273,10 @@
 #end
 
 --- Timobeandan Avvite Jungle Champion (Avvite), Gold: 25, Resources: 19, Roles: [ranged] (bowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Ranged unit
 #newmonster 3860
 #name "Timobeandan Avvite Jungle Champion"
@@ -4313,11 +4313,11 @@
 #end
 
 --- Timobeandan Swordsman (Austral human), Gold: 10, Resources: 4, Roles: [infantry, sacred infantry, elite infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3861
 #name "Timobeandan Swordsman"
@@ -4349,11 +4349,11 @@
 #end
 
 --- Timobeandan Javelin Spearman (Austral human), Gold: 10, Resources: 4, Roles: [infantry, sacred infantry, elite infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3862
 #name "Timobeandan Javelin Spearman"
@@ -4386,11 +4386,11 @@
 #end
 
 --- Timobeandan Light Javelin Spearman (Austral human), Gold: 10, Resources: 2, Roles: [infantry, sacred infantry, elite infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3863
 #name "Timobeandan Light Javelin Spearman"
@@ -4421,11 +4421,11 @@
 #end
 
 --- Timobeandan Avvite Swordsman (Avvite), Gold: 25, Resources: 32, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3864
 #name "Timobeandan Avvite Swordsman"
@@ -4461,7 +4461,7 @@
 #end
 
 --- Timobeandan Lance Lancer (Austral human), Gold: 25, Resources: 6, Roles: [mounted, sacred mounted, elite mounted] (mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -4501,7 +4501,7 @@
 #end
 
 --- Timobeandan Avvite Lance Lancer (Avvite), Gold: 40, Resources: 17, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -10
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -4545,7 +4545,7 @@
 #end
 
 --- Unwavering Retributor (Austral human), Gold: 20, Resources: 1, Roles: [mounted, sacred] (pygmy cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 1
 -- Armor: 0, 0
 --- Generation tags: [path: [water]], [itemslot: [feet -1]], [filterdesc: ["winterpower desc"]], [sacred: []]
@@ -4585,10 +4585,10 @@
 #end
 
 --- Spy (Austral human), Gold: 50, Resources: 3, Roles: [scout] (generic_spies)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy
 #newmonster 3868
 #name "Spy"
@@ -4622,11 +4622,11 @@
 #end
 
 --- Warlord (Austral human), Gold: 40, Resources: 4, Roles: [infantry, sacred infantry, elite infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3869
 #name "Warlord"
@@ -4660,7 +4660,7 @@
 #end
 
 --- Swordsmaster (Austral human), Gold: 55, Resources: 6, Roles: [mounted, sacred mounted, elite mounted] (mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -4702,7 +4702,7 @@
 #end
 
 --- Novice Magician (Austral human), Gold: 45, Resources: 1, Roles: [mage, priest] (T1 pygmy caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 12, 32
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -4739,7 +4739,7 @@
 #end
 
 --- Grand Magician (Austral human), Gold: 110, Resources: 1, Roles: [priest] (pygmy high priest)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -4777,7 +4777,7 @@
 #end
 
 --- Billowing Ascendant (Austral human), Gold: 160, Resources: 1, Roles: [mage] (mounted pygmy mage)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 12, 32
 -- Armor: 0, 0
 --- Generation tags: [extramage: [1]], [itemslot: [feet -1]], [tier1: []]
@@ -4824,7 +4824,7 @@
 #end
 
 --- Neophyte Monk of the Abyss (Austral human), Gold: 55, Resources: 1, Roles: [mage, priest] (T1 pygmy caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 1
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]]
@@ -4861,7 +4861,7 @@
 #end
 
 ---  Monk of the Abyss (Austral human), Gold: 220, Resources: 1, Roles: [mage] (mounted pygmy mage)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 12, 32
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [magepriest: []], [itemslot: [feet -1]]
@@ -4909,7 +4909,7 @@
 #end
 
 --- Senior Monk of the Abyss (Austral human), Gold: 350, Resources: 1, Roles: [mage] (mounted pygmy mage)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 12, 32
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [magepriest: []], [itemslot: [feet -1]], [varyslot: [weapon]]
@@ -4960,10 +4960,10 @@
 #end
 
 --- Hero (Avvite), Gold: 0, Resources: 1, Roles: [mage] (nephilim)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (350), blackdog_primary, deathrec, deathcurse, autohealer 3, majorfireres, cold resource generator 10, sailing
 #newmonster 3877
 #name "Hero"
@@ -5017,10 +5017,10 @@
 #end
 
 --- Hero (Avvite), Gold: 0, Resources: 1, Roles: [mage] (nephilim)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), coldres, invulnerable20
 #newmonster 3878
 #name "Hero"
@@ -5115,10 +5115,10 @@
 #end
 
 --- Myrmenean Centauride Longbow Champion (Halfman), Gold: 25, Resources: 9, Roles: [ranged] (centauride archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 1
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 3879
 #name "Myrmenean Centauride Longbow Champion"
@@ -5157,10 +5157,10 @@
 #end
 
 --- Myrmenean Centauride Champion (Halfman), Gold: 25, Resources: 9, Roles: [ranged] (centauride archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 1
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 3880
 #name "Myrmenean Centauride Champion"
@@ -5199,11 +5199,11 @@
 #end
 
 --- Myrmenean Elite Swordsmaster (Halfman), Gold: 30, Resources: 48, Roles: [infantry] (centaur soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -8, -17
 -- Armor: 0, 0
 -- Offhand: -7, -19
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, castledef +1, Infantry unit
 #newmonster 3881
 #name "Myrmenean Elite Swordsmaster"
@@ -5241,10 +5241,10 @@
 #end
 
 --- Myrmenean Centauride Swordsmaiden (Halfman), Gold: 25, Resources: 9, Roles: [infantry] (centauride warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, -16
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3882
 #name "Myrmenean Centauride Swordsmaiden"
@@ -5281,11 +5281,11 @@
 #end
 
 --- Myrmenean Centauride Swordsmaiden (Halfman), Gold: 25, Resources: 10, Roles: [infantry] (centauride warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -8, -16
 -- Armor: 0, 0
 -- Offhand: -7, -18
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3883
 #name "Myrmenean Centauride Swordsmaiden"
@@ -5323,10 +5323,10 @@
 #end
 
 --- Myrmenean Champion (Halfman), Gold: 25, Resources: 13, Roles: [infantry] (centaur warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -9, -18
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3884
 #name "Myrmenean Champion"
@@ -5363,10 +5363,10 @@
 #end
 
 --- Myrmenean Swordsman (Halfman), Gold: 25, Resources: 16, Roles: [infantry] (centaur warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, -17
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3885
 #name "Myrmenean Swordsman"
@@ -5403,11 +5403,11 @@
 #end
 
 --- Myrmenean Swordsman (Halfman), Gold: 25, Resources: 19, Roles: [infantry] (centaur warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -8, -17
 -- Armor: 0, 0
 -- Offhand: -7, -19
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3886
 #name "Myrmenean Swordsman"
@@ -5445,7 +5445,7 @@
 #end
 
 --- Raging Retributor (Halfman), Gold: 65, Resources: 15, Roles: [infantry, scout] (2h long)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [nopose: [ranged, mounted, chariot]], [filterdesc: ["berserk desc"]], [sacred: []]
@@ -5485,11 +5485,11 @@
 #end
 
 --- Assassin (Halfman), Gold: 80, Resources: 10, Roles: [infantry, scout] (DW)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, -7
 -- Armor: 0, 0
 -- Offhand: 10, -6
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 3888
 #name "Assassin"
@@ -5530,10 +5530,10 @@
 #end
 
 --- Sword Commander (Halfman), Gold: 75, Resources: 9, Roles: [infantry] (centauride warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, -16
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3889
 #name "Sword Commander"
@@ -5573,10 +5573,10 @@
 #end
 
 --- Swordsmaster (Halfman), Gold: 75, Resources: 16, Roles: [infantry] (centaur warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, -17
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3890
 #name "Swordsmaster"
@@ -5616,7 +5616,7 @@
 #end
 
 --- Missionary (Halfman), Gold: 70, Resources: 4, Roles: [mage, priest] (centaur casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -5659,7 +5659,7 @@
 #end
 
 --- Anathemant (Halfman), Gold: 135, Resources: 1, Roles: [mage, priest] (centaur casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -9
 -- Armor: 0, 0
 -- Offhand: -10, -19
@@ -5701,7 +5701,7 @@
 #end
 
 --- Novice Foul Witch Doctor (Halfman), Gold: 75, Resources: 1, Roles: [mage, priest] (centaur casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -7
 -- Armor: 0, 0
 -- Offhand: -10, -19
@@ -5743,7 +5743,7 @@
 #end
 
 --- Journeyman Foul Witch Doctor (Halfman), Gold: 160, Resources: 1, Roles: [mage, priest] (centaur casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -9
 -- Armor: 0, 0
 -- Offhand: -10, -19
@@ -5786,7 +5786,7 @@
 #end
 
 --- Adept Foul Witch Doctor (Halfman), Gold: 355, Resources: 1, Roles: [mage, priest] (centaur casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -9
 -- Armor: 0, 0
 -- Offhand: -10, -19
@@ -5834,11 +5834,11 @@
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 1, Roles: [mage, priest] (centaur casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -6
 -- Armor: 0, 0
 -- Offhand: -10, -19
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (390), resource generator 15, deathrec, invulnerable20
 #newmonster 3896
 #name "Hero"
@@ -5883,7 +5883,7 @@
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 29, Roles: [infantry] (centauride warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -8, -16
 -- Armor: 0, 0
 -- Offhand: -11, -18
@@ -5934,11 +5934,11 @@
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 7, Roles: [mage, priest] (centauride casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 1
 -- Armor: 0, 0
 -- Offhand: 0, 1
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (250), ethereal2, vineman: size 2
 #newmonster 3898
 #name "Hero"
@@ -6072,10 +6072,10 @@
 #end
 
 --- Coacotepecish Bandar Champion (Primate), Gold: 16, Resources: 18, Roles: [ranged] (bandar archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 3899
 #name "Coacotepecish Bandar Champion"
@@ -6110,11 +6110,11 @@
 #end
 
 --- Coacotepecish Sword Champion (Zotz), Gold: 8, Resources: 3, Roles: [infantry] (light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Brave
 #newmonster 3900
 #name "Coacotepecish Sword Champion"
@@ -6155,11 +6155,11 @@
 #end
 
 --- Coacotepecish Dart Thrower (Zotz), Gold: 8, Resources: 3, Roles: [infantry] (light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Brave
 #newmonster 3901
 #name "Coacotepecish Dart Thrower"
@@ -6201,11 +6201,11 @@
 #end
 
 --- Coacotepecish Axeman (Zotz), Gold: 8, Resources: 3, Roles: [infantry] (light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Brave
 #newmonster 3902
 #name "Coacotepecish Axeman"
@@ -6247,10 +6247,10 @@
 #end
 
 --- Coacotepecish Light Sword Champion (Zotz), Gold: 8, Resources: 2, Roles: [infantry] (light 2h infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Brave
 #newmonster 3903
 #name "Coacotepecish Light Sword Champion"
@@ -6290,10 +6290,10 @@
 #end
 
 --- Coacotepecish Light Clubber (Zotz), Gold: 8, Resources: 2, Roles: [infantry] (light 2h infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Brave
 #newmonster 3904
 #name "Coacotepecish Light Clubber"
@@ -6334,10 +6334,10 @@
 #end
 
 --- Coacotepecish Clubber (Zotz), Gold: 8, Resources: 3, Roles: [infantry] (light 2h infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Brave
 #newmonster 3905
 #name "Coacotepecish Clubber"
@@ -6378,10 +6378,10 @@
 #end
 
 --- Coacotepecish Bandar Flail Champion (Primate), Gold: 16, Resources: 21, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3906
 #name "Coacotepecish Bandar Flail Champion"
@@ -6414,7 +6414,7 @@
 #end
 
 --- Coacotepecish Champion (Zotz), Gold: 45, Resources: 7, Roles: [mounted] (2h mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -6461,7 +6461,7 @@
 #end
 
 --- Shadow Paragon (Zotz), Gold: 19, Resources: 10, Roles: [infantry] (light 2h infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [nature]], [filterdesc: ["springpower desc"]], [sacred: []]
@@ -6506,11 +6506,11 @@
 #end
 
 --- Assassin (Zotz), Gold: 50, Resources: 3, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 7, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin, Brave
 #newmonster 3909
 #name "Assassin"
@@ -6554,10 +6554,10 @@
 #end
 
 --- Swordsmaster (Zotz), Gold: 60, Resources: 2, Roles: [infantry] (light 2h infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Brave
 #newmonster 3910
 #name "Swordsmaster"
@@ -6600,7 +6600,7 @@
 #end
 
 --- Colonel (Zotz), Gold: 75, Resources: 7, Roles: [mounted] (2h mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -6649,7 +6649,7 @@
 #end
 
 --- Sword Champion (Zotz), Gold: 70, Resources: 10, Roles: [infantry] (light 2h infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [nature]], [filterdesc: ["springpower desc"]], [sacred: []]
@@ -6698,7 +6698,7 @@
 #end
 
 --- Neophyte Wizard (Zotz), Gold: 50, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -16, -33
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -6744,7 +6744,7 @@
 #end
 
 ---  Wizard (Zotz), Gold: 125, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -16, -33
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -6791,7 +6791,7 @@
 #end
 
 --- Great Wizard (Zotz), Gold: 190, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -19
 -- Armor: 0, 0
 --- Generation tags: [priest: [3]]
@@ -6838,7 +6838,7 @@
 #end
 
 --- Major Diabolist of the Grove (Zotz), Gold: 165, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -16, -33
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [weapon]]
@@ -6884,7 +6884,7 @@
 #end
 
 --- Major Diabolist of Madness (Zotz), Gold: 165, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -19
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [weapon]]
@@ -6930,7 +6930,7 @@
 #end
 
 --- Senior Diabolist of the Grove (Zotz), Gold: 250, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -19
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [weapon]]
@@ -6979,7 +6979,7 @@
 #end
 
 --- Senior Diabolist of Madness (Zotz), Gold: 235, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -19
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [weapon]]
@@ -7028,10 +7028,10 @@
 #end
 
 --- Hero (Zotz), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -19
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (290), illearth, resource generator 10, Brave
 #newmonster 3920
 #name "Hero"
@@ -7077,7 +7077,7 @@
 #end
 
 --- Hero (Zotz), Gold: 0, Resources: 8, Roles: [infantry] (heavy 2h infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [nopose: [ranged, mounted, chariot]], [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werebear"]], [filterdesc: ["werebear desc", "berserk desc"]]
@@ -7259,10 +7259,10 @@
 #end
 
 --- Alingforsian Champion (Jotun), Gold: 30, Resources: 10, Roles: [ranged] (hurlers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 3922
 #name "Alingforsian Champion"
@@ -7299,11 +7299,11 @@
 #end
 
 --- Alingforsian Elite Axemistress (Jotun), Gold: 35, Resources: 28, Roles: [infantry] (standard female infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 3923
 #name "Alingforsian Elite Axemistress"
@@ -7341,10 +7341,10 @@
 #end
 
 --- Alingforsian Staff Champion (Jotun), Gold: 30, Resources: 4, Roles: [infantry] (standard female infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3924
 #name "Alingforsian Staff Champion"
@@ -7381,11 +7381,11 @@
 #end
 
 --- Alingforsian Axemaiden (Jotun), Gold: 30, Resources: 10, Roles: [infantry] (standard female infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3925
 #name "Alingforsian Axemaiden"
@@ -7423,10 +7423,10 @@
 #end
 
 --- Alingforsian Swamp Axe Thrower (Jotun), Gold: 30, Resources: 18, Roles: [infantry] (standard male infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 3926
 #name "Alingforsian Swamp Axe Thrower"
@@ -7462,11 +7462,11 @@
 #end
 
 --- Alingforsian Swamp Axeman (Jotun), Gold: 30, Resources: 20, Roles: [infantry] (standard male infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 3927
 #name "Alingforsian Swamp Axeman"
@@ -7503,10 +7503,10 @@
 #end
 
 --- Alingforsian Glaive Champion (Jotun), Gold: 30, Resources: 12, Roles: [infantry] (standard male infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3928
 #name "Alingforsian Glaive Champion"
@@ -7541,11 +7541,11 @@
 #end
 
 --- Alingforsian Spear Champion (Jotun), Gold: 30, Resources: 10, Roles: [infantry] (standard male infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3929
 #name "Alingforsian Spear Champion"
@@ -7581,11 +7581,11 @@
 #end
 
 --- Alingforsian Axeman (Jotun), Gold: 30, Resources: 10, Roles: [infantry] (standard male infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3930
 #name "Alingforsian Axeman"
@@ -7621,7 +7621,7 @@
 #end
 
 --- Ancient Warrior (Jotun), Gold: 30, Resources: 50, Roles: [elite infantry, sacred infantry] (elite male infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -7661,7 +7661,7 @@
 #end
 
 --- Black Reaver (Jotun), Gold: 60, Resources: 24, Roles: [ranged] (hurlers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [death]], [filterdesc: ["ghoul desc"]], [sacred: []]
@@ -7704,10 +7704,10 @@
 #end
 
 --- Scout (Avvite), Gold: 45, Resources: 40, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 3933
 #name "Scout"
@@ -7746,10 +7746,10 @@
 #end
 
 --- General (Jotun), Gold: 70, Resources: 18, Roles: [infantry] (standard male infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 3934
 #name "General"
@@ -7788,7 +7788,7 @@
 #end
 
 --- Commanding Champion (Jotun), Gold: 80, Resources: 60, Roles: [elite infantry, sacred infantry] (elite male infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -7831,7 +7831,7 @@
 #end
 
 --- Lieutenant (Jotun), Gold: 175, Resources: 24, Roles: [ranged] (hurlers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [death]], [filterdesc: ["ghoul desc"]], [sacred: []]
@@ -7878,7 +7878,7 @@
 #end
 
 --- Lesser Prior (Jotun), Gold: 80, Resources: 26, Roles: [mage, priest] (male T1)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -7919,7 +7919,7 @@
 #end
 
 --- Master Prior (Jotun), Gold: 170, Resources: 24, Roles: [mage, priest] (female T3)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -7962,7 +7962,7 @@
 #end
 
 --- Peer of the Agates (Jotun), Gold: 165, Resources: 20, Roles: [mage, priest] (male T2)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [extramage: [1]], [tier1: []]
@@ -8007,7 +8007,7 @@
 #end
 
 --- Numinous Neophyte (Jotun), Gold: 200, Resources: 26, Roles: [mage, priest] (female T1)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]], [magepriest: []]
@@ -8051,7 +8051,7 @@
 #end
 
 --- Numinous Bride (Jotun), Gold: 215, Resources: 34, Roles: [mage, priest] (female T2)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [magepriest: []]
@@ -8095,7 +8095,7 @@
 #end
 
 --- Numinous Princess (Jotun), Gold: 460, Resources: 24, Roles: [mage, priest] (female T3)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [magepriest: []], [varyslot: [weapon]]
@@ -8145,7 +8145,7 @@
 #end
 
 --- Hero (Jotun), Gold: 0, Resources: 26, Roles: [elite ranged, sacred ranged] (elite female skirmishers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [nature]], [price_if_command: [at #size 1 +3]], [filterdesc: ["horned serpent desc", "poisonres desc"]], [sacred: []]
@@ -8197,10 +8197,10 @@
 #end
 
 --- Hero (Jotun), Gold: 0, Resources: 2, Roles: [mage, priest] (female T3)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), autodishealer2, resource generator 25, better researcher +3 - tier 3 mages
 #newmonster 3944
 #name "Hero"
@@ -8246,10 +8246,10 @@
 #end
 
 --- Hero (Jotun), Gold: 0, Resources: 28, Roles: [mage, priest] (female T3)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (290), spellsinger, ivylord 1, resource generator 10, toad
 #newmonster 3945
 #name "Hero"
@@ -8395,10 +8395,10 @@
 #end
 
 --- Hrazdanian Alpine Champion (Caelian), Gold: 10, Resources: 9, Roles: [ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: mountainunit, Ranged unit
 #newmonster 3946
 #name "Hrazdanian Alpine Champion"
@@ -8434,10 +8434,10 @@
 #end
 
 --- Hrazdanian Alpine Champion (Caelian), Gold: 10, Resources: 9, Roles: [ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: mountainunit, Ranged unit
 #newmonster 3947
 #name "Hrazdanian Alpine Champion"
@@ -8473,11 +8473,11 @@
 #end
 
 --- Hrazdanian Champion (Caelian), Gold: 10, Resources: 15, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3948
 #name "Hrazdanian Champion"
@@ -8512,11 +8512,11 @@
 #end
 
 --- Hrazdanian Lancer (Caelian), Gold: 10, Resources: 16, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3949
 #name "Hrazdanian Lancer"
@@ -8551,10 +8551,10 @@
 #end
 
 --- Hrazdanian Light Lancer (Caelian), Gold: 10, Resources: 12, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3950
 #name "Hrazdanian Light Lancer"
@@ -8588,11 +8588,11 @@
 #end
 
 --- Hrazdanian Falchion Champion (Caelian), Gold: 10, Resources: 12, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3951
 #name "Hrazdanian Falchion Champion"
@@ -8626,11 +8626,11 @@
 #end
 
 --- Hrazdanian Light Lancer (Caelian), Gold: 10, Resources: 11, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3952
 #name "Hrazdanian Light Lancer"
@@ -8664,11 +8664,11 @@
 #end
 
 --- Hrazdanian Vanara Impaler (Primate), Gold: 8, Resources: 12, Roles: [infantry] (vanara light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 2, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3953
 #name "Hrazdanian Vanara Impaler"
@@ -8703,11 +8703,11 @@
 #end
 
 --- Hrazdanian Bandar Impaler (Primate), Gold: 16, Resources: 31, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Infantry unit
 #newmonster 3954
 #name "Hrazdanian Bandar Impaler"
@@ -8743,11 +8743,11 @@
 #end
 
 --- Hrazdanian Bandar Impaler (Primate), Gold: 16, Resources: 30, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Infantry unit
 #newmonster 3955
 #name "Hrazdanian Bandar Impaler"
@@ -8783,7 +8783,7 @@
 #end
 
 --- Righteous Herald (Primate), Gold: 55, Resources: 14, Roles: [sacred mounted, elite mounted] (vanara sacred cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -8830,10 +8830,10 @@
 --- Hydra Hatchling (Unit ID 1840), Gold: 35, Resources: 1
 
 --- Assassin (Caelian), Gold: 50, Resources: 16, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 3957
 #name "Assassin"
@@ -8870,11 +8870,11 @@
 #end
 
 --- General (Caelian), Gold: 75, Resources: 11, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3958
 #name "General"
@@ -8913,7 +8913,7 @@
 #end
 
 --- Spearmaster (Primate), Gold: 105, Resources: 15, Roles: [sacred mounted, elite mounted] (vanara sacred cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -8963,7 +8963,7 @@
 #end
 
 --- Neophyte Priest (Caelian), Gold: 50, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -9003,7 +9003,7 @@
 #end
 
 --- Supreme Priest (Caelian), Gold: 145, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -9043,7 +9043,7 @@
 #end
 
 --- Initiate of the Massive Temple (Caelian), Gold: 45, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -9082,7 +9082,7 @@
 #end
 
 --- Firestarter of the Massive Temple (Caelian), Gold: 170, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -9122,7 +9122,7 @@
 #end
 
 --- Augur of the Massive Temple (Caelian), Gold: 165, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -9164,7 +9164,7 @@
 #end
 
 --- Keeper of the Massive Temple (Caelian), Gold: 450, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -9209,11 +9209,11 @@
 #end
 
 --- Hero (Caelian), Gold: 0, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (270), wererat, deathrec
 #newmonster 3966
 #name "Hero"
@@ -9255,7 +9255,7 @@
 #end
 
 --- Hero (Primate), Gold: 0, Resources: 24, Roles: [sacred infantry, elite infantry] (vanara sacred infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -9302,11 +9302,11 @@
 #end
 
 --- Hero (Primate), Gold: 0, Resources: 6, Roles: [mage, priest] (bandar elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 4
 -- Armor: 0, 0
 -- Offhand: 2, 6
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), deathrec, earthele, resource generator 25, fireres, ethereal2
 #newmonster 3968
 #name "Hero"
@@ -9431,10 +9431,10 @@
 #end
 
 --- Ishgusan Jotun Champion (Jotun), Gold: 30, Resources: 10, Roles: [ranged] (male skirmishers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: castledef 2, Ranged unit
 #newmonster 3969
 #name "Ishgusan Jotun Champion"
@@ -9471,10 +9471,10 @@
 #end
 
 --- Ishgusan Hammer Champion (Amazon human), Gold: 12, Resources: 18, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3970
 #name "Ishgusan Hammer Champion"
@@ -9507,10 +9507,10 @@ female
 #end
 
 --- Ishgusan Bardiche Champion (Amazon human), Gold: 12, Resources: 18, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3971
 #name "Ishgusan Bardiche Champion"
@@ -9543,11 +9543,11 @@ female
 #end
 
 --- Ishgusan Swordsmaiden (Amazon human), Gold: 12, Resources: 22, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3972
 #name "Ishgusan Swordsmaiden"
@@ -9581,10 +9581,10 @@ female
 #end
 
 --- Ishgusan Bardiche Champion (Amazon human), Gold: 12, Resources: 19, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3973
 #name "Ishgusan Bardiche Champion"
@@ -9617,11 +9617,11 @@ female
 #end
 
 --- Ishgusan Hammer Champion (Amazon human), Gold: 12, Resources: 21, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3974
 #name "Ishgusan Hammer Champion"
@@ -9655,11 +9655,11 @@ female
 #end
 
 --- Ishgusan Jotun Elite Axemaster (Jotun), Gold: 35, Resources: 34, Roles: [infantry] (standard male infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 3975
 #name "Ishgusan Jotun Elite Axemaster"
@@ -9695,10 +9695,10 @@ female
 #end
 
 --- Ishgusan Jotun Champion (Jotun), Gold: 30, Resources: 24, Roles: [infantry] (standard male infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3976
 #name "Ishgusan Jotun Champion"
@@ -9733,7 +9733,7 @@ female
 #end
 
 --- Ishgusan Cataphract (Amazon human), Gold: 35, Resources: 24, Roles: [mounted] (std mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -9778,7 +9778,7 @@ female
 #end
 
 --- Ishgusan Lancer (Amazon human), Gold: 35, Resources: 27, Roles: [mounted] (std mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -9824,7 +9824,7 @@ female
 #end
 
 --- Eidolon of Fall (Amazon human), Gold: 30, Resources: 29, Roles: [ranged, elite ranged, sacred ranged] (Xbow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, 4
 -- Armor: 0, 0
 --- Generation tags: [path: [earth]], [filterdesc: ["fallpower desc"]], [sacred: []]
@@ -9864,10 +9864,10 @@ female
 #end
 
 --- Assassin (Amazon human), Gold: 50, Resources: 7, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 3980
 #name "Assassin"
@@ -9903,10 +9903,10 @@ female
 #end
 
 --- Sergeant (Amazon human), Gold: 60, Resources: 18, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3981
 #name "Sergeant"
@@ -9942,7 +9942,7 @@ female
 #end
 
 --- General (Amazon human), Gold: 85, Resources: 24, Roles: [mounted] (std mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -9990,7 +9990,7 @@ female
 #end
 
 --- Lesser Prior (Amazon human), Gold: 55, Resources: 16, Roles: [priest] (warrior-priestess)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -10031,7 +10031,7 @@ female
 #end
 
 --- Elder Prior (Amazon human), Gold: 120, Resources: 16, Roles: [priest] (warrior-priestess)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -10072,7 +10072,7 @@ female
 #end
 
 --- Young Ishgusan Mage-engineer (Amazon human), Gold: 65, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -10111,7 +10111,7 @@ female
 #end
 
 --- Apprentice Ishgusan Mage-engineer (Amazon human), Gold: 180, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -10152,7 +10152,7 @@ female
 #end
 
 --- Arch Topaz Mage-engineer (Amazon human), Gold: 375, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -10195,7 +10195,7 @@ female
 #end
 
 --- Arch Sacred Mage-engineer (Amazon human), Gold: 325, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -10238,7 +10238,7 @@ female
 #end
 
 --- Arch Fanatic Mage-engineer (Amazon human), Gold: 340, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -10283,7 +10283,7 @@ female
 #end
 
 --- Hero (Amazon human), Gold: 0, Resources: 22, Roles: [mounted, sacred mounted, elite mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -10426,10 +10426,10 @@ female
 #end
 
 --- Hellethonese Champion (Amazon human), Gold: 12, Resources: 15, Roles: [ranged, elite ranged, sacred ranged] (bow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, -1
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 3991
 #name "Hellethonese Champion"
@@ -10463,11 +10463,11 @@ female
 #end
 
 --- Hellethonese Hammer Champion (Amazon human), Gold: 12, Resources: 14, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3992
 #name "Hellethonese Hammer Champion"
@@ -10501,11 +10501,11 @@ female
 #end
 
 --- Hellethonese Sword Champion (Amazon human), Gold: 12, Resources: 14, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3993
 #name "Hellethonese Sword Champion"
@@ -10539,7 +10539,7 @@ female
 #end
 
 --- Hellethonese Cataphract (Amazon human), Gold: 35, Resources: 18, Roles: [mounted, sacred mounted, elite mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -10581,7 +10581,7 @@ female
 #end
 
 --- Hellethonese Champion (Amazon human), Gold: 40, Resources: 5, Roles: [priest, mounted, elite] (warrior-priestess_mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -10622,7 +10622,7 @@ female
 #end
 
 --- Hellethonese Flayed Cataphract (Amazon human), Gold: 70, Resources: 22, Roles: [mounted, sacred mounted, elite mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -10663,7 +10663,7 @@ female
 #end
 
 --- Unwavering Reaver (Amazon human), Gold: 24, Resources: 18, Roles: [infantry, sacred infantry, elite infantry] (2h inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [sacred: []]
@@ -10702,10 +10702,10 @@ female
 #end
 
 --- Spy (Amazon human), Gold: 50, Resources: 5, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy
 #newmonster 3998
 #name "Spy"
@@ -10741,11 +10741,11 @@ female
 #end
 
 --- Lieutenant (Amazon human), Gold: 60, Resources: 14, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 3999
 #name "Lieutenant"
@@ -10782,7 +10782,7 @@ female
 #end
 
 --- Colonel (Amazon human), Gold: 95, Resources: 18, Roles: [mounted, sacred mounted, elite mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -10828,7 +10828,7 @@ female
 #end
 
 --- Novice Cleric (Amazon human), Gold: 55, Resources: 22, Roles: [priest] (warrior-priestess)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -10870,7 +10870,7 @@ female
 #end
 
 --- Elder Cleric (Amazon human), Gold: 130, Resources: 22, Roles: [priest] (warrior-priestess)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -10913,7 +10913,7 @@ female
 #end
 
 --- Minor Ravager (Amazon human), Gold: 45, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -10952,7 +10952,7 @@ female
 #end
 
 --- Grand Forest Ravager (Amazon human), Gold: 410, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -10999,7 +10999,7 @@ female
 #end
 
 --- Grand Reef Ravager (Amazon human), Gold: 360, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -11046,7 +11046,7 @@ female
 #end
 
 --- Hero (Amazon human), Gold: 0, Resources: 32, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -11094,11 +11094,11 @@ female
 #end
 
 --- Hero (Amazon human), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (230), sun awe, healerscaling
 #newmonster 4007
 #name "Hero"
@@ -11137,11 +11137,11 @@ female
 #end
 
 --- Hero (Amazon human), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (370), majorcoldres, forgebonus 2 secondary, lamialord 4, resource generator 15, shockres
 #newmonster 4008
 #name "Hero"
@@ -11234,10 +11234,10 @@ female
 #end
 
 --- Touomchisine Human Champion (Dynastic human), Gold: 10, Resources: 10, Roles: [ranged, elite ranged, sacred ranged] (human archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Ranged unit, fireres5
 #newmonster 4009
 #name "Touomchisine Human Champion"
@@ -11271,10 +11271,10 @@ female
 #end
 
 --- Touomchisine Human Slave Champion (Dynastic human), Gold: 7, Resources: 11, Roles: [ranged] (slave archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, fireres5
 #newmonster 4010
 #name "Touomchisine Human Slave Champion"
@@ -11308,11 +11308,11 @@ female
 #end
 
 --- Velite (Imperial human), Gold: 10, Resources: 2, Roles: [infantry] (velite)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4011
 #name "Velite"
@@ -11345,11 +11345,11 @@ female
 #end
 
 --- Milite (Imperial human), Gold: 10, Resources: 5, Roles: [infantry] (milite)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4012
 #name "Milite"
@@ -11380,11 +11380,11 @@ female
 #end
 
 --- Hastatus (Imperial human), Gold: 11, Resources: 4, Roles: [infantry] (hastatus)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4013
 #name "Hastatus"
@@ -11417,11 +11417,11 @@ female
 #end
 
 --- Principe (Imperial human), Gold: 14, Resources: 4, Roles: [infantry] (principe)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4014
 #name "Principe"
@@ -11454,11 +11454,11 @@ female
 #end
 
 --- Triarius (Imperial human), Gold: 15, Resources: 4, Roles: [infantry] (triarius)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4015
 #name "Triarius"
@@ -11491,7 +11491,7 @@ female
 #end
 
 --- Touomchisine Human Champion (Dynastic human), Gold: 35, Resources: 20, Roles: [human chariot, chariot, elite chariot, sacred chariot] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -11532,7 +11532,7 @@ female
 #end
 
 --- Translucent Disciple (Imperial human), Gold: 55, Resources: 9, Roles: [sacred infantry, elite infantry] (lictor)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [synonym: ["a supernatural healing factor", "the ability to recover from injuries"]], [primarycommand: [#ethereal, #heal]], [filterdesc: ["ethereal desc", "recuperation desc"]], [price_per_command: [#hp 1 10]], [sacred: []]
@@ -11569,7 +11569,7 @@ female
 #end
 
 --- Temple Bearkin (Imperial human), Gold: 35, Resources: 4, Roles: [sacred infantry, elite infantry] (corhors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -11609,10 +11609,10 @@ female
 #end
 
 --- Assassin (Imperial human), Gold: 50, Resources: 2, Roles: [ranged, scout] (ranged auxiliary)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 4019
 #name "Assassin"
@@ -11645,11 +11645,11 @@ female
 #end
 
 --- High Chieftain (Imperial human), Gold: 75, Resources: 4, Roles: [infantry] (triarius)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4020
 #name "High Chieftain"
@@ -11686,7 +11686,7 @@ female
 #end
 
 --- Swordsmaster (Dynastic human), Gold: 95, Resources: 20, Roles: [human chariot, chariot, elite chariot, sacred chariot] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -11731,7 +11731,7 @@ female
 #end
 
 --- Initiate Spellsinger (Imperial human), Gold: 65, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -11767,7 +11767,7 @@ female
 #end
 
 --- Grand Spellsinger (Imperial human), Gold: 105, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, -11
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -11804,7 +11804,7 @@ female
 #end
 
 --- Harvest Apprentice (Imperial human), Gold: 45, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -11841,7 +11841,7 @@ female
 #end
 
 --- Harvest Mage (Imperial human), Gold: 190, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -11879,7 +11879,7 @@ female
 #end
 
 --- Harvest Patriarch (Imperial human), Gold: 395, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -11920,7 +11920,7 @@ female
 #end
 
 --- Hero (Dynastic human), Gold: 0, Resources: 12, Roles: [infantry, elite infantry, sacred infantry] (human inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -11969,11 +11969,11 @@ female
 #end
 
 --- Hero (Dynastic human), Gold: 0, Resources: 2, Roles: [mage, priest] (T3 human)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (230), ivylord 1, greatbear, forgebonus 2 secondary, autodishealer2, regeneration, fireshield, fireres5
 #newmonster 4028
 #name "Hero"
@@ -12064,10 +12064,10 @@ female
 #end
 
 --- Assoran Auxiliary (Imperial human), Gold: 10, Resources: 4, Roles: [ranged, scout] (ranged auxiliary)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Ranged unit
 #newmonster 4029
 #name "Assoran Auxiliary"
@@ -12098,11 +12098,11 @@ female
 #end
 
 --- Velite (Imperial human), Gold: 10, Resources: 10, Roles: [infantry] (velite)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4030
 #name "Velite"
@@ -12135,11 +12135,11 @@ female
 #end
 
 --- Impaler (Imperial human), Gold: 10, Resources: 11, Roles: [infantry] (milite)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4031
 #name "Impaler"
@@ -12170,10 +12170,10 @@ female
 #end
 
 --- Assoran Human Irregular Champion (Dynastic human), Gold: 10, Resources: 11, Roles: [infantry, elite infantry, sacred infantry] (human legionary 2h inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -2
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit
 #newmonster 4032
 #name "Assoran Human Irregular Champion"
@@ -12207,10 +12207,10 @@ female
 #end
 
 --- Assoran Human Irregular Standard Bearer (Dynastic human), Gold: 25, Resources: 12, Roles: [infantry, elite infantry, sacred infantry] (human legionary 2h inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit
 #newmonster 4033
 #name "Assoran Human Irregular Standard Bearer"
@@ -12247,11 +12247,11 @@ female
 #end
 
 --- Assoran Human Impaler (Dynastic human), Gold: 10, Resources: 5, Roles: [infantry] (human auxiliary inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 4
 -- Armor: 0, 0
 -- Offhand: 1, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4034
 #name "Assoran Human Impaler"
@@ -12283,11 +12283,11 @@ female
 #end
 
 --- Assoran Human Auxiliary (Dynastic human), Gold: 10, Resources: 5, Roles: [infantry] (human auxiliary inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 1, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4035
 #name "Assoran Human Auxiliary"
@@ -12319,11 +12319,11 @@ female
 #end
 
 --- Assoran Human Impaler (Dynastic human), Gold: 10, Resources: 5, Roles: [infantry] (human auxiliary inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 3
 -- Armor: 0, 0
 -- Offhand: 1, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4036
 #name "Assoran Human Impaler"
@@ -12355,11 +12355,11 @@ female
 #end
 
 --- Assoran Human Champion (Dynastic human), Gold: 10, Resources: 11, Roles: [infantry, elite infantry, sacred infantry] (human legionary inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 1, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4037
 #name "Assoran Human Champion"
@@ -12393,7 +12393,7 @@ female
 #end
 
 --- Assoran Dustwalker Camel Champion (Dynastic human), Gold: 100, Resources: 32, Roles: [chariot, elite chariot, sacred chariot] (dustwalker chariot)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -12444,7 +12444,7 @@ female
 #end
 
 --- Fire Guard (Dynastic human), Gold: 40, Resources: 36, Roles: [elite infantry, sacred infantry] (imperial inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 5
 -- Armor: 0, 0
 -- Offhand: 1, 0
@@ -12491,7 +12491,7 @@ female
 #end
 
 --- Destroyer of Fire (Dynastic human), Gold: 55, Resources: 23, Roles: [elite infantry, sacred infantry] (2h imperial inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [death]], [primarycommand: [#blind]], [filterdesc: ["darkpower desc"]], [sacred: []]
@@ -12539,10 +12539,10 @@ female
 #end
 
 --- Spy (Dynastic human), Gold: 50, Resources: 3, Roles: [scout] (human scout)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy
 #newmonster 4041
 #name "Spy"
@@ -12577,11 +12577,11 @@ female
 #end
 
 --- Commanding Champion (Dynastic human), Gold: 70, Resources: 5, Roles: [infantry] (human auxiliary inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 3
 -- Armor: 0, 0
 -- Offhand: 1, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4042
 #name "Commanding Champion"
@@ -12617,10 +12617,10 @@ female
 #end
 
 --- Tribune (Dynastic human), Gold: 70, Resources: 11, Roles: [infantry, elite infantry, sacred infantry] (human legionary 2h inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -2
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit
 #newmonster 4043
 #name "Tribune"
@@ -12658,7 +12658,7 @@ female
 #end
 
 --- Proconsul (Dynastic human), Gold: 150, Resources: 32, Roles: [chariot, elite chariot, sacred chariot] (dustwalker chariot)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -12712,7 +12712,7 @@ female
 #end
 
 --- Promagistrate (Dynastic human), Gold: 115, Resources: 33, Roles: [elite infantry, sacred infantry] (imperial inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 5
 -- Armor: 0, 0
 -- Offhand: 1, 0
@@ -12762,7 +12762,7 @@ female
 #end
 
 --- Fledgling Priest (Dynastic human), Gold: 90, Resources: 1, Roles: [mage, priest] (T1 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -12811,7 +12811,7 @@ female
 #end
 
 --- Supreme Priest (Dynastic human), Gold: 180, Resources: 2, Roles: [mage, priest] (T2 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -12861,7 +12861,7 @@ female
 #end
 
 --- Scion of the Honored Scriptures (Imperial human), Gold: 135, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -12903,7 +12903,7 @@ female
 #end
 
 --- Novice Plague Reborn (Imperial human), Gold: 45, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -12941,7 +12941,7 @@ female
 #end
 
 --- Journeyman Plague Reborn (Dynastic human), Gold: 260, Resources: 1, Roles: [mage, priest] (T2 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -12991,7 +12991,7 @@ female
 #end
 
 --- Great Plague Reborn (Dynastic human), Gold: 365, Resources: 4, Roles: [mage, priest] (T3 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -13044,11 +13044,11 @@ female
 #end
 
 --- Hero (Dynastic human), Gold: 0, Resources: 1, Roles: [mage, priest] (T3 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (290), deathrec, cold resource generator 10, fireshield, makepearls, greatboar
 #newmonster 4052
 #name "Hero"
@@ -13101,11 +13101,11 @@ female
 #end
 
 --- Hero (Dynastic human), Gold: 0, Resources: 1, Roles: [mage, priest] (T3 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (250), fear, forgebonus 2 secondary, autohealer 3, resource generator 15
 #newmonster 4053
 #name "Hero"
@@ -13156,11 +13156,11 @@ female
 #end
 
 --- Hero (Dynastic human), Gold: 0, Resources: 2, Roles: [mage, priest] (T3 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), healerscaling, spider, resource generator 15
 #newmonster 4054
 #name "Hero"
@@ -13246,10 +13246,10 @@ female
 #end
 
 --- Murgjaganic Champion (Caelian), Gold: 10, Resources: 24, Roles: [ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, poisonres5
 #newmonster 4055
 #name "Murgjaganic Champion"
@@ -13284,11 +13284,11 @@ female
 #end
 
 --- Murgjaganic Heavy Lancer (Caelian), Gold: 12, Resources: 30, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit, poisonres5
 #newmonster 4056
 #name "Murgjaganic Heavy Lancer"
@@ -13323,11 +13323,11 @@ female
 #end
 
 --- Murgjaganic Wingless Swordsman (Caelian), Gold: 10, Resources: 18, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5
 #newmonster 4057
 #name "Murgjaganic Wingless Swordsman"
@@ -13360,11 +13360,11 @@ female
 #end
 
 --- Murgjaganic Wingless Champion (Caelian), Gold: 10, Resources: 17, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5
 #newmonster 4058
 #name "Murgjaganic Wingless Champion"
@@ -13397,11 +13397,11 @@ female
 #end
 
 --- Murgjaganic Wingless Lancer (Caelian), Gold: 10, Resources: 16, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5
 #newmonster 4059
 #name "Murgjaganic Wingless Lancer"
@@ -13434,11 +13434,11 @@ female
 #end
 
 --- Murgjaganic Swordsman (Caelian), Gold: 10, Resources: 24, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5
 #newmonster 4060
 #name "Murgjaganic Swordsman"
@@ -13473,11 +13473,11 @@ female
 #end
 
 --- Murgjaganic Lancer (Caelian), Gold: 10, Resources: 23, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5
 #newmonster 4061
 #name "Murgjaganic Lancer"
@@ -13512,11 +13512,11 @@ female
 #end
 
 --- Murgjaganic Swordsman (Caelian), Gold: 10, Resources: 25, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5
 #newmonster 4062
 #name "Murgjaganic Swordsman"
@@ -13552,7 +13552,7 @@ female
 #end
 
 --- Illusion Marauder (Caelian), Gold: 20, Resources: 25, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 2
@@ -13596,10 +13596,10 @@ female
 --- Hydra (Unit ID 1831), Gold: 250, Resources: 1
 
 --- Spy (Caelian), Gold: 55, Resources: 8, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy, poisonres5
 #newmonster 4064
 #name "Spy"
@@ -13636,11 +13636,11 @@ female
 #end
 
 --- Sword Commander (Caelian), Gold: 60, Resources: 25, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5
 #newmonster 4065
 #name "Sword Commander"
@@ -13679,11 +13679,11 @@ female
 #end
 
 --- General (Caelian), Gold: 95, Resources: 30, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit, poisonres5
 #newmonster 4066
 #name "General"
@@ -13722,7 +13722,7 @@ female
 #end
 
 --- High Priest (Caelian), Gold: 50, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -13762,7 +13762,7 @@ female
 #end
 
 --- Junior Abbot of the Cult (Caelian), Gold: 65, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -13802,7 +13802,7 @@ female
 #end
 
 ---  Abbot of the Cult (Caelian), Gold: 200, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -13845,7 +13845,7 @@ female
 #end
 
 --- Chosen Abbot of the Cult (Caelian), Gold: 430, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -13893,11 +13893,11 @@ female
 #end
 
 --- Library-Keeper (Caelian), Gold: 50, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Librarian, poisonres5
 #newmonster 4071
 #name "Library-Keeper"
@@ -13932,7 +13932,7 @@ female
 #end
 
 --- Hero (Caelian), Gold: 0, Resources: 40, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 2
@@ -13975,11 +13975,11 @@ female
 #end
 
 --- Hero (Caelian), Gold: 0, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (290), illearth, bear, resource generator 15, poisonres5
 #newmonster 4073
 #name "Hero"
@@ -14022,11 +14022,11 @@ female
 #end
 
 --- Hero (Caelian), Gold: 0, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), inquisitor, healerscaling 2, resource generator 15, better researcher +1, poisonres5
 #newmonster 4074
 #name "Hero"
@@ -14072,11 +14072,11 @@ female
 --- Unit definitions for Cerium
 
 --- Ceriumian Human Slave Auxiliary (Dynastic human), Gold: 7, Resources: 10, Roles: [ranged] (slave archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4075
 #name "Ceriumian Human Slave Auxiliary"
@@ -14111,11 +14111,11 @@ female
 #end
 
 --- Ceriumian Human Knight (Dynastic human), Gold: 12, Resources: 21, Roles: [infantry] (human auxiliary inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: 1, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 4076
 #name "Ceriumian Human Knight"
@@ -14149,11 +14149,11 @@ female
 #end
 
 --- Ceriumian Human Falchion Auxiliary (Dynastic human), Gold: 10, Resources: 5, Roles: [infantry] (human auxiliary inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 1, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4077
 #name "Ceriumian Human Falchion Auxiliary"
@@ -14185,11 +14185,11 @@ female
 #end
 
 --- Ceriumian Human Auxiliary (Dynastic human), Gold: 10, Resources: 4, Roles: [infantry] (human auxiliary inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 8
 -- Armor: 0, 0
 -- Offhand: 1, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4078
 #name "Ceriumian Human Auxiliary"
@@ -14221,11 +14221,11 @@ female
 #end
 
 --- Ceriumian Human Trident Auxiliary (Dynastic human), Gold: 10, Resources: 5, Roles: [infantry] (human auxiliary inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 4
 -- Armor: 0, 0
 -- Offhand: 1, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4079
 #name "Ceriumian Human Trident Auxiliary"
@@ -14257,11 +14257,11 @@ female
 #end
 
 --- Ceriumian Human Champion (Dynastic human), Gold: 10, Resources: 12, Roles: [infantry, elite infantry, sacred infantry] (human legionary inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 8
 -- Armor: 0, 0
 -- Offhand: 1, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4080
 #name "Ceriumian Human Champion"
@@ -14295,11 +14295,11 @@ female
 #end
 
 --- Ceriumian Human Falchion Champion (Dynastic human), Gold: 10, Resources: 13, Roles: [infantry, elite infantry, sacred infantry] (human legionary inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 1, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4081
 #name "Ceriumian Human Falchion Champion"
@@ -14333,7 +14333,7 @@ female
 #end
 
 --- Companion of Flame (Dynastic human), Gold: 40, Resources: 25, Roles: [elite infantry, sacred infantry] (imperial inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, 8
 -- Armor: 0, 0
 -- Offhand: 1, 0
@@ -14380,10 +14380,10 @@ female
 #end
 
 --- Scout (Dynastic human), Gold: 30, Resources: 10, Roles: [scout] (human scout)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 4083
 #name "Scout"
@@ -14418,11 +14418,11 @@ female
 #end
 
 --- Tribune (Dynastic human), Gold: 40, Resources: 5, Roles: [infantry] (human auxiliary inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 1, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4084
 #name "Tribune"
@@ -14455,11 +14455,11 @@ female
 #end
 
 --- Praetor (Dynastic human), Gold: 70, Resources: 21, Roles: [infantry] (human auxiliary inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: 1, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 4085
 #name "Praetor"
@@ -14496,7 +14496,7 @@ female
 #end
 
 --- Proconsul (Dynastic human), Gold: 130, Resources: 22, Roles: [elite infantry, sacred infantry] (imperial inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, 8
 -- Armor: 0, 0
 -- Offhand: 1, 0
@@ -14546,7 +14546,7 @@ female
 #end
 
 --- Inferior Abbot (Dynastic human), Gold: 90, Resources: 3, Roles: [mage, priest] (T1 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -14596,7 +14596,7 @@ female
 #end
 
 ---  Abbot (Dynastic human), Gold: 170, Resources: 3, Roles: [mage, priest] (T2 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -14647,7 +14647,7 @@ female
 #end
 
 --- Elder Abbot (Dynastic human), Gold: 250, Resources: 3, Roles: [mage, priest] (T3 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -14696,7 +14696,7 @@ female
 #end
 
 --- Ceriumian Neophyte (Dynastic human), Gold: 75, Resources: 4, Roles: [mage, priest] (T1 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -14745,7 +14745,7 @@ female
 #end
 
 --- Sorcerer of Chosen Rage (Dynastic human), Gold: 155, Resources: 5, Roles: [mage, priest] (T2 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -14793,7 +14793,7 @@ female
 #end
 
 --- Sorcerer of the Chosen Fire (Dynastic human), Gold: 170, Resources: 4, Roles: [mage, priest] (T2 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -14841,7 +14841,7 @@ female
 #end
 
 --- Bringer of Chosen Rage (Dynastic human), Gold: 280, Resources: 4, Roles: [mage, priest] (T3 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -14892,7 +14892,7 @@ female
 #end
 
 --- Bringer of the Chosen Fire (Dynastic human), Gold: 280, Resources: 4, Roles: [mage, priest] (T3 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -14943,11 +14943,11 @@ female
 #end
 
 --- Engineer (Dynastic human), Gold: 70, Resources: 3, Roles: [mage, priest] (T3 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: siege engineer
 #newmonster 4095
 #name "Engineer"
@@ -14993,11 +14993,11 @@ female
 #end
 
 --- Hero (Dynastic human), Gold: 0, Resources: 13, Roles: [mage, priest] (T3 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (390), flying, falsearmy, majorfireres, nobadevents2, fireshield, fear
 #newmonster 4096
 #name "Hero"
@@ -15086,10 +15086,10 @@ female
 #end
 
 --- Sinamian Champion (Dantih), Gold: 70, Resources: 40, Roles: [ranged, elite ranged, sacred ranged] (tusked one archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, strong
 #newmonster 4097
 #name "Sinamian Champion"
@@ -15123,10 +15123,10 @@ female
 #end
 
 --- Sinamian Greatbow Champion (Dantih), Gold: 70, Resources: 35, Roles: [ranged, elite ranged, sacred ranged] (tusked one archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, strong
 #newmonster 4098
 #name "Sinamian Greatbow Champion"
@@ -15160,11 +15160,11 @@ female
 #end
 
 --- Sinamian Wasteland Spearman (Dantih), Gold: 70, Resources: 27, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: wasteunit, Infantry unit, strong
 #newmonster 4099
 #name "Sinamian Wasteland Spearman"
@@ -15199,11 +15199,11 @@ female
 #end
 
 --- Sinamian Wasteland Champion (Dantih), Gold: 70, Resources: 25, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: wasteunit, Infantry unit, strong
 #newmonster 4100
 #name "Sinamian Wasteland Champion"
@@ -15238,11 +15238,11 @@ female
 #end
 
 --- Sinamian Spear Champion (Dantih), Gold: 70, Resources: 30, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: pillager, Infantry unit, strong
 #newmonster 4101
 #name "Sinamian Spear Champion"
@@ -15277,7 +15277,7 @@ female
 #end
 
 --- Plane Destroyer (Dantih), Gold: 85, Resources: 57, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -15316,7 +15316,7 @@ female
 #end
 
 --- Astral Disciple (Dantih), Gold: 145, Resources: 72, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -15357,11 +15357,11 @@ female
 #end
 
 --- Scout (Dantih), Gold: 60, Resources: 10, Roles: [infantry, scout] (tusked one youths)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -29, -53
 -- Armor: 0, 0
 -- Offhand: -36, -58
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout, strong
 #newmonster 4104
 #name "Scout"
@@ -15401,11 +15401,11 @@ female
 #end
 
 --- Spearmaster (Dantih), Gold: 100, Resources: 27, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: wasteunit, Infantry unit, strong
 #newmonster 4105
 #name "Spearmaster"
@@ -15442,7 +15442,7 @@ female
 #end
 
 --- Warden (Dantih), Gold: 155, Resources: 60, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -15485,7 +15485,7 @@ female
 #end
 
 --- Deacon (Dantih), Gold: 130, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -15523,7 +15523,7 @@ female
 #end
 
 --- Vicar (Dantih), Gold: 195, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -15562,7 +15562,7 @@ female
 #end
 
 --- Anathemant (Dantih), Gold: 285, Resources: 7, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [3]]
@@ -15602,7 +15602,7 @@ female
 #end
 
 --- Novice Theurg of the Mountains (Dantih), Gold: 105, Resources: 7, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]]
@@ -15642,7 +15642,7 @@ female
 #end
 
 --- Fabricator of the Mountains (Dantih), Gold: 235, Resources: 7, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [helmet]]
@@ -15684,7 +15684,7 @@ female
 #end
 
 --- Creator of the Mountains (Dantih), Gold: 235, Resources: 12, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [helmet]]
@@ -15726,7 +15726,7 @@ female
 #end
 
 --- Arch Theurg of the Mountains (Dantih), Gold: 355, Resources: 7, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [helmet]]
@@ -15768,10 +15768,10 @@ female
 #end
 
 --- Hero (Dantih), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), resource generator 25, fireshield, illearth, nobadevents3, strong
 #newmonster 4114
 #name "Hero"
@@ -15814,7 +15814,7 @@ female
 #end
 
 --- Hero (Feudal human), Gold: 0, Resources: 21, Roles: [sacred infantry, elite infantry] (sleeper infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -15926,10 +15926,10 @@ female
 #end
 
 --- Lhothan Champion (Pale One), Gold: 9, Resources: 34, Roles: [sacred, ranged] (ranged_steel)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4116
 #name "Lhothan Champion"
@@ -15970,10 +15970,10 @@ female
 #end
 
 --- Lhothan Champion (Pale One), Gold: 19, Resources: 33, Roles: [sacred, ranged] (ranged_steel)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4117
 #name "Lhothan Champion"
@@ -16014,10 +16014,10 @@ female
 #end
 
 --- Lhothan Swamp Impaler (Pale One), Gold: 9, Resources: 9, Roles: [infantry, sacred] (infantry_steel)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 4118
 #name "Lhothan Swamp Impaler"
@@ -16057,11 +16057,11 @@ female
 #end
 
 --- Lhothan Swamp Impaler (Pale One), Gold: 9, Resources: 12, Roles: [infantry, sacred] (infantry_steel)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 4119
 #name "Lhothan Swamp Impaler"
@@ -16102,11 +16102,11 @@ female
 #end
 
 --- Lhothan Trident Champion (Pale One), Gold: 9, Resources: 19, Roles: [infantry, sacred] (infantry_steel)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4120
 #name "Lhothan Trident Champion"
@@ -16147,11 +16147,11 @@ female
 #end
 
 --- Lhothan Spear Champion (Pale One), Gold: 9, Resources: 18, Roles: [infantry, sacred] (infantry_steel)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4121
 #name "Lhothan Spear Champion"
@@ -16192,7 +16192,7 @@ female
 #end
 
 --- Vindicator of Summer (Pale One), Gold: 40, Resources: 44, Roles: [sacred infantry] (ancient_steel)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [fire]], [filterdesc: ["summerpower desc"]], [sacred: []]
@@ -16238,10 +16238,10 @@ female
 #end
 
 --- Spy (Pale One), Gold: 50, Resources: 6, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy
 #newmonster 4123
 #name "Spy"
@@ -16284,10 +16284,10 @@ female
 #end
 
 --- Fen Commander (Pale One), Gold: 50, Resources: 9, Roles: [infantry, sacred] (infantry_steel)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 4124
 #name "Fen Commander"
@@ -16330,11 +16330,11 @@ female
 #end
 
 --- Commanding Champion (Pale One), Gold: 70, Resources: 19, Roles: [infantry, sacred] (infantry_steel)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4125
 #name "Commanding Champion"
@@ -16379,7 +16379,7 @@ female
 #end
 
 --- Fledgling Abbot (Pale One), Gold: 50, Resources: 1, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -16423,7 +16423,7 @@ female
 #end
 
 --- Paramount Abbot (Pale One), Gold: 140, Resources: 1, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -16468,7 +16468,7 @@ female
 #end
 
 --- Initiate Frost Evoker (Pale One), Gold: 85, Resources: 1, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]]
@@ -16513,7 +16513,7 @@ female
 #end
 
 --- Journeyman Frost Evoker (Pale One), Gold: 225, Resources: 4, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]]
@@ -16564,7 +16564,7 @@ female
 #end
 
 --- Master Frost Evoker (Pale One), Gold: 385, Resources: 40, Roles: [mage, priest] (ancient_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [helmet]]
@@ -16618,10 +16618,10 @@ female
 #end
 
 --- Hero (Pale One), Gold: 0, Resources: 1, Roles: [mage, priest] (ancient_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (290), majorfireres, flying, resource generator 10, metalman: size 2, dragonlord 1, thug-tier2
 #newmonster 4131
 #name "Hero"
@@ -16670,10 +16670,10 @@ female
 #end
 
 --- Hero (Pale One), Gold: 0, Resources: 1, Roles: [mage, priest] (ancient_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (290), resource generator 15, werehyena, corpselord 2
 #newmonster 4132
 #name "Hero"
@@ -16816,10 +16816,10 @@ female
 #end
 
 --- Gaenish Champion (Caelian), Gold: 15, Resources: 7, Roles: [ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4133
 #name "Gaenish Champion"
@@ -16853,10 +16853,10 @@ female
 #end
 
 --- Gaenish Bandar Legionary (Primate), Gold: 16, Resources: 19, Roles: [ranged] (bandar archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4134
 #name "Gaenish Bandar Legionary"
@@ -16891,11 +16891,11 @@ female
 #end
 
 --- Gaenish Heavy Swordsman (Caelian), Gold: 15, Resources: 30, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4135
 #name "Gaenish Heavy Swordsman"
@@ -16929,11 +16929,11 @@ female
 #end
 
 --- Gaenish Spear Champion (Caelian), Gold: 15, Resources: 27, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4136
 #name "Gaenish Spear Champion"
@@ -16967,10 +16967,10 @@ female
 #end
 
 --- Gaenish Maul Champion (Caelian), Gold: 15, Resources: 23, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4137
 #name "Gaenish Maul Champion"
@@ -17003,11 +17003,11 @@ female
 #end
 
 --- Gaenish Swordsman (Caelian), Gold: 15, Resources: 28, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4138
 #name "Gaenish Swordsman"
@@ -17041,11 +17041,11 @@ female
 #end
 
 --- Gaenish Bandar Javelin Champion (Primate), Gold: 12, Resources: 1, Roles: [infantry] (bandar gladiators)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: gladiator, Infantry unit
 #newmonster 4139
 #name "Gaenish Bandar Javelin Champion"
@@ -17081,11 +17081,11 @@ female
 #end
 
 --- Gaenish Bandar Javelin Swordsman (Primate), Gold: 12, Resources: 1, Roles: [infantry] (bandar gladiators)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: gladiator, Infantry unit
 #newmonster 4140
 #name "Gaenish Bandar Javelin Swordsman"
@@ -17121,7 +17121,7 @@ female
 #end
 
 --- Gaenish Vanara Legionary (Primate), Gold: 45, Resources: 14, Roles: [mounted] (vanara cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -17163,7 +17163,7 @@ female
 #end
 
 --- Just Champion (Caelian), Gold: 20, Resources: 14, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 2
@@ -17205,7 +17205,7 @@ female
 #end
 
 --- Volcano Reaver (Primate), Gold: 35, Resources: 36, Roles: [sacred infantry, elite infantry] (bandar elite infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["allres desc"]], [sacred: []]
@@ -17249,10 +17249,10 @@ female
 --- Hydra Hatchling (Unit ID 1840), Gold: 35, Resources: 1
 
 --- Assassin (Caelian), Gold: 55, Resources: 8, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 4144
 #name "Assassin"
@@ -17288,11 +17288,11 @@ female
 #end
 
 --- General (Caelian), Gold: 55, Resources: 28, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4145
 #name "General"
@@ -17328,7 +17328,7 @@ female
 #end
 
 --- Elite Commander (Primate), Gold: 95, Resources: 14, Roles: [mounted] (vanara cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -17374,7 +17374,7 @@ female
 #end
 
 --- Master Champion (Caelian), Gold: 85, Resources: 14, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 2
@@ -17419,7 +17419,7 @@ female
 #end
 
 --- Novice Exarch (Caelian), Gold: 60, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -17459,7 +17459,7 @@ female
 #end
 
 --- Grand Exarch (Caelian), Gold: 125, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -17502,7 +17502,7 @@ female
 #end
 
 --- Gossamer Follower (Caelian), Gold: 160, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -17544,7 +17544,7 @@ female
 #end
 
 --- Young Lava Geomancer (Caelian), Gold: 120, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -17590,7 +17590,7 @@ female
 #end
 
 --- Adept Lava Geomancer (Caelian), Gold: 160, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -17630,7 +17630,7 @@ female
 #end
 
 --- Elder Lava Geomancer (Caelian), Gold: 335, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -17674,11 +17674,11 @@ female
 #end
 
 --- Mountebank (Caelian), Gold: 70, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: heretic
 #newmonster 4154
 #name "Mountebank"
@@ -17713,11 +17713,11 @@ female
 #end
 
 --- Hero (Caelian), Gold: 0, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (230), chaosrec, forgebonus 2 primary, majorfireres, resource generator 15, heretic, invulnerable10, regeneration
 #newmonster 4155
 #name "Hero"
@@ -17762,7 +17762,7 @@ female
 #end
 
 --- Hero (Primate), Gold: 0, Resources: 40, Roles: [sacred infantry, elite infantry] (bandar elite infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 3, 3
@@ -17812,7 +17812,7 @@ female
 #end
 
 --- Hero (Caelian), Gold: 0, Resources: 45, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -17895,10 +17895,10 @@ female
 #end
 
 --- Lekvanstadian Serf Hirdman (Van), Gold: 8, Resources: 10, Roles: [ranged] (serf archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: serf, Ranged unit, coldres5, poisonres5
 #newmonster 4158
 #name "Lekvanstadian Serf Hirdman"
@@ -17932,11 +17932,11 @@ female
 #end
 
 --- Lekvanstadian Raptor Flying Axeman (Caelian), Gold: 10, Resources: 11, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4159
 #name "Lekvanstadian Raptor Flying Axeman"
@@ -17971,11 +17971,11 @@ female
 #end
 
 --- Lekvanstadian Sword Hirdman (Van), Gold: 25, Resources: 11, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, coldres5, poisonres5
 #newmonster 4160
 #name "Lekvanstadian Sword Hirdman"
@@ -18011,11 +18011,11 @@ female
 #end
 
 --- Lekvanstadian Spetum Hirdman (Van), Gold: 25, Resources: 11, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, coldres5, poisonres5
 #newmonster 4161
 #name "Lekvanstadian Spetum Hirdman"
@@ -18051,11 +18051,11 @@ female
 #end
 
 --- Lekvanstadian Axeman (Van), Gold: 25, Resources: 10, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, coldres5, poisonres5
 #newmonster 4162
 #name "Lekvanstadian Axeman"
@@ -18091,11 +18091,11 @@ female
 #end
 
 --- Lekvanstadian Javelin Axeman (Van), Gold: 25, Resources: 10, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit, coldres5, poisonres5
 #newmonster 4163
 #name "Lekvanstadian Javelin Axeman"
@@ -18133,11 +18133,11 @@ female
 #end
 
 --- Lekvanstadian Javelin Hirdman (Van), Gold: 25, Resources: 11, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit, coldres5, poisonres5
 #newmonster 4164
 #name "Lekvanstadian Javelin Hirdman"
@@ -18175,11 +18175,11 @@ female
 #end
 
 --- Lekvanstadian Serf Axeman (Van), Gold: 8, Resources: 8, Roles: [infantry] (serf infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -11, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: serf, Infantry unit, coldres5, poisonres5
 #newmonster 4165
 #name "Lekvanstadian Serf Axeman"
@@ -18213,7 +18213,7 @@ female
 #end
 
 --- Lekvanstadian Thane (Van), Gold: 55, Resources: 15, Roles: [mounted, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -18256,7 +18256,7 @@ female
 #end
 
 --- Hunter of Illusions (Van), Gold: 40, Resources: 16, Roles: [sacred infantry, elite infantry] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -18298,10 +18298,10 @@ female
 #end
 
 --- Scout (Van), Gold: 45, Resources: 8, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout, coldres5, poisonres5
 #newmonster 4168
 #name "Scout"
@@ -18339,11 +18339,11 @@ female
 #end
 
 --- Castellan (Van), Gold: 85, Resources: 10, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit, coldres5, poisonres5
 #newmonster 4169
 #name "Castellan"
@@ -18385,11 +18385,11 @@ female
 #end
 
 --- Flying Commander (Caelian), Gold: 60, Resources: 11, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4170
 #name "Flying Commander"
@@ -18427,7 +18427,7 @@ female
 #end
 
 --- Master Thane (Van), Gold: 115, Resources: 15, Roles: [mounted, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -18473,7 +18473,7 @@ female
 #end
 
 --- Novice Tutor (Van), Gold: 70, Resources: 4, Roles: [priest] (Tier 1-2 Priests)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, -3
 -- Offhand: 0, -3
@@ -18515,7 +18515,7 @@ female
 #end
 
 --- Greater Tutor (Van), Gold: 135, Resources: 5, Roles: [priest] (Tier 1-2 Priests)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, -3
 -- Offhand: 0, -3
@@ -18557,7 +18557,7 @@ female
 #end
 
 --- Young Devastator (Van), Gold: 105, Resources: 1, Roles: [mage] (Tier 1 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, -3
 -- Offhand: 0, -3
@@ -18601,7 +18601,7 @@ female
 #end
 
 --- Greater Bloodstone Devastator (Van), Gold: 300, Resources: 17, Roles: [mage] (Tier 3 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -18653,7 +18653,7 @@ female
 #end
 
 --- Greater Storm Devastator (Van), Gold: 285, Resources: 19, Roles: [mage] (Tier 3 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -18706,7 +18706,7 @@ female
 #end
 
 --- Hero (Van), Gold: 0, Resources: 21, Roles: [sacred infantry, elite infantry] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -18753,7 +18753,7 @@ female
 #end
 
 --- Hero (Van), Gold: 0, Resources: 16, Roles: [elite mounted, sacred mounted] (mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -18804,7 +18804,7 @@ female
 #end
 
 --- Hero (Van), Gold: 0, Resources: 17, Roles: [sacred infantry, elite infantry] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -19587,10 +19587,10 @@ female
 #end
 
 --- Abysbosese Champion (Amazon human), Gold: 30, Resources: 11, Roles: [ranged, elite ranged, sacred ranged] (bow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, -1
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4180
 #name "Abysbosese Champion"
@@ -19629,10 +19629,10 @@ female
 #end
 
 --- Abysbosese Heavy Hammerer (Amazon human), Gold: 30, Resources: 13, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Infantry unit
 #newmonster 4181
 #name "Abysbosese Heavy Hammerer"
@@ -19670,11 +19670,11 @@ female
 #end
 
 --- Abysbosese Spear Champion (Amazon human), Gold: 30, Resources: 14, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Infantry unit
 #newmonster 4182
 #name "Abysbosese Spear Champion"
@@ -19713,10 +19713,10 @@ female
 #end
 
 --- Abysbosese Hammerer (Amazon human), Gold: 35, Resources: 6, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 4183
 #name "Abysbosese Hammerer"
@@ -19753,10 +19753,10 @@ female
 #end
 
 --- Abysbosese Pike Champion (Amazon human), Gold: 30, Resources: 9, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4184
 #name "Abysbosese Pike Champion"
@@ -19793,11 +19793,11 @@ female
 #end
 
 --- Abysbosese Spear Champion (Amazon human), Gold: 30, Resources: 10, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4185
 #name "Abysbosese Spear Champion"
@@ -19835,11 +19835,11 @@ female
 #end
 
 --- Abysbosese Heavy Hammerer (Amazon human), Gold: 30, Resources: 10, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4186
 #name "Abysbosese Heavy Hammerer"
@@ -19877,7 +19877,7 @@ female
 #end
 
 --- Just Champion (Amazon human), Gold: 70, Resources: 10, Roles: [ranged, elite ranged, sacred ranged] (Xbow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, 4
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["sun awe desc"]], [price_per_command: [#hp 1 10]], [sacred: []]
@@ -19921,10 +19921,10 @@ female
 #end
 
 --- Scout (Amazon human), Gold: 50, Resources: 4, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 4188
 #name "Scout"
@@ -19964,10 +19964,10 @@ female
 #end
 
 --- Castellan (Amazon human), Gold: 80, Resources: 13, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Infantry unit
 #newmonster 4189
 #name "Castellan"
@@ -20008,11 +20008,11 @@ female
 #end
 
 --- Spearmistress (Amazon human), Gold: 90, Resources: 14, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Infantry unit
 #newmonster 4190
 #name "Spearmistress"
@@ -20055,7 +20055,7 @@ female
 #end
 
 --- Lady (Amazon human), Gold: 120, Resources: 10, Roles: [ranged, elite ranged, sacred ranged] (Xbow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, 4
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["sun awe desc"]], [price_per_command: [#hp 1 10]], [sacred: []]
@@ -20101,7 +20101,7 @@ female
 #end
 
 --- Fledgling Bishop (Amazon human), Gold: 90, Resources: 9, Roles: [mage, priest] (warrior-mage)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -20147,7 +20147,7 @@ female
 #end
 
 ---  Bishop (Amazon human), Gold: 145, Resources: 9, Roles: [mage, priest] (warrior-mage)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -20193,7 +20193,7 @@ female
 #end
 
 --- Ancient Bishop (Amazon human), Gold: 250, Resources: 9, Roles: [mage, priest] (warrior-mage)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -20240,7 +20240,7 @@ female
 #end
 
 --- Novice Abysbosese Astrologer (Amazon human), Gold: 160, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -20285,7 +20285,7 @@ female
 #end
 
 ---  Abysbosese Astrologer (Amazon human), Gold: 225, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -20331,7 +20331,7 @@ female
 #end
 
 --- Ancient Wraith Astrologer (Amazon human), Gold: 365, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -20379,7 +20379,7 @@ female
 #end
 
 --- Ancient Putrid Astrologer (Amazon human), Gold: 325, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -20426,11 +20426,11 @@ female
 #end
 
 --- Atheist (Amazon human), Gold: 90, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: heretic
 #newmonster 4199
 #name "Atheist"
@@ -20470,11 +20470,11 @@ female
 #end
 
 --- Hero (Amazon human), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), recuperation, ethereal2, deathrec
 #newmonster 4200
 #name "Hero"
@@ -20521,7 +20521,7 @@ female
 #end
 
 --- Hero (Amazon human), Gold: 0, Resources: 17, Roles: [ranged, elite ranged, sacred ranged] (bow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, -1
 -- Armor: 0, 0
 --- Generation tags: [path: [nature]], [elite: []], [nopose: [chariot]], [filterdesc: ["stealthy desc", "regeneration desc"]], [price_per_command: [hp 1 10]]
@@ -20567,11 +20567,11 @@ female
 #end
 
 --- Hero (Amazon human), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (250), fireshield, invulnerable10, better researcher +3 - tier 3 mages, makepearls, resource generator 10, holy, nobadevents1
 #newmonster 4202
 #name "Hero"
@@ -20685,10 +20685,10 @@ female
 #end
 
 --- Druichainnan Heavy Champion (Fir Bolg), Gold: 13, Resources: 10, Roles: [ranged, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, Gluttonous
 #newmonster 4203
 #name "Druichainnan Heavy Champion"
@@ -20721,10 +20721,10 @@ female
 #end
 
 --- Druichainnan Heavy Champion (Fir Bolg), Gold: 13, Resources: 11, Roles: [ranged, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, Gluttonous
 #newmonster 4204
 #name "Druichainnan Heavy Champion"
@@ -20757,11 +20757,11 @@ female
 #end
 
 --- Druichainnan Human Slave Champion (Dynastic human), Gold: 7, Resources: 4, Roles: [infantry] (slave inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4205
 #name "Druichainnan Human Slave Champion"
@@ -20794,11 +20794,11 @@ female
 #end
 
 --- Druichainnan Heavy Spearman (Fir Bolg), Gold: 13, Resources: 24, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Gluttonous
 #newmonster 4206
 #name "Druichainnan Heavy Spearman"
@@ -20831,11 +20831,11 @@ female
 #end
 
 --- Druichainnan Spearman (Fir Bolg), Gold: 13, Resources: 18, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Gluttonous
 #newmonster 4207
 #name "Druichainnan Spearman"
@@ -20867,7 +20867,7 @@ female
 #end
 
 --- Druichainnan Elite Spearmaster (Fir Bolg), Gold: 40, Resources: 17, Roles: [mounted] (cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -20908,7 +20908,7 @@ female
 #end
 
 --- Druichainnan Champion (Fir Bolg), Gold: 28, Resources: 6, Roles: [mounted] (cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -20948,7 +20948,7 @@ female
 #end
 
 --- Green Herald (Fir Bolg), Gold: 16, Resources: 5, Roles: [ranged, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [nature]], [elite: []], [nopose: [chariot]], [filterdesc: ["regeneration desc"]], [price_per_command: [hp 1 10]]
@@ -20984,7 +20984,7 @@ female
 #end
 
 --- Avenging Avenger (Fir Bolg), Gold: 18, Resources: 7, Roles: [ranged, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["airshield desc"]], [sacred: []]
@@ -21021,10 +21021,10 @@ female
 #end
 
 --- Spy (Fir Bolg), Gold: 55, Resources: 4, Roles: [ranged, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy, Gluttonous
 #newmonster 4212
 #name "Spy"
@@ -21059,11 +21059,11 @@ female
 #end
 
 --- Warchief (Dynastic human), Gold: 50, Resources: 4, Roles: [infantry] (slave inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4213
 #name "Warchief"
@@ -21102,11 +21102,11 @@ female
 #end
 
 --- Master Champion (Fir Bolg), Gold: 45, Resources: 24, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Gluttonous
 #newmonster 4214
 #name "Master Champion"
@@ -21140,7 +21140,7 @@ female
 #end
 
 --- Commanding Spearmaster (Fir Bolg), Gold: 110, Resources: 18, Roles: [mounted] (cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -21185,7 +21185,7 @@ female
 #end
 
 --- Chieftain (Fir Bolg), Gold: 85, Resources: 7, Roles: [ranged, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["airshield desc"]], [sacred: []]
@@ -21226,7 +21226,7 @@ female
 #end
 
 --- Arch Bishop (Fir Bolg), Gold: 70, Resources: 1, Roles: [mage, priest] (non-combatant caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, -2
 -- Armor: 0, 0
 -- Offhand: 2, -3
@@ -21264,7 +21264,7 @@ female
 #end
 
 --- Cloudy Oathbinder (Fir Bolg), Gold: 130, Resources: 1, Roles: [mage, priest] (non-combatant caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -1
 -- Armor: 0, 0
 -- Offhand: 2, -3
@@ -21302,7 +21302,7 @@ female
 #end
 
 --- Cloudy Disciple (Fir Bolg), Gold: 130, Resources: 3, Roles: [mage, priest] (non-combatant caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 2, -3
@@ -21340,7 +21340,7 @@ female
 #end
 
 --- Cloudy Stormshaper (Fir Bolg), Gold: 130, Resources: 2, Roles: [mage, priest] (non-combatant caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -4
 -- Armor: 0, 0
 -- Offhand: 2, -3
@@ -21378,7 +21378,7 @@ female
 #end
 
 --- Cloudy Bringer (Fir Bolg), Gold: 340, Resources: 1, Roles: [mage, priest] (non-combatant caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, 0
 -- Armor: 0, 0
 -- Offhand: 2, -3
@@ -21423,7 +21423,7 @@ female
 #end
 
 --- Hero (Fir Bolg), Gold: 0, Resources: 24, Roles: [ranged, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [nature]], [elite: []], [nopose: [chariot]], [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werehyena"]], [filterdesc: ["werehyena desc", "stealthy desc", "regeneration desc"]], [price_per_command: [hp 1 10]]
@@ -21466,7 +21466,7 @@ female
 #end
 
 --- Hero (Fir Bolg), Gold: 0, Resources: 8, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -21680,10 +21680,10 @@ female
 #end
 
 --- Kinchenmarkan Champion (Hoburg), Gold: 14, Resources: 4, Roles: [ranged, elite ranged, sacred ranged] (stealthy boreal archers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4224
 #name "Kinchenmarkan Champion"
@@ -21722,10 +21722,10 @@ female
 #end
 
 --- Kinchenmarkan Champion (Hoburg), Gold: 15, Resources: 7, Roles: [ranged, elite ranged, sacred ranged] (stealthy boreal archers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4225
 #name "Kinchenmarkan Champion"
@@ -21765,10 +21765,10 @@ female
 #end
 
 --- Kinchenmarkan Champion (Hoburg), Gold: 14, Resources: 3, Roles: [infantry, elite infantry, sacred infantry] (boreal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4226
 #name "Kinchenmarkan Champion"
@@ -21805,11 +21805,11 @@ female
 #end
 
 --- Kinchenmarkan Fir Bolg Sword Champion (Fir Bolg), Gold: 13, Resources: 11, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4227
 #name "Kinchenmarkan Fir Bolg Sword Champion"
@@ -21841,11 +21841,11 @@ female
 #end
 
 --- Kinchenmarkan Fir Bolg Spearman (Fir Bolg), Gold: 13, Resources: 8, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4228
 #name "Kinchenmarkan Fir Bolg Spearman"
@@ -21877,7 +21877,7 @@ female
 #end
 
 --- Kinchenmarkan Goat Champion (Hoburg), Gold: 30, Resources: 5, Roles: [mounted, elite mounted, sacred mounted] (not-so-stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -21922,7 +21922,7 @@ female
 #end
 
 --- Kinchenmarkan Lance Champion (Hoburg), Gold: 29, Resources: 1, Roles: [mounted, elite mounted, sacred mounted] (stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -21970,7 +21970,7 @@ female
 #end
 
 --- Kinchenmarkan Champion (Hoburg), Gold: 29, Resources: 1, Roles: [mounted, elite mounted, sacred mounted] (stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -22018,7 +22018,7 @@ female
 #end
 
 --- Mist Retributor (Hoburg), Gold: 50, Resources: 8, Roles: [mounted, elite mounted, sacred mounted] (not-so-stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]], [filterdesc: ["allres desc"]], [sacred: []]
@@ -22069,10 +22069,10 @@ female
 #end
 
 --- Assassin (Hoburg), Gold: 55, Resources: 1, Roles: [scout] (scout)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 4233
 #name "Assassin"
@@ -22113,11 +22113,11 @@ female
 #end
 
 --- Master Champion (Fir Bolg), Gold: 65, Resources: 12, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4234
 #name "Master Champion"
@@ -22152,7 +22152,7 @@ female
 #end
 
 --- Chieftain (Hoburg), Gold: 120, Resources: 1, Roles: [mounted, elite mounted, sacred mounted] (stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -22204,7 +22204,7 @@ female
 #end
 
 --- Commanding Champion (Hoburg), Gold: 125, Resources: 8, Roles: [mounted, elite mounted, sacred mounted] (not-so-stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]], [filterdesc: ["allres desc"]], [sacred: []]
@@ -22259,7 +22259,7 @@ female
 #end
 
 --- Pilgrim (Hoburg), Gold: 70, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -22303,7 +22303,7 @@ female
 #end
 
 --- High Priest (Hoburg), Gold: 175, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, 12
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -22348,7 +22348,7 @@ female
 #end
 
 --- Glittering Illusionist (Hoburg), Gold: 130, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -22391,7 +22391,7 @@ female
 #end
 
 --- Glittering Seer (Hoburg), Gold: 160, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -22435,7 +22435,7 @@ female
 #end
 
 --- Glittering Librarian (Hoburg), Gold: 170, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -22478,7 +22478,7 @@ female
 #end
 
 --- Greater Glittering Priest (Hoburg), Gold: 310, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -22524,7 +22524,7 @@ female
 #end
 
 --- Hero (Hoburg), Gold: 0, Resources: 15, Roles: [ranged, elite ranged, sacred ranged] (boreal ranged)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [nature]], [elite: []], [nopose: [chariot]], [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werecrocodile"]], [filterdesc: ["werecrocodile desc", "stealthy desc", "regeneration desc", "castle desc"]], [price_per_command: [hp 1 10]]
@@ -22577,7 +22577,7 @@ female
 #end
 
 --- Hero (Hoburg), Gold: 0, Resources: 5, Roles: [infantry, elite infantry, sacred infantry] (stealthy boreal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werebear"]], [filterdesc: ["werebear desc"]]
@@ -22714,10 +22714,10 @@ female
 #end
 
 --- Hrazorian Spire Horn Champion (Caelian), Gold: 10, Resources: 18, Roles: [ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, shockres5
 #newmonster 4245
 #name "Hrazorian Spire Horn Champion"
@@ -22754,11 +22754,11 @@ female
 #end
 
 --- Hrazorian Light Spire Horn Champion (Caelian), Gold: 12, Resources: 12, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit, shockres5
 #newmonster 4246
 #name "Hrazorian Light Spire Horn Champion"
@@ -22796,10 +22796,10 @@ female
 #end
 
 --- Hrazorian Spire Horn Axe Champion (Caelian), Gold: 10, Resources: 13, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4247
 #name "Hrazorian Spire Horn Axe Champion"
@@ -22836,11 +22836,11 @@ female
 #end
 
 --- Hrazorian Spire Horn Swordsman (Caelian), Gold: 10, Resources: 13, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4248
 #name "Hrazorian Spire Horn Swordsman"
@@ -22878,11 +22878,11 @@ female
 #end
 
 --- Hrazorian Spire Horn Swordsman (Caelian), Gold: 10, Resources: 12, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4249
 #name "Hrazorian Spire Horn Swordsman"
@@ -22920,10 +22920,10 @@ female
 #end
 
 --- Hrazorian Light Spire Horn Lancer (Caelian), Gold: 10, Resources: 12, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4250
 #name "Hrazorian Light Spire Horn Lancer"
@@ -22960,11 +22960,11 @@ female
 #end
 
 --- Hrazorian Spire Horn Lancer (Caelian), Gold: 10, Resources: 16, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4251
 #name "Hrazorian Spire Horn Lancer"
@@ -23002,11 +23002,11 @@ female
 #end
 
 --- Hrazorian Spire Horn Lancer (Caelian), Gold: 10, Resources: 16, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4252
 #name "Hrazorian Spire Horn Lancer"
@@ -23044,7 +23044,7 @@ female
 #end
 
 --- Unseen Hunter (Caelian), Gold: 11, Resources: 17, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -23087,7 +23087,7 @@ female
 #end
 
 --- Vindicator of Lightning (Caelian), Gold: 30, Resources: 31, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 2
@@ -23131,17 +23131,17 @@ female
 #armor 3 --- Kite Shield / kite_nature
 #end
 
---- Special unit 
+--- Special unit
 #newmonster 4255
 #copystats 2962
 #copyspr 2962
 #end
 
 --- Scout (Caelian), Gold: 30, Resources: 11, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout, shockres5
 #newmonster 4256
 #name "Scout"
@@ -23180,11 +23180,11 @@ female
 #end
 
 --- Warchief (Caelian), Gold: 60, Resources: 12, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4257
 #name "Warchief"
@@ -23225,7 +23225,7 @@ female
 #end
 
 --- Sergeant (Caelian), Gold: 70, Resources: 17, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -23272,7 +23272,7 @@ female
 #end
 
 --- Acolyte (Caelian), Gold: 50, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -23313,7 +23313,7 @@ female
 #end
 
 --- High Priest (Caelian), Gold: 115, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -23355,7 +23355,7 @@ female
 #end
 
 --- Inferior Blight Deacon (Caelian), Gold: 45, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -23396,7 +23396,7 @@ female
 #end
 
 --- Blight Stormweaver (Caelian), Gold: 225, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -23441,7 +23441,7 @@ female
 #end
 
 --- Blight Horticulturist (Caelian), Gold: 240, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -23488,7 +23488,7 @@ female
 #end
 
 --- Ancient Blight Deacon (Caelian), Gold: 385, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -23537,7 +23537,7 @@ female
 #end
 
 --- Hero (Caelian), Gold: 0, Resources: 19, Roles: [sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 3
 -- Armor: 0, 0
 --- Generation tags: [path: [fire]], [filterdesc: ["summerpower desc"]], [sacred: []]
@@ -23582,7 +23582,7 @@ female
 #end
 
 --- Hero (Caelian), Gold: 0, Resources: 19, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -23631,7 +23631,7 @@ female
 #end
 
 --- Hero (Caelian), Gold: 0, Resources: 18, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -23773,10 +23773,10 @@ female
 #end
 
 --- Banhatish Markata Champion (Primate), Gold: 9, Resources: 1, Roles: [ranged] (markata ranged)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: castledef 2, patroller 1, Ranged unit, fireres5
 #newmonster 4268
 #name "Banhatish Markata Champion"
@@ -23814,10 +23814,10 @@ female
 #end
 
 --- Banhatish Markata Spear Champion (Primate), Gold: 9, Resources: 1, Roles: [infantry, scout] (markata infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, fireres5
 #newmonster 4269
 #name "Banhatish Markata Spear Champion"
@@ -23853,10 +23853,10 @@ female
 #end
 
 --- Banhatish Bandar Irregular Axeman (Primate), Gold: 24, Resources: 6, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: mountainunit, Infantry unit, fireres5
 #newmonster 4270
 #name "Banhatish Bandar Irregular Axeman"
@@ -23892,11 +23892,11 @@ female
 #end
 
 --- Banhatish Bandar Javelin Axeman (Primate), Gold: 24, Resources: 9, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: mountainunit, Infantry unit, fireres5
 #newmonster 4271
 #name "Banhatish Bandar Javelin Axeman"
@@ -23934,10 +23934,10 @@ female
 #end
 
 --- Banhatish Bandar Axeman (Primate), Gold: 24, Resources: 13, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, fireres5
 #newmonster 4272
 #name "Banhatish Bandar Axeman"
@@ -23972,11 +23972,11 @@ female
 #end
 
 --- Banhatish Bandar Axeman (Primate), Gold: 24, Resources: 12, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, fireres5
 #newmonster 4273
 #name "Banhatish Bandar Axeman"
@@ -24012,11 +24012,11 @@ female
 #end
 
 --- Banhatish Tusked One Spear Champion (Dantih), Gold: 70, Resources: 60, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4274
 #name "Banhatish Tusked One Spear Champion"
@@ -24050,7 +24050,7 @@ female
 #end
 
 --- Banhatish Vanara Boar Champion (Primate), Gold: 35, Resources: 25, Roles: [chariot] (vanara chariots)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -24092,7 +24092,7 @@ female
 #end
 
 --- Banhatish Vanara Champion (Primate), Gold: 50, Resources: 22, Roles: [chariot] (vanara chariots)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -24134,7 +24134,7 @@ female
 #end
 
 --- Herald of Spring (Primate), Gold: 35, Resources: 22, Roles: [sacred ranged, elite ranged] (bandar elite archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [nature]], [filterdesc: ["springpower desc", "patrol desc"]], [sacred: []]
@@ -24177,10 +24177,10 @@ female
 #end
 
 --- Spy (Primate), Gold: 50, Resources: 1, Roles: [scout] (vanara scouts)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy, fireres5
 #newmonster 4278
 #name "Spy"
@@ -24218,11 +24218,11 @@ female
 #end
 
 --- Alpine Commander (Primate), Gold: 75, Resources: 9, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: mountainunit, Infantry unit, fireres5
 #newmonster 4279
 #name "Alpine Commander"
@@ -24265,7 +24265,7 @@ female
 #end
 
 --- Axemaster (Primate), Gold: 95, Resources: 25, Roles: [chariot] (vanara chariots)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -24311,7 +24311,7 @@ female
 #end
 
 --- Chosen Priest (Primate), Gold: 80, Resources: 1, Roles: [priest] (vanara priest, standing)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, 13
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -24354,7 +24354,7 @@ female
 #end
 
 --- Novice of the Privy Willow (Primate), Gold: 100, Resources: 1, Roles: [mage, priest] (bandar caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -24399,7 +24399,7 @@ female
 #end
 
 --- Sorcerer of the Privy Willow (Primate), Gold: 180, Resources: 1, Roles: [mage, priest] (bandar caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -24443,7 +24443,7 @@ female
 #end
 
 --- Keeper of the Privy Willow (Primate), Gold: 365, Resources: 1, Roles: [mage, priest] (bandar elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 7
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -24490,11 +24490,11 @@ female
 #end
 
 --- Sheriff (Primate), Gold: 95, Resources: 7, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: lawman, fireres5
 #newmonster 4285
 #name "Sheriff"
@@ -24533,11 +24533,11 @@ female
 #end
 
 --- Hero (Primate), Gold: 0, Resources: 1, Roles: [mage] (winged vanara elder mage)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 2, 6
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (290), illearth, scorpion, resource generator 25, fireres5
 #newmonster 4286
 #name "Hero"
@@ -24581,7 +24581,7 @@ female
 #end
 
 --- Hero (Dantih), Gold: 0, Resources: 62, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -24628,7 +24628,7 @@ female
 #end
 
 --- Hero (Primate), Gold: 0, Resources: 12, Roles: [sacred infantry, elite infantry] (vanara sacred infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -24745,10 +24745,10 @@ female
 #end
 
 --- Hashishiman Champion (Oriental human), Gold: 10, Resources: 18, Roles: [ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, -2
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4289
 #name "Hashishiman Champion"
@@ -24779,10 +24779,10 @@ female
 #end
 
 --- Hashishiman Champion (Oriental human), Gold: 10, Resources: 17, Roles: [ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, -2
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4290
 #name "Hashishiman Champion"
@@ -24813,10 +24813,10 @@ female
 #end
 
 --- Hashishiman Katana Champion (Oriental human), Gold: 10, Resources: 11, Roles: [infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4291
 #name "Hashishiman Katana Champion"
@@ -24846,10 +24846,10 @@ female
 #end
 
 --- Hashishiman Nodachi Champion (Oriental human), Gold: 10, Resources: 10, Roles: [infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4292
 #name "Hashishiman Nodachi Champion"
@@ -24879,10 +24879,10 @@ female
 #end
 
 --- Hashishiman Yari Champion (Oriental human), Gold: 10, Resources: 15, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4293
 #name "Hashishiman Yari Champion"
@@ -24912,11 +24912,11 @@ female
 #end
 
 --- Hashishiman Champion (Oriental human), Gold: 10, Resources: 21, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4294
 #name "Hashishiman Champion"
@@ -24947,7 +24947,7 @@ female
 #end
 
 --- Hashishiman Champion (Oriental human), Gold: 80, Resources: 13, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -24984,7 +24984,7 @@ female
 #end
 
 --- Hashishiman Camel Champion (Oriental human), Gold: 50, Resources: 23, Roles: [chariot] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -25026,7 +25026,7 @@ female
 #end
 
 --- Fall Companion (Oriental human), Gold: 15, Resources: 23, Roles: [ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, -2
 -- Armor: 0, 0
 --- Generation tags: [path: [earth]], [filterdesc: ["fallpower desc"]], [sacred: []]
@@ -25062,10 +25062,10 @@ female
 #end
 
 --- Spy (Oriental human), Gold: 50, Resources: 5, Roles: [scout] (generic_spies)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy
 #newmonster 4298
 #name "Spy"
@@ -25099,10 +25099,10 @@ female
 #end
 
 --- Warlord (Oriental human), Gold: 50, Resources: 15, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4299
 #name "Warlord"
@@ -25134,7 +25134,7 @@ female
 #end
 
 --- Glaive Commander (Oriental human), Gold: 110, Resources: 23, Roles: [chariot] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -25180,7 +25180,7 @@ female
 #end
 
 --- Minor Prior (Oriental human), Gold: 50, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -25216,7 +25216,7 @@ female
 #end
 
 ---  Prior (Oriental human), Gold: 130, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -25255,7 +25255,7 @@ female
 #end
 
 --- Greater Prior (Oriental human), Gold: 220, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -25294,7 +25294,7 @@ female
 #end
 
 --- Apprentice of the Sandy Citadel (Oriental human), Gold: 100, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -25331,7 +25331,7 @@ female
 #end
 
 --- Follower of the Sandy Citadel (Oriental human), Gold: 165, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -25367,7 +25367,7 @@ female
 #end
 
 --- Binder of the Sandy Citadel (Oriental human), Gold: 210, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -25409,7 +25409,7 @@ female
 #end
 
 --- Hero (Oriental human), Gold: 0, Resources: 22, Roles: [infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [earth, nature]], [elite: []], [nopose: [ranged, mounted, chariot, chariot]], [prev: [start]], [description: ["can enter berserker rage"]], [filterdesc: ["metalman shift desc", "berserk desc", "siege desc", "regeneration desc"]], [price_per_command: [hp 1 10]]
@@ -25557,10 +25557,10 @@ female
 #end
 
 --- Sethian Human Slave Champion (Feudal human), Gold: 9, Resources: 3, Roles: [ranged, elite ranged, sacred ranged] (archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, patroller 1, Ranged unit
 #newmonster 4308
 #name "Sethian Human Slave Champion"
@@ -25591,11 +25591,11 @@ female
 #end
 
 --- Sethian Human Slave Swordsman (Feudal human), Gold: 9, Resources: 7, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 4309
 #name "Sethian Human Slave Swordsman"
@@ -25627,11 +25627,11 @@ female
 #end
 
 --- Sethian Human Slave Champion (Feudal human), Gold: 9, Resources: 6, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 4310
 #name "Sethian Human Slave Champion"
@@ -25663,11 +25663,11 @@ female
 #end
 
 --- Sethian Human Slave Swordsman (Feudal human), Gold: 9, Resources: 9, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 4311
 #name "Sethian Human Slave Swordsman"
@@ -25699,10 +25699,10 @@ female
 #end
 
 --- Sethian Club Champion (Lizard), Gold: 10, Resources: 3, Roles: [infantry, sacred infantry, elite infantry] (2h)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4312
 #name "Sethian Club Champion"
@@ -25739,10 +25739,10 @@ female
 #end
 
 --- Sethian Hammerer (Lizard), Gold: 10, Resources: 15, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4313
 #name "Sethian Hammerer"
@@ -25778,11 +25778,11 @@ female
 #end
 
 --- Sethian Champion (Lizard), Gold: 10, Resources: 15, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4314
 #name "Sethian Champion"
@@ -25819,11 +25819,11 @@ female
 #end
 
 --- Sethian Swordsman (Lizard), Gold: 10, Resources: 18, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4315
 #name "Sethian Swordsman"
@@ -25860,7 +25860,7 @@ female
 #end
 
 --- Sethian Human Lancer (Feudal human), Gold: 35, Resources: 17, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -25902,7 +25902,7 @@ female
 #end
 
 --- Sethian Human Slave Lancer (Feudal human), Gold: 40, Resources: 12, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -25945,7 +25945,7 @@ female
 #end
 
 --- Winter Lurker (Lizard), Gold: 23, Resources: 17, Roles: [ranged, sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 --- Generation tags: [path: [water]], [filterdesc: ["winterpower desc"]], [sacred: []]
@@ -25988,10 +25988,10 @@ female
 #end
 
 --- Spy (Lizard), Gold: 50, Resources: 2, Roles: [scout] (generic_spies)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy
 #newmonster 4319
 #name "Spy"
@@ -26029,11 +26029,11 @@ female
 #end
 
 --- Slave Chieftain (Feudal human), Gold: 50, Resources: 7, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 4320
 #name "Slave Chieftain"
@@ -26069,7 +26069,7 @@ female
 #end
 
 --- Warlord (Feudal human), Gold: 70, Resources: 16, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -26112,7 +26112,7 @@ female
 #end
 
 --- Sergeant (Lizard), Gold: 90, Resources: 17, Roles: [ranged, sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 --- Generation tags: [path: [water]], [filterdesc: ["winterpower desc"]], [sacred: []]
@@ -26159,7 +26159,7 @@ female
 #end
 
 --- Acolyte (Lizard), Gold: 50, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -26202,7 +26202,7 @@ female
 #end
 
 --- Prince (Lizard), Gold: 115, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -26244,7 +26244,7 @@ female
 #end
 
 --- King (Lizard), Gold: 195, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -26286,7 +26286,7 @@ female
 #end
 
 --- Drowned Novice (Lizard), Gold: 85, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
@@ -26329,7 +26329,7 @@ female
 #end
 
 --- Drowned Hand (Lizard), Gold: 190, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
@@ -26373,7 +26373,7 @@ female
 #end
 
 --- Drowned King (Lizard), Gold: 275, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
@@ -26420,11 +26420,11 @@ female
 #end
 
 --- Hero (Lizard), Gold: 0, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (370), blackdog_primary, healerscaling 2
 #newmonster 4329
 #name "Hero"
@@ -26466,11 +26466,11 @@ female
 #end
 
 --- Hero (Feudal human), Gold: 0, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (270), toad, resource generator 10, deathrec, assassin2, spy
 #newmonster 4330
 #name "Hero"
@@ -26510,7 +26510,7 @@ female
 #end
 
 --- Hero (Lizard), Gold: 0, Resources: 24, Roles: [ranged, sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 --- Generation tags: [path: [water, water]], [price_if_command: [at #size 1 +6]], [filterdesc: ["welemental shift desc", "winterpower desc"]], [sacred: []]
@@ -26591,10 +26591,10 @@ female
 #end
 
 --- Hassisic Champion (Lizard), Gold: 10, Resources: 7, Roles: [ranged, sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, poisonres5, Cowardly
 #newmonster 4332
 #name "Hassisic Champion"
@@ -26630,11 +26630,11 @@ female
 #end
 
 --- Hassisic Elite Axemaster (Lizard), Gold: 12, Resources: 18, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit, poisonres5, Cowardly
 #newmonster 4333
 #name "Hassisic Elite Axemaster"
@@ -26671,10 +26671,10 @@ female
 #end
 
 --- Hassisic Heavy Hammerer (Lizard), Gold: 10, Resources: 15, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5, Cowardly
 #newmonster 4334
 #name "Hassisic Heavy Hammerer"
@@ -26710,11 +26710,11 @@ female
 #end
 
 --- Hassisic Spear Champion (Lizard), Gold: 10, Resources: 16, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5, Cowardly
 #newmonster 4335
 #name "Hassisic Spear Champion"
@@ -26751,11 +26751,11 @@ female
 #end
 
 --- Hassisic Axe Champion (Lizard), Gold: 10, Resources: 16, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5, Cowardly
 #newmonster 4336
 #name "Hassisic Axe Champion"
@@ -26792,11 +26792,11 @@ female
 #end
 
 --- Hassisic Swordsman (Lizard), Gold: 10, Resources: 10, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5, Cowardly
 #newmonster 4337
 #name "Hassisic Swordsman"
@@ -26832,10 +26832,10 @@ female
 #end
 
 --- Hassisic Hammerer (Lizard), Gold: 10, Resources: 9, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5, Cowardly
 #newmonster 4338
 #name "Hassisic Hammerer"
@@ -26870,11 +26870,11 @@ female
 #end
 
 --- Hassisic Light Maceman (Lizard), Gold: 10, Resources: 8, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5, Cowardly
 #newmonster 4339
 #name "Hassisic Light Maceman"
@@ -26910,11 +26910,11 @@ female
 #end
 
 --- Hassisic Maceman (Lizard), Gold: 10, Resources: 10, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5, Cowardly
 #newmonster 4340
 #name "Hassisic Maceman"
@@ -26951,7 +26951,7 @@ female
 #end
 
 --- Temple Paragon (Lizard), Gold: 16, Resources: 8, Roles: [ranged, sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["patrol desc"]], [sacred: []]
@@ -26992,10 +26992,10 @@ female
 #end
 
 --- Spy (Lizard), Gold: 50, Resources: 7, Roles: [scout] (generic_spies)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy, poisonres5, Cowardly
 #newmonster 4342
 #name "Spy"
@@ -27034,10 +27034,10 @@ female
 #end
 
 --- Warlord (Lizard), Gold: 60, Resources: 15, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5, Cowardly
 #newmonster 4343
 #name "Warlord"
@@ -27076,11 +27076,11 @@ female
 #end
 
 --- Captain (Lizard), Gold: 60, Resources: 16, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5, Cowardly
 #newmonster 4344
 #name "Captain"
@@ -27120,7 +27120,7 @@ female
 #end
 
 --- Lord (Lizard), Gold: 55, Resources: 8, Roles: [ranged, sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["patrol desc"]], [sacred: []]
@@ -27162,7 +27162,7 @@ female
 #end
 
 --- Acolyte (Lizard), Gold: 50, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
@@ -27204,7 +27204,7 @@ female
 #end
 
 --- Cleric (Lizard), Gold: 130, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
@@ -27247,7 +27247,7 @@ female
 #end
 
 --- King (Lizard), Gold: 210, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -27290,7 +27290,7 @@ female
 #end
 
 --- Initiate of the Lurking Bog (Lizard), Gold: 120, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -27332,7 +27332,7 @@ female
 #end
 
 --- Sorcerer of the Lurking Bog (Lizard), Gold: 175, Resources: 13, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -27379,7 +27379,7 @@ female
 #end
 
 --- Prince of the Lurking Bog (Lizard), Gold: 320, Resources: 3, Roles: [mage, priest] (elite caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 1
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [helmet]]
@@ -27426,11 +27426,11 @@ female
 #end
 
 --- Hero (Lizard), Gold: 0, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (390), airele, invulnerable20, frostfiend, poisonres5, Cowardly
 #newmonster 4352
 #name "Hero"
@@ -27570,10 +27570,10 @@ female
 #end
 
 --- Ritsian Gigante Hill Champion (Gigante), Gold: 35, Resources: 1, Roles: [ranged] (athletes)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: mountainunit, Ranged unit
 #newmonster 4353
 #name "Ritsian Gigante Hill Champion"
@@ -27608,10 +27608,10 @@ female
 #end
 
 --- Ritsian Centauride Champion (Halfman), Gold: 25, Resources: 34, Roles: [ranged] (centauride crossbowmaidens)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -12
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4354
 #name "Ritsian Centauride Champion"
@@ -27649,10 +27649,10 @@ female
 #end
 
 --- Ritsian Gigante Trident Champion (Gigante), Gold: 35, Resources: 26, Roles: [infantry, sacred infantry, elite infantry] (troops)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4355
 #name "Ritsian Gigante Trident Champion"
@@ -27685,11 +27685,11 @@ female
 #end
 
 --- Ritsian Hoplite (Halfman), Gold: 35, Resources: 30, Roles: [infantry] (hoplites)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, -5
 -- Armor: 0, 0
 -- Offhand: 9, -12
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: pillager stealthy, Infantry unit
 #newmonster 4356
 #name "Ritsian Hoplite"
@@ -27728,10 +27728,10 @@ female
 #end
 
 --- Ritsian Trident Champion (Halfman), Gold: 35, Resources: 27, Roles: [infantry] (hoplites)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, -5
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: pillager stealthy, Infantry unit
 #newmonster 4357
 #name "Ritsian Trident Champion"
@@ -27768,10 +27768,10 @@ female
 #end
 
 --- Ritsian Heavy Hoplite (Halfman), Gold: 30, Resources: 36, Roles: [infantry] (hoplites)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 6, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4358
 #name "Ritsian Heavy Hoplite"
@@ -27806,11 +27806,11 @@ female
 #end
 
 --- Ritsian Heavy Hoplite (Halfman), Gold: 30, Resources: 39, Roles: [infantry] (hoplites)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, -5
 -- Armor: 0, 0
 -- Offhand: 8, -8
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4359
 #name "Ritsian Heavy Hoplite"
@@ -27846,11 +27846,11 @@ female
 #end
 
 --- Ritsian Heavy Hoplite (Halfman), Gold: 30, Resources: 40, Roles: [infantry] (hoplites)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 6, 0
 -- Armor: 0, 0
 -- Offhand: 8, -8
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4360
 #name "Ritsian Heavy Hoplite"
@@ -27886,11 +27886,11 @@ female
 #end
 
 --- Ritsian Champion (Halfman), Gold: 30, Resources: 49, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 10, -4
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4361
 #name "Ritsian Champion"
@@ -27926,11 +27926,11 @@ female
 #end
 
 --- Ritsian Morningstar Champion (Halfman), Gold: 30, Resources: 49, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, -7
 -- Armor: 0, 0
 -- Offhand: 10, -4
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4362
 #name "Ritsian Morningstar Champion"
@@ -27966,7 +27966,7 @@ female
 #end
 
 --- Divine Warrior (Gigante), Gold: 40, Resources: 44, Roles: [infantry, sacred infantry, elite infantry] (troops)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -28006,7 +28006,7 @@ female
 #end
 
 --- Ancient Retributor (Halfman), Gold: 45, Resources: 24, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 10, -14
@@ -28048,10 +28048,10 @@ female
 #end
 
 --- Scout (Halfman), Gold: 50, Resources: 13, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 4365
 #name "Scout"
@@ -28089,11 +28089,11 @@ female
 #end
 
 --- Spearmaster (Halfman), Gold: 70, Resources: 30, Roles: [infantry] (hoplites)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, -5
 -- Armor: 0, 0
 -- Offhand: 9, -12
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: pillager stealthy, Infantry unit
 #newmonster 4366
 #name "Spearmaster"
@@ -28134,10 +28134,10 @@ female
 #end
 
 --- General (Halfman), Gold: 80, Resources: 36, Roles: [infantry] (hoplites)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 6, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4367
 #name "General"
@@ -28175,7 +28175,7 @@ female
 #end
 
 --- Young Parson (Halfman), Gold: 80, Resources: 7, Roles: [mage, priest] (tier 1 hot-headed youth)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -28215,7 +28215,7 @@ female
 #end
 
 --- Ancient Parson (Halfman), Gold: 155, Resources: 1, Roles: [mage, priest] (tier 2-3 mature elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -28256,7 +28256,7 @@ female
 #end
 
 --- Ritsian Follower (Halfman), Gold: 115, Resources: 7, Roles: [mage, priest] (tier 1 hot-headed youth)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]]
@@ -28296,7 +28296,7 @@ female
 #end
 
 --- Ritsian Disciple (Halfman), Gold: 195, Resources: 3, Roles: [mage, priest] (tier 2-3 mature elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -5
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [weapon]]
@@ -28337,7 +28337,7 @@ female
 #end
 
 --- Twisted Prince (Halfman), Gold: 290, Resources: 1, Roles: [mage, priest] (tier 2-3 mature elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 6, -3
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [weapon]]
@@ -28381,7 +28381,7 @@ female
 #end
 
 --- Battle Prince (Halfman), Gold: 270, Resources: 7, Roles: [mage, priest] (tier 2-3 mature elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -8
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [weapon]]
@@ -28425,7 +28425,7 @@ female
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 46, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, -7
 -- Armor: 0, 0
 -- Offhand: 10, -14
@@ -28473,7 +28473,7 @@ female
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 39, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, -7
 -- Armor: 0, 0
 -- Offhand: 10, -4
@@ -28519,7 +28519,7 @@ female
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 32, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, -7
 -- Armor: 0, 0
 -- Offhand: 10, -14
@@ -28581,10 +28581,10 @@ female
 #end
 
 --- Lishasan Champion (Lizard), Gold: 10, Resources: 5, Roles: [ranged, sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, shockres5
 #newmonster 4377
 #name "Lishasan Champion"
@@ -28621,11 +28621,11 @@ female
 #end
 
 --- Lishasan Elite Swordsmaster (Lizard), Gold: 12, Resources: 19, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit, shockres5
 #newmonster 4378
 #name "Lishasan Elite Swordsmaster"
@@ -28663,10 +28663,10 @@ female
 #end
 
 --- Lishasan Heavy Swordsman (Lizard), Gold: 10, Resources: 10, Roles: [infantry, sacred infantry, elite infantry] (2h)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4379
 #name "Lishasan Heavy Swordsman"
@@ -28703,10 +28703,10 @@ female
 #end
 
 --- Lishasan Heavy Polearm Champion (Lizard), Gold: 10, Resources: 18, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4380
 #name "Lishasan Heavy Polearm Champion"
@@ -28743,11 +28743,11 @@ female
 #end
 
 --- Lishasan Heavy Axe Champion (Lizard), Gold: 10, Resources: 19, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4381
 #name "Lishasan Heavy Axe Champion"
@@ -28785,11 +28785,11 @@ female
 #end
 
 --- Lishasan Heavy Swordsman (Lizard), Gold: 10, Resources: 20, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4382
 #name "Lishasan Heavy Swordsman"
@@ -28827,10 +28827,10 @@ female
 #end
 
 --- Lishasan Polearm Champion (Lizard), Gold: 10, Resources: 6, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4383
 #name "Lishasan Polearm Champion"
@@ -28867,11 +28867,11 @@ female
 #end
 
 --- Lishasan Swordsman (Lizard), Gold: 10, Resources: 7, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4384
 #name "Lishasan Swordsman"
@@ -28909,11 +28909,11 @@ female
 #end
 
 --- Lishasan Axe Champion (Lizard), Gold: 10, Resources: 6, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4385
 #name "Lishasan Axe Champion"
@@ -28951,7 +28951,7 @@ female
 #end
 
 --- Corrupted Master (Lizard), Gold: 15, Resources: 3, Roles: [ranged, sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["coldres desc", "deathpower desc"]], [sacred: []]
@@ -28994,10 +28994,10 @@ female
 #end
 
 --- Scout (Lizard), Gold: 30, Resources: 6, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout, shockres5
 #newmonster 4387
 #name "Scout"
@@ -29038,10 +29038,10 @@ female
 #end
 
 --- Halberd Chieftain (Lizard), Gold: 40, Resources: 6, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4388
 #name "Halberd Chieftain"
@@ -29079,11 +29079,11 @@ female
 #end
 
 --- Sergeant (Lizard), Gold: 100, Resources: 7, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4389
 #name "Sergeant"
@@ -29125,7 +29125,7 @@ female
 #end
 
 --- Commander (Lizard), Gold: 95, Resources: 3, Roles: [ranged, sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["coldres desc", "deathpower desc"]], [sacred: []]
@@ -29172,7 +29172,7 @@ female
 #end
 
 --- Young Chaplain (Lizard), Gold: 50, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 3, -3
 -- Offhand: -1, -2
@@ -29216,7 +29216,7 @@ female
 #end
 
 --- Adept Chaplain (Lizard), Gold: 115, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 3, -3
 -- Offhand: -1, -2
@@ -29261,7 +29261,7 @@ female
 #end
 
 --- Novice Moon Abbot (Lizard), Gold: 95, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -29305,7 +29305,7 @@ female
 #end
 
 --- Apprentice Moon Abbot (Lizard), Gold: 215, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -29351,7 +29351,7 @@ female
 #end
 
 --- Great Moon Abbot (Lizard), Gold: 415, Resources: 6, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -29401,11 +29401,11 @@ female
 #end
 
 --- Hero (Lizard), Gold: 0, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (350), deathrec, spellsinger, waterele, amphibian, majorfireres, swampsurvival all, ghost, shockres5
 #newmonster 4396
 #name "Hero"
@@ -29493,10 +29493,10 @@ female
 #end
 
 --- Otammgalian Champion (Feudal human), Gold: 10, Resources: 7, Roles: [ranged, elite ranged, sacred ranged] (crossbowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4397
 #name "Otammgalian Champion"
@@ -29526,11 +29526,11 @@ female
 #end
 
 --- Otammgalian Thane (Feudal human), Gold: 12, Resources: 16, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 4398
 #name "Otammgalian Thane"
@@ -29561,11 +29561,11 @@ female
 #end
 
 --- Otammgalian Desert Champion (Feudal human), Gold: 10, Resources: 5, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: wasteunit, Infantry unit
 #newmonster 4399
 #name "Otammgalian Desert Champion"
@@ -29597,11 +29597,11 @@ female
 #end
 
 --- Otammgalian Desert Harponeer (Feudal human), Gold: 10, Resources: 5, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: wasteunit, Infantry unit
 #newmonster 4400
 #name "Otammgalian Desert Harponeer"
@@ -29633,11 +29633,11 @@ female
 #end
 
 --- Otammgalian Sword Champion (Feudal human), Gold: 10, Resources: 11, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4401
 #name "Otammgalian Sword Champion"
@@ -29668,11 +29668,11 @@ female
 #end
 
 --- Otammgalian Champion (Feudal human), Gold: 10, Resources: 10, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4402
 #name "Otammgalian Champion"
@@ -29703,7 +29703,7 @@ female
 #end
 
 --- Red Aspirant (Feudal human), Gold: 22, Resources: 13, Roles: [ranged, elite ranged, sacred ranged] (crossbowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["professional desc"]], [sacred: []]
@@ -29738,11 +29738,11 @@ female
 #end
 
 --- Assassin (Feudal human), Gold: 50, Resources: 2, Roles: [scout] (generic_assassins)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 4404
 #name "Assassin"
@@ -29775,11 +29775,11 @@ female
 #end
 
 --- Tundra Commander (Feudal human), Gold: 70, Resources: 5, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: wasteunit, Infantry unit
 #newmonster 4405
 #name "Tundra Commander"
@@ -29815,11 +29815,11 @@ female
 #end
 
 --- General (Feudal human), Gold: 60, Resources: 11, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4406
 #name "General"
@@ -29853,7 +29853,7 @@ female
 #end
 
 --- Castellan (Feudal human), Gold: 140, Resources: 13, Roles: [ranged, elite ranged, sacred ranged] (crossbowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["professional desc"]], [sacred: []]
@@ -29892,7 +29892,7 @@ female
 #end
 
 --- Chosen Parson (Feudal human), Gold: 50, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -29933,7 +29933,7 @@ female
 #end
 
 --- Lord of the Rising Worms (Feudal human), Gold: 175, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -29973,7 +29973,7 @@ female
 #end
 
 --- Typhoon Initiate (Feudal human), Gold: 45, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -30007,7 +30007,7 @@ female
 #end
 
 --- Typhoon Ascendant (Feudal human), Gold: 240, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -30048,7 +30048,7 @@ female
 #end
 
 --- Typhoon Consort (Feudal human), Gold: 385, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -30088,7 +30088,7 @@ female
 #end
 
 --- Hero (Feudal human), Gold: 0, Resources: 16, Roles: [ranged, elite ranged, sacred ranged] (archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werecrocodile"]], [filterdesc: ["werecrocodile desc", "stealthy desc", "allres desc"]]
@@ -30132,11 +30132,11 @@ female
 #end
 
 --- Hero (Feudal human), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (290), resource generator 10, earthele, assassin2, forgebonus 1 tert
 #newmonster 4414
 #name "Hero"
@@ -30272,10 +30272,10 @@ female
 #end
 
 --- Lamthan Freeman Champion (Amazon human), Gold: 9, Resources: 6, Roles: [ranged] (freeman bowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4415
 #name "Lamthan Freeman Champion"
@@ -30307,10 +30307,10 @@ female
 #end
 
 --- Lamthan Champion (Amazon human), Gold: 12, Resources: 14, Roles: [ranged, elite ranged, sacred ranged] (bow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, -1
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4416
 #name "Lamthan Champion"
@@ -30344,11 +30344,11 @@ female
 #end
 
 --- Lamthan Champion (Amazon human), Gold: 12, Resources: 25, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4417
 #name "Lamthan Champion"
@@ -30382,11 +30382,11 @@ female
 #end
 
 --- Lamthan Sword Champion (Amazon human), Gold: 12, Resources: 23, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4418
 #name "Lamthan Sword Champion"
@@ -30420,11 +30420,11 @@ female
 #end
 
 --- Lamthan Freeman Sword Champion (Amazon human), Gold: 9, Resources: 14, Roles: [infantry] (freeman inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4419
 #name "Lamthan Freeman Sword Champion"
@@ -30456,7 +30456,7 @@ female
 #end
 
 --- Lamthan Elite Swordsmistress (Amazon human), Gold: 40, Resources: 27, Roles: [mounted] (std mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -30499,7 +30499,7 @@ female
 #end
 
 --- Stalwart Nightblade (Amazon human), Gold: 29, Resources: 36, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -30540,11 +30540,11 @@ female
 #end
 
 --- Assassin (Amazon human), Gold: 50, Resources: 9, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -1, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 4422
 #name "Assassin"
@@ -30582,11 +30582,11 @@ female
 #end
 
 --- Swordsmistress (Amazon human), Gold: 40, Resources: 23, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4423
 #name "Swordsmistress"
@@ -30621,7 +30621,7 @@ female
 #end
 
 --- Elite Lady (Amazon human), Gold: 85, Resources: 27, Roles: [mounted] (std mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -30667,7 +30667,7 @@ female
 #end
 
 --- Missionary (Amazon human), Gold: 75, Resources: 4, Roles: [priest, mounted, elite] (warrior-priestess_mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -30711,7 +30711,7 @@ female
 #end
 
 --- High Priestess (Amazon human), Gold: 140, Resources: 4, Roles: [priest, mounted, elite] (warrior-priestess_mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -30755,7 +30755,7 @@ female
 #end
 
 --- Disciple of the Swamp Grove (Amazon human), Gold: 155, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -30795,7 +30795,7 @@ female
 #end
 
 --- Disciple of the Tenebrous Grove (Amazon human), Gold: 155, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -30835,7 +30835,7 @@ female
 #end
 
 --- Caller of the Swamp Grove (Amazon human), Gold: 235, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -30880,7 +30880,7 @@ female
 #end
 
 --- Caller of the Tenebrous Grove (Amazon human), Gold: 220, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -30924,11 +30924,11 @@ female
 #end
 
 --- Viceroy (Amazon human), Gold: 50, Resources: 8, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: administrator
 #newmonster 4431
 #name "Viceroy"
@@ -30965,7 +30965,7 @@ female
 #end
 
 --- Hero (Amazon human), Gold: 0, Resources: 17, Roles: [ranged, elite ranged, sacred ranged] (Xbow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, 4
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werebear"]], [filterdesc: ["werebear desc", "stealthy desc", "patrol desc"]]
@@ -31014,11 +31014,11 @@ female
 #end
 
 --- Hero (Amazon human), Gold: 0, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (350), deathrec, resource generator 15, spider
 #newmonster 4433
 #name "Hero"
@@ -31078,10 +31078,10 @@ female
 #end
 
 --- Gabbzesialish Greatbow Champion (Avvite), Gold: 25, Resources: 23, Roles: [ranged] (bowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4434
 #name "Gabbzesialish Greatbow Champion"
@@ -31117,10 +31117,10 @@ female
 #end
 
 --- Gabbzesialish Longbow Champion (Avvite), Gold: 25, Resources: 22, Roles: [ranged] (bowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4435
 #name "Gabbzesialish Longbow Champion"
@@ -31156,11 +31156,11 @@ female
 #end
 
 --- Gabbzesialish Spear Champion (Avvite), Gold: 25, Resources: 26, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4436
 #name "Gabbzesialish Spear Champion"
@@ -31196,11 +31196,11 @@ female
 #end
 
 --- Gabbzesialish Champion (Avvite), Gold: 25, Resources: 28, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4437
 #name "Gabbzesialish Champion"
@@ -31236,7 +31236,7 @@ female
 #end
 
 --- Gabbzesialish Knight (Avvite), Gold: 40, Resources: 19, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -10
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -31279,7 +31279,7 @@ female
 #end
 
 --- Gabbzesialish Knight (Avvite), Gold: 85, Resources: 59, Roles: [chariot] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -31320,7 +31320,7 @@ female
 #end
 
 --- Temple Hierophant (Avvite), Gold: 70, Resources: 64, Roles: [chariot] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -10
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [itemslot: [feet -1]], [filterdesc: ["patrol desc"]]
@@ -31362,7 +31362,7 @@ female
 #end
 
 --- Thane of Steel (Avvite), Gold: 40, Resources: 16, Roles: [ranged] (bowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [earth]], [filterdesc: ["fallpower desc"]], [sacred: []]
@@ -31403,10 +31403,10 @@ female
 #end
 
 --- Scout (Avvite), Gold: 45, Resources: 7, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 4442
 #name "Scout"
@@ -31445,11 +31445,11 @@ female
 #end
 
 --- Sword Commander (Avvite), Gold: 85, Resources: 28, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4443
 #name "Sword Commander"
@@ -31489,7 +31489,7 @@ female
 #end
 
 --- General (Avvite), Gold: 145, Resources: 59, Roles: [chariot] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -31533,7 +31533,7 @@ female
 #end
 
 --- Acolyte (Avvite), Gold: 85, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -31574,7 +31574,7 @@ female
 #end
 
 --- High Priest (Avvite), Gold: 135, Resources: 8, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 1
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -31615,7 +31615,7 @@ female
 #end
 
 --- Apprentice Gabbzesialish Mage-engineer (Avvite), Gold: 110, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 1
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -31658,7 +31658,7 @@ female
 #end
 
 ---  Mountain Mage-engineer (Avvite), Gold: 170, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 1
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -31702,7 +31702,7 @@ female
 #end
 
 ---  Mountain Stonewaker (Avvite), Gold: 170, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -31746,7 +31746,7 @@ female
 #end
 
 --- Senior Mountain Mage-engineer (Avvite), Gold: 265, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 1
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -31792,7 +31792,7 @@ female
 #end
 
 --- Senior Mountain Stonewaker (Avvite), Gold: 265, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -31838,10 +31838,10 @@ female
 #end
 
 --- Hero (Avvite), Gold: 0, Resources: 1, Roles: [mage] (nephilim)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (290), ethereal, resource generator 25, spellsinger
 #newmonster 4452
 #name "Hero"
@@ -31891,10 +31891,10 @@ female
 #end
 
 --- Hero (Avvite), Gold: 0, Resources: 1, Roles: [mage] (nephilim)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (250), ethereal2, sun awe, fireshield, resource generator 15
 #newmonster 4453
 #name "Hero"
@@ -31946,7 +31946,7 @@ female
 #end
 
 --- Hero (Avvite), Gold: 0, Resources: 11, Roles: [ranged] (bowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [water]], [price_if_command: [at #size 1 +6]], [filterdesc: ["welemental shift desc", "awe desc"]], [price_per_command: [#hp 1 10]], [sacred: []]
@@ -32045,10 +32045,10 @@ female
 #end
 
 --- Whahimichish Atlantian Champion (Muuch), Gold: 10, Resources: 2, Roles: [ranged, sacred] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4455
 #name "Whahimichish Atlantian Champion"
@@ -32083,11 +32083,11 @@ female
 #end
 
 --- Whahimichish Atlantian Impaler (Muuch), Gold: 10, Resources: 3, Roles: [infantry, sacred] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4456
 #name "Whahimichish Atlantian Impaler"
@@ -32123,11 +32123,11 @@ female
 #end
 
 --- Whahimichish Atlantian Dart Champion (Muuch), Gold: 10, Resources: 5, Roles: [infantry, sacred] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4457
 #name "Whahimichish Atlantian Dart Champion"
@@ -32163,10 +32163,10 @@ female
 #end
 
 --- Whahimichish Spear Champion (Crustacean), Gold: 30, Resources: 18, Roles: [infantry, elite infantry, sacred infantry, scout] (crab troopers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4458
 #name "Whahimichish Spear Champion"
@@ -32201,10 +32201,10 @@ female
 #end
 
 --- Whahimichish Champion (Crustacean), Gold: 30, Resources: 19, Roles: [infantry, elite infantry, sacred infantry, scout] (crab troopers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4459
 #name "Whahimichish Champion"
@@ -32239,10 +32239,10 @@ female
 #end
 
 --- Whahimichish Heavy Spear Champion (Crustacean), Gold: 60, Resources: 22, Roles: [infantry, elite infantry, sacred infantry, scout] (crab troopers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4460
 #name "Whahimichish Heavy Spear Champion"
@@ -32277,10 +32277,10 @@ female
 #end
 
 --- Whahimichish Heavy Champion (Crustacean), Gold: 60, Resources: 24, Roles: [infantry, elite infantry, sacred infantry, scout] (crab troopers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4461
 #name "Whahimichish Heavy Champion"
@@ -32315,7 +32315,7 @@ female
 #end
 
 --- Divine Champion (Crustacean), Gold: 45, Resources: 39, Roles: [infantry, elite infantry, sacred infantry, scout] (crab troopers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["siege desc", "professional desc"]], [sacred: []]
@@ -32355,10 +32355,10 @@ female
 #end
 
 --- Scout (Crustacean), Gold: 50, Resources: 13, Roles: [infantry, elite infantry, sacred infantry, scout] (crab troopers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 4463
 #name "Scout"
@@ -32395,11 +32395,11 @@ female
 #end
 
 --- Spear Commander (Muuch), Gold: 60, Resources: 3, Roles: [infantry, sacred] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4464
 #name "Spear Commander"
@@ -32438,10 +32438,10 @@ female
 #end
 
 --- Captain (Crustacean), Gold: 60, Resources: 19, Roles: [infantry, elite infantry, sacred infantry, scout] (crab troopers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4465
 #name "Captain"
@@ -32478,7 +32478,7 @@ female
 #end
 
 --- Colonel (Crustacean), Gold: 85, Resources: 39, Roles: [infantry, elite infantry, sacred infantry, scout] (crab troopers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["siege desc", "professional desc"]], [sacred: []]
@@ -32521,7 +32521,7 @@ female
 #end
 
 --- Initiate Exarch (Crustacean), Gold: 115, Resources: 4, Roles: [priest] (crab priests T1)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -32566,7 +32566,7 @@ female
 #end
 
 --- Paramount Exarch (Crustacean), Gold: 160, Resources: 1, Roles: [priest] (crab priests T1-3)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -32608,7 +32608,7 @@ female
 #end
 
 --- Novice Whahimichish Poet (Crustacean), Gold: 85, Resources: 12, Roles: [mage] (crab mages T1)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]]
@@ -32651,7 +32651,7 @@ female
 #end
 
 --- Major Whahimichish Poet (Crustacean), Gold: 215, Resources: 9, Roles: [mage] (crab mages T2)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [weapon]]
@@ -32694,7 +32694,7 @@ female
 #end
 
 --- Arch Adamant Poet (Crustacean), Gold: 260, Resources: 12, Roles: [mage] (crab mages T3)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [weapon]]
@@ -32740,7 +32740,7 @@ female
 #end
 
 --- Arch Bloodied Poet (Crustacean), Gold: 355, Resources: 6, Roles: [mage] (crab mages T3)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [weapon]]
@@ -32788,10 +32788,10 @@ female
 #end
 
 --- Hero (Crustacean), Gold: 0, Resources: 10, Roles: [mage] (crab mages T3)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), resource generator 15, ethereal2
 #newmonster 4473
 #name "Hero"
@@ -32834,7 +32834,7 @@ female
 #end
 
 --- Hero (Muuch), Gold: 0, Resources: 29, Roles: [infantry, sacred] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -32944,10 +32944,10 @@ female
 #end
 
 --- Nooroorish Bandar Champion (Primate), Gold: 16, Resources: 13, Roles: [ranged] (bandar archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, mountainsurvival
 #newmonster 4475
 #name "Nooroorish Bandar Champion"
@@ -32982,10 +32982,10 @@ female
 #end
 
 --- Nooroorish Bandar Javelin Champion (Primate), Gold: 16, Resources: 1, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, mountainsurvival
 #newmonster 4476
 #name "Nooroorish Bandar Javelin Champion"
@@ -33019,11 +33019,11 @@ female
 #end
 
 --- Nooroorish Bandar Axe Champion (Primate), Gold: 16, Resources: 6, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, mountainsurvival
 #newmonster 4477
 #name "Nooroorish Bandar Axe Champion"
@@ -33057,11 +33057,11 @@ female
 #end
 
 --- Nooroorish Bandar Elite Axemaster (Primate), Gold: 19, Resources: 4, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit, mountainsurvival
 #newmonster 4478
 #name "Nooroorish Bandar Elite Axemaster"
@@ -33095,11 +33095,11 @@ female
 #end
 
 --- Nooroorish Naga Champion (Naga), Gold: 20, Resources: 31, Roles: [infantry, scout] (naga infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4479
 #name "Nooroorish Naga Champion"
@@ -33139,11 +33139,11 @@ female
 #end
 
 --- Nooroorish Naga Axe Champion (Naga), Gold: 20, Resources: 31, Roles: [infantry, scout] (naga infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4480
 #name "Nooroorish Naga Axe Champion"
@@ -33183,10 +33183,10 @@ female
 #end
 
 --- Nooroorish Bandar Club Champion (Primate), Gold: 16, Resources: 9, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, mountainsurvival
 #newmonster 4481
 #name "Nooroorish Bandar Club Champion"
@@ -33220,11 +33220,11 @@ female
 #end
 
 --- Nooroorish Bandar Falchion Champion (Primate), Gold: 16, Resources: 19, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, mountainsurvival
 #newmonster 4482
 #name "Nooroorish Bandar Falchion Champion"
@@ -33259,7 +33259,7 @@ female
 #end
 
 --- Frozen Retributor (Naga), Gold: 40, Resources: 19, Roles: [infantry, scout] (naga infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -33306,11 +33306,11 @@ female
 #end
 
 --- Assassin (Primate), Gold: 50, Resources: 2, Roles: [scout] (vanara scouts)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin, mountainsurvival
 #newmonster 4484
 #name "Assassin"
@@ -33347,11 +33347,11 @@ female
 #end
 
 --- Axemaster (Primate), Gold: 65, Resources: 6, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, mountainsurvival
 #newmonster 4485
 #name "Axemaster"
@@ -33390,11 +33390,11 @@ female
 #end
 
 --- Master Champion (Naga), Gold: 70, Resources: 31, Roles: [infantry, scout] (naga infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4486
 #name "Master Champion"
@@ -33437,7 +33437,7 @@ female
 #end
 
 --- Rishi (Primate), Gold: 100, Resources: 1, Roles: [mage, priest] (bandar caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, 8
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -33477,7 +33477,7 @@ female
 #end
 
 --- Junior Storm Poet (Primate), Gold: 105, Resources: 1, Roles: [mage] (vanara mage, standing)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, 13
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -33515,7 +33515,7 @@ female
 #end
 
 --- Senior Storm Poet (Naga), Gold: 175, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, -12
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]]
@@ -33560,7 +33560,7 @@ female
 #end
 
 --- Elder Storm Poet (Naga), Gold: 265, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, -12
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [weapon]]
@@ -33611,10 +33611,10 @@ female
 #end
 
 --- Hero (Naga), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, -12
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (230), airele, resource generator 10, nobadevents3, welemental, falsearmy
 #newmonster 4491
 #name "Hero"
@@ -33663,7 +33663,7 @@ female
 #end
 
 --- Hero (Primate), Gold: 0, Resources: 10, Roles: [sacred infantry, elite infantry] (vanara sacred infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -33711,10 +33711,10 @@ female
 #end
 
 --- Hero (Primate), Gold: 0, Resources: 1, Roles: [mage] (vanara elder mage, floating)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (370), airele, cold resource generator 10, fear, mountainsurvival
 #newmonster 4493
 #name "Hero"
@@ -33873,10 +33873,10 @@ female
 #end
 
 --- Djenesoan Woodland Axeman (Abysian), Gold: 20, Resources: 11, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit
 #newmonster 4494
 #name "Djenesoan Woodland Axeman"
@@ -33912,11 +33912,11 @@ female
 #end
 
 --- Djenesoan Woodland Axeman (Abysian), Gold: 20, Resources: 14, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit
 #newmonster 4495
 #name "Djenesoan Woodland Axeman"
@@ -33954,10 +33954,10 @@ female
 #end
 
 --- Djenesoan Axeman (Abysian), Gold: 20, Resources: 30, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4496
 #name "Djenesoan Axeman"
@@ -33992,11 +33992,11 @@ female
 #end
 
 --- Djenesoan Axeman (Abysian), Gold: 20, Resources: 29, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4497
 #name "Djenesoan Axeman"
@@ -34032,11 +34032,11 @@ female
 #end
 
 --- Djenesoan Champion (Abysian), Gold: 20, Resources: 33, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4498
 #name "Djenesoan Champion"
@@ -34073,7 +34073,7 @@ female
 #end
 
 --- Djenesoan Scorpion Knight (Abysian), Gold: 70, Resources: 21, Roles: [mounted, elite mounted, sacred mounted] (abysian cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -34120,7 +34120,7 @@ female
 #end
 
 --- Djenesoan Scorpion Knight (Abysian), Gold: 70, Resources: 20, Roles: [mounted, elite mounted, sacred mounted] (abysian cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 --- Generation tags: [itemslot: [feet -1]]
@@ -34165,7 +34165,7 @@ female
 #end
 
 --- Djenesoan Drake Knight (Abysian), Gold: 75, Resources: 29, Roles: [mounted, elite mounted, sacred mounted] (abysian cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -34211,7 +34211,7 @@ female
 #end
 
 --- Paladin of Fire (Abysian), Gold: 30, Resources: 33, Roles: [elite infantry, sacred infantry] (elite abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -34254,11 +34254,11 @@ female
 #end
 
 --- Scout (Abysian), Gold: 50, Resources: 3, Roles: [sacred infantry, scout] (elite demonbred infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 4503
 #name "Scout"
@@ -34297,10 +34297,10 @@ female
 #end
 
 --- Warchief (Abysian), Gold: 80, Resources: 11, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit
 #newmonster 4504
 #name "Warchief"
@@ -34340,10 +34340,10 @@ female
 #end
 
 --- Axe Lord (Abysian), Gold: 110, Resources: 30, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4505
 #name "Axe Lord"
@@ -34382,7 +34382,7 @@ female
 #end
 
 --- Commanding Champion (Abysian), Gold: 160, Resources: 21, Roles: [mounted, elite mounted, sacred mounted] (abysian cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -34433,7 +34433,7 @@ female
 #end
 
 --- Young Abbot (Abysian), Gold: 80, Resources: 1, Roles: [mage, priest] (lowly abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -34474,7 +34474,7 @@ female
 #end
 
 --- Paramount Abbot (Abysian), Gold: 130, Resources: 4, Roles: [mage, priest] (middling abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -34515,7 +34515,7 @@ female
 #end
 
 --- Initiate Unholy Devastator (Feudal human), Gold: 45, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -34553,7 +34553,7 @@ female
 #end
 
 --- Unholy Reaver (Abysian), Gold: 255, Resources: 3, Roles: [mage, priest] (middling abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -34600,7 +34600,7 @@ female
 #end
 
 --- Unholy Bishop (Abysian), Gold: 255, Resources: 3, Roles: [mage, priest] (middling abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -34646,7 +34646,7 @@ female
 #end
 
 --- Unholy Evoker (Abysian), Gold: 255, Resources: 3, Roles: [mage, priest] (middling abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -34692,7 +34692,7 @@ female
 #end
 
 --- High Unholy Devastator (Feudal human), Gold: 350, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -34736,7 +34736,7 @@ female
 #end
 
 --- Hero (Abysian), Gold: 0, Resources: 15, Roles: [sacred infantry, elite infantry] (burning one infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -31, -72
@@ -34786,7 +34786,7 @@ female
 #end
 
 --- Hero (Abysian), Gold: 0, Resources: 34, Roles: [elite infantry, sacred infantry] (elite abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -34835,7 +34835,7 @@ female
 #end
 
 --- Hero (Abysian), Gold: 0, Resources: 30, Roles: [sacred infantry, elite infantry] (burning one infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werewolf"]], [filterdesc: ["werewolf desc", "patrol desc", "siege desc"]]
@@ -34965,10 +34965,10 @@ female
 #end
 
 --- Nishisanian Heavy Samurai (Oriental human), Gold: 12, Resources: 24, Roles: [infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 4517
 #name "Nishisanian Heavy Samurai"
@@ -34998,10 +34998,10 @@ female
 #end
 
 --- Nishisanian Light Samurai (Oriental human), Gold: 10, Resources: 8, Roles: [infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4518
 #name "Nishisanian Light Samurai"
@@ -35031,10 +35031,10 @@ female
 #end
 
 --- Nishisanian Samurai (Oriental human), Gold: 10, Resources: 10, Roles: [infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4519
 #name "Nishisanian Samurai"
@@ -35064,10 +35064,10 @@ female
 #end
 
 --- Nishisanian Minotaur Champion (Halfman), Gold: 40, Resources: 1, Roles: [infantry, scout] (2h long)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4520
 #name "Nishisanian Minotaur Champion"
@@ -35101,7 +35101,7 @@ female
 #end
 
 --- Nishisanian Samurai (Oriental human), Gold: 40, Resources: 22, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -35139,7 +35139,7 @@ female
 #end
 
 --- Nishisanian Lancer (Oriental human), Gold: 40, Resources: 26, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -35180,7 +35180,7 @@ female
 #end
 
 --- Raging Nightblade (Halfman), Gold: 55, Resources: 3, Roles: [infantry, scout] (2h long)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["pillage desc"]], [sacred: []]
@@ -35219,10 +35219,10 @@ female
 #end
 
 --- Scout (Oriental human), Gold: 30, Resources: 11, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 4524
 #name "Scout"
@@ -35257,10 +35257,10 @@ female
 #end
 
 --- Nodachi Chieftain (Oriental human), Gold: 70, Resources: 10, Roles: [infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4525
 #name "Nodachi Chieftain"
@@ -35294,7 +35294,7 @@ female
 #end
 
 --- Master Champion (Oriental human), Gold: 90, Resources: 22, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -35335,7 +35335,7 @@ female
 #end
 
 --- Spear Champion (Halfman), Gold: 155, Resources: 3, Roles: [infantry, scout] (2h long)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["pillage desc"]], [sacred: []]
@@ -35378,7 +35378,7 @@ female
 #end
 
 --- Arch Hierophant (Oriental human), Gold: 50, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -35414,7 +35414,7 @@ female
 #end
 
 --- Disciple of the Veiled Faith (Oriental human), Gold: 280, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -35457,7 +35457,7 @@ female
 #end
 
 --- Parson of the Veiled Faith (Oriental human), Gold: 255, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -35499,7 +35499,7 @@ female
 #end
 
 --- Curate of the Veiled Faith (Oriental human), Gold: 265, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -35539,7 +35539,7 @@ female
 #end
 
 --- Binder of the Veiled Faith (Oriental human), Gold: 405, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -35581,7 +35581,7 @@ female
 #end
 
 --- Hero (Oriental human), Gold: 0, Resources: 26, Roles: [infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werebear"]], [filterdesc: ["werebear desc", "stealthy desc", "patrol desc"]]
@@ -35622,11 +35622,11 @@ female
 #end
 
 --- Hero (Oriental human), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (250), illearth, resource generator 15, resourcebonus, invulnerable20, scorpion, ritualrange1
 #newmonster 4534
 #name "Hero"
@@ -35867,10 +35867,10 @@ female
 #end
 
 --- Octfurtish Desert Auxiliary (Hoburg), Gold: 6, Resources: 2, Roles: [ranged, elite ranged, sacred ranged] (stealthy boreal archers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: wasteunit, Ranged unit
 #newmonster 4535
 #name "Octfurtish Desert Auxiliary"
@@ -35903,10 +35903,10 @@ female
 #end
 
 --- Octfurtish Desert Auxiliary (Hoburg), Gold: 6, Resources: 2, Roles: [ranged, elite ranged, sacred ranged] (stealthy boreal archers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: wasteunit, Ranged unit
 #newmonster 4536
 #name "Octfurtish Desert Auxiliary"
@@ -35939,11 +35939,11 @@ female
 #end
 
 --- Octfurtish Shambler Dart Champion (Muuch), Gold: 22, Resources: 4, Roles: [infantry, sacred] (shambler infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 2
 -- Armor: 0, 0
 -- Offhand: 2, -6
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4537
 #name "Octfurtish Shambler Dart Champion"
@@ -35980,7 +35980,7 @@ female
 #end
 
 --- Octfurtish Ant Lancer (Hoburg), Gold: 16, Resources: 4, Roles: [mounted, elite mounted, sacred mounted] (stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -36022,7 +36022,7 @@ female
 #end
 
 --- Octfurtish Champion (Hoburg), Gold: 45, Resources: 8, Roles: [mounted, elite mounted, sacred mounted] (not-so-stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -36062,7 +36062,7 @@ female
 #end
 
 --- Octfurtish Caveman Lancer (Hoburg), Gold: 45, Resources: 9, Roles: [mounted, elite mounted, sacred mounted] (not-so-stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -36103,7 +36103,7 @@ female
 #end
 
 --- Octfurtish Hog Lancer (Hoburg), Gold: 23, Resources: 7, Roles: [mounted, elite mounted, sacred mounted] (not-so-stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -36144,7 +36144,7 @@ female
 #end
 
 --- Stalwart Warrior (Muuch), Gold: 35, Resources: 10, Roles: [infantry, sacred] (shambler infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 2
 -- Armor: 0, 0
 -- Offhand: 2, -6
@@ -36186,7 +36186,7 @@ female
 #end
 
 --- Night Stalker (Hoburg), Gold: 85, Resources: 13, Roles: [mounted, elite mounted, sacred mounted] (stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -36231,7 +36231,7 @@ female
 #end
 
 --- Devouring Scout (Hoburg), Gold: 20, Resources: 1, Roles: [mounted, elite mounted, sacred mounted] (stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [earth]], [itemslot: [feet -1]], [filterdesc: ["fallpower desc", "coldres desc"]], [sacred: []]
@@ -36273,7 +36273,7 @@ female
 #end
 
 --- Dandelion Follower (Hoburg), Gold: 40, Resources: 17, Roles: [infantry, sacred infantry, elite infantry] (caveman auxilliary)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 2
 -- Armor: 0, 0
 -- Offhand: 1, -4
@@ -36317,11 +36317,11 @@ female
 #end
 
 --- Spy (Hoburg), Gold: 45, Resources: 1, Roles: [scout] (stealthy boreal scout)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy
 #newmonster 4546
 #name "Spy"
@@ -36358,7 +36358,7 @@ female
 #end
 
 --- Spearmaster (Muuch), Gold: 85, Resources: 10, Roles: [infantry, sacred] (shambler infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 2
 -- Armor: 0, 0
 -- Offhand: 2, -6
@@ -36403,7 +36403,7 @@ female
 #end
 
 --- Axemeister (Hoburg), Gold: 225, Resources: 13, Roles: [mounted, elite mounted, sacred mounted] (stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -36452,7 +36452,7 @@ female
 #end
 
 --- Spear Chieftain (Hoburg), Gold: 105, Resources: 17, Roles: [infantry, sacred infantry, elite infantry] (caveman auxilliary)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 2
 -- Armor: 0, 0
 -- Offhand: 1, -4
@@ -36500,7 +36500,7 @@ female
 #end
 
 --- Acolyte (Hoburg), Gold: 70, Resources: 1, Roles: [mage, priest] (caveman shaman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 2
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -36542,7 +36542,7 @@ female
 #end
 
 --- High Priest (Hoburg), Gold: 110, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -36579,7 +36579,7 @@ female
 #end
 
 --- Silver Ascendant (Hoburg), Gold: 100, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -36616,7 +36616,7 @@ female
 #end
 
 --- Neophyte Mage-engineer of the Ravine (Hoburg), Gold: 140, Resources: 1, Roles: [mage, priest] (caveman shaman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 3
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -36663,7 +36663,7 @@ female
 #end
 
 --- Apprentice Mage-engineer of the Ravine (Hoburg), Gold: 170, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, 12
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -36702,7 +36702,7 @@ female
 #end
 
 --- High Mage-engineer of the Ravine (Hoburg), Gold: 305, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, 12
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -36745,10 +36745,10 @@ female
 #end
 
 --- Dog Trainer (Hoburg), Gold: 65, Resources: 1, Roles: [scout] (stealthy boreal scout)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: dogherd
 #newmonster 4556
 #name "Dog Trainer"
@@ -36783,7 +36783,7 @@ female
 #end
 
 --- Hero (Hoburg), Gold: 0, Resources: 6, Roles: [infantry, elite infantry, sacred infantry] (stealthy boreal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -36897,10 +36897,10 @@ female
 #end
 
 --- Satranian Hoburg Slave Champion (Hoburg), Gold: 7, Resources: 7, Roles: [ranged, elite ranged, sacred ranged] (boreal ranged)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Ranged unit, shockres5
 #newmonster 4558
 #name "Satranian Hoburg Slave Champion"
@@ -36936,10 +36936,10 @@ female
 #end
 
 --- Satranian Champion (Caelian), Gold: 15, Resources: 8, Roles: [ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4559
 #name "Satranian Champion"
@@ -36973,11 +36973,11 @@ female
 #end
 
 --- Satranian Hoburg Slave Hammerer (Hoburg), Gold: 7, Resources: 7, Roles: [infantry, elite infantry, sacred infantry] (boreal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 12
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, mountainunit, Infantry unit, shockres5
 #newmonster 4560
 #name "Satranian Hoburg Slave Hammerer"
@@ -37014,11 +37014,11 @@ female
 #end
 
 --- Satranian Hoburg Slave Swordsman (Hoburg), Gold: 7, Resources: 7, Roles: [infantry, elite infantry, sacred infantry] (boreal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 12
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, mountainunit, Infantry unit, shockres5
 #newmonster 4561
 #name "Satranian Hoburg Slave Swordsman"
@@ -37055,11 +37055,11 @@ female
 #end
 
 --- Satranian Heavy Hoburg Slave Swordsman (Hoburg), Gold: 7, Resources: 8, Roles: [infantry, elite infantry, sacred infantry] (boreal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 12
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit, shockres5
 #newmonster 4562
 #name "Satranian Heavy Hoburg Slave Swordsman"
@@ -37097,11 +37097,11 @@ female
 #end
 
 --- Satranian Heavy Hoburg Slave Hammerer (Hoburg), Gold: 7, Resources: 8, Roles: [infantry, elite infantry, sacred infantry] (boreal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 12
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit, shockres5
 #newmonster 4563
 #name "Satranian Heavy Hoburg Slave Hammerer"
@@ -37139,11 +37139,11 @@ female
 #end
 
 --- Satranian Impaler (Caelian), Gold: 15, Resources: 10, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4564
 #name "Satranian Impaler"
@@ -37177,11 +37177,11 @@ female
 #end
 
 --- Satranian Impaler (Caelian), Gold: 15, Resources: 9, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4565
 #name "Satranian Impaler"
@@ -37215,10 +37215,10 @@ female
 #end
 
 --- Satranian Impaler (Caelian), Gold: 15, Resources: 8, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4566
 #name "Satranian Impaler"
@@ -37251,7 +37251,7 @@ female
 #end
 
 --- Brass Champion (Caelian), Gold: 20, Resources: 9, Roles: [sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 3
 -- Armor: 0, 0
 --- Generation tags: [path: [earth]], [filterdesc: ["fallpower desc"]], [sacred: []]
@@ -37290,11 +37290,11 @@ female
 #end
 
 --- Assassin (Caelian), Gold: 55, Resources: 10, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 4568
 #name "Assassin"
@@ -37332,11 +37332,11 @@ female
 #end
 
 --- Commanding Champion (Caelian), Gold: 80, Resources: 10, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4569
 #name "Commanding Champion"
@@ -37375,11 +37375,11 @@ female
 #end
 
 --- Slave Commander (Hoburg), Gold: 80, Resources: 7, Roles: [infantry, elite infantry, sacred infantry] (boreal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 12
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, mountainunit, Infantry unit, shockres5
 #newmonster 4570
 #name "Slave Commander"
@@ -37419,7 +37419,7 @@ female
 #end
 
 --- Monk (Caelian), Gold: 60, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -37458,7 +37458,7 @@ female
 #end
 
 --- Arch Bishop (Caelian), Gold: 125, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -37497,7 +37497,7 @@ female
 #end
 
 --- Scion of the Hawks (Caelian), Gold: 130, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -37538,7 +37538,7 @@ female
 #end
 
 --- Novice Geomancer of the Crusade (Caelian), Gold: 115, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -37579,7 +37579,7 @@ female
 #end
 
 ---  Geomancer of the Crusade (Caelian), Gold: 245, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -37622,7 +37622,7 @@ female
 #end
 
 --- Grand Geomancer of the Crusade (Caelian), Gold: 410, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -37666,7 +37666,7 @@ female
 #end
 
 --- Hero (Caelian), Gold: 0, Resources: 22, Roles: [sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 3
 -- Armor: 0, 0
 --- Generation tags: [path: [earth, nature]], [elite: []], [nopose: [chariot]], [prev: [start]], [filterdesc: ["metalman shift desc", "regeneration desc"]], [price_per_command: [hp 1 10]]
@@ -37712,10 +37712,10 @@ female
 --- Unit definitions for Posetammea
 
 --- Posetammeaish Jungle Champion (Atlantian), Gold: 13, Resources: 4, Roles: [ranged, sacred] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Ranged unit
 #newmonster 4578
 #name "Posetammeaish Jungle Champion"
@@ -37749,10 +37749,10 @@ female
 #end
 
 --- Posetammeaish Jungle Champion (Atlantian), Gold: 15, Resources: 3, Roles: [ranged, sacred] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Ranged unit
 #newmonster 4579
 #name "Posetammeaish Jungle Champion"
@@ -37786,11 +37786,11 @@ female
 #end
 
 --- Posetammeaish Raptor Winged Champion (Caelian), Gold: 10, Resources: 11, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4580
 #name "Posetammeaish Raptor Winged Champion"
@@ -37824,10 +37824,10 @@ female
 #end
 
 --- Posetammeaish Shambler Knight (Atlantian), Gold: 40, Resources: 48, Roles: [infantry, sacred] (shambler infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 4581
 #name "Posetammeaish Shambler Knight"
@@ -37862,10 +37862,10 @@ female
 #end
 
 --- Posetammeaish Shambler Trident Champion (Atlantian), Gold: 20, Resources: 43, Roles: [infantry, sacred] (shambler infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4582
 #name "Posetammeaish Shambler Trident Champion"
@@ -37899,10 +37899,10 @@ female
 #end
 
 --- Posetammeaish Shambler Champion (Atlantian), Gold: 30, Resources: 40, Roles: [infantry, sacred] (shambler infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4583
 #name "Posetammeaish Shambler Champion"
@@ -37937,10 +37937,10 @@ female
 #end
 
 --- Posetammeaish Shambler Standard Bearer (Atlantian), Gold: 45, Resources: 40, Roles: [infantry, sacred] (shambler infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4584
 #name "Posetammeaish Shambler Standard Bearer"
@@ -37976,7 +37976,7 @@ female
 #end
 
 --- Retributor of Lightning (Atlantian), Gold: 11, Resources: 32, Roles: [infantry, sacred] (meteor armor infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [filterdesc: ["zealous desc"]]
@@ -38013,7 +38013,7 @@ female
 #end
 
 --- Furious Exemplar (Atlantian), Gold: 27, Resources: 16, Roles: [infantry, sacred] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -38054,10 +38054,10 @@ female
 #end
 
 --- Spy (Atlantian), Gold: 50, Resources: 6, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy
 #newmonster 4587
 #name "Spy"
@@ -38092,11 +38092,11 @@ female
 #end
 
 --- General (Caelian), Gold: 60, Resources: 11, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4588
 #name "General"
@@ -38133,10 +38133,10 @@ female
 #end
 
 --- Elite Commander (Atlantian), Gold: 145, Resources: 48, Roles: [infantry, sacred] (shambler infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 4589
 #name "Elite Commander"
@@ -38175,7 +38175,7 @@ female
 #end
 
 --- Junior Bishop (Atlantian), Gold: 80, Resources: 1, Roles: [priest, mage] (T2 medium casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -38213,7 +38213,7 @@ female
 #end
 
 ---  Bishop (Atlantian), Gold: 115, Resources: 3, Roles: [priest, mage] (T2 medium casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -38252,7 +38252,7 @@ female
 #end
 
 --- Great Bishop (Atlantian), Gold: 210, Resources: 3, Roles: [priest, mage] (T2 medium casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [3]]
@@ -38292,7 +38292,7 @@ female
 #end
 
 --- Posetammeaish Novice (Atlantian), Gold: 110, Resources: 1, Roles: [priest, mage] (T2 medium casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]]
@@ -38331,7 +38331,7 @@ female
 #end
 
 --- Disciple of Marred Shallows (Atlantian), Gold: 175, Resources: 3, Roles: [priest, mage] (T2 medium casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [helmet]]
@@ -38370,7 +38370,7 @@ female
 #end
 
 --- Disciple of the Marred Wolf (Atlantian), Gold: 175, Resources: 3, Roles: [priest, mage] (T2 medium casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [helmet]]
@@ -38409,7 +38409,7 @@ female
 #end
 
 --- Harbinger of Marred Shallows (Atlantian), Gold: 260, Resources: 3, Roles: [priest, mage] (T2 medium casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [helmet]]
@@ -38455,7 +38455,7 @@ female
 #end
 
 --- Harbinger of the Marred Wolf (Atlantian), Gold: 285, Resources: 3, Roles: [priest, mage] (T2 medium casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [helmet]]
@@ -38502,10 +38502,10 @@ female
 #end
 
 --- Hero (Atlantian), Gold: 0, Resources: 4, Roles: [priest, mage] (T2 large casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (250), airele, autodishealer2, regeneration
 #newmonster 4598
 #name "Hero"
@@ -38629,10 +38629,10 @@ female
 #end
 
 --- Sirsan Human Slave Champion (Dynastic human), Gold: 7, Resources: 6, Roles: [ranged] (slave archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, stocky
 #newmonster 4599
 #name "Sirsan Human Slave Champion"
@@ -38666,11 +38666,11 @@ female
 #end
 
 --- Sirsan Human Falchioneer (Dynastic human), Gold: 10, Resources: 11, Roles: [infantry, elite infantry, sacred infantry] (human inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, stocky
 #newmonster 4600
 #name "Sirsan Human Falchioneer"
@@ -38704,11 +38704,11 @@ female
 #end
 
 --- Sirsan Human Falchioneer (Dynastic human), Gold: 10, Resources: 11, Roles: [infantry, elite infantry, sacred infantry] (human inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, stocky
 #newmonster 4601
 #name "Sirsan Human Falchioneer"
@@ -38741,11 +38741,11 @@ female
 #end
 
 --- Sirsan Human Swordsman (Dynastic human), Gold: 10, Resources: 9, Roles: [infantry, elite infantry, sacred infantry] (human inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, stocky
 #newmonster 4602
 #name "Sirsan Human Swordsman"
@@ -38778,11 +38778,11 @@ female
 #end
 
 --- Sirsan Human Swordsman (Dynastic human), Gold: 10, Resources: 10, Roles: [infantry, elite infantry, sacred infantry] (human inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, stocky
 #newmonster 4603
 #name "Sirsan Human Swordsman"
@@ -38815,7 +38815,7 @@ female
 #end
 
 --- Sirsan Human Camel Champion (Dynastic human), Gold: 35, Resources: 20, Roles: [human chariot, chariot, elite chariot, sacred chariot] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -38859,7 +38859,7 @@ female
 #end
 
 --- Warden of Fire (Dynastic human), Gold: 60, Resources: 16, Roles: [sacred ranged] (dustwalker archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [nature]], [price_if_command: [at #size 1 +3]], [filterdesc: ["horned serpent desc"]], [sacred: []]
@@ -38906,11 +38906,11 @@ female
 #end
 
 --- Scout (Dynastic human), Gold: 30, Resources: 10, Roles: [scout] (human scout)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout, stocky
 #newmonster 4606
 #name "Scout"
@@ -38948,11 +38948,11 @@ female
 #end
 
 --- Swordsmaster (Dynastic human), Gold: 60, Resources: 10, Roles: [infantry, elite infantry, sacred infantry] (human inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, stocky
 #newmonster 4607
 #name "Swordsmaster"
@@ -38988,7 +38988,7 @@ female
 #end
 
 --- Spearmaster (Dynastic human), Gold: 85, Resources: 20, Roles: [human chariot, chariot, elite chariot, sacred chariot] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -39035,7 +39035,7 @@ female
 #end
 
 --- General (Dynastic human), Gold: 100, Resources: 16, Roles: [sacred ranged] (dustwalker archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [nature]], [price_if_command: [at #size 1 +3]], [filterdesc: ["horned serpent desc"]], [sacred: []]
@@ -39084,7 +39084,7 @@ female
 #end
 
 --- High Priest (Dynastic human), Gold: 115, Resources: 1, Roles: [mage, priest] (T1 human)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -39123,7 +39123,7 @@ female
 #end
 
 --- Sirsan Initiate (Dynastic human), Gold: 65, Resources: 3, Roles: [mage, priest] (T1 human)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -39165,7 +39165,7 @@ female
 #end
 
 --- Keeper of the Divine Mirror (Dynastic human), Gold: 280, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -39218,7 +39218,7 @@ female
 #end
 
 --- Keeper of the Divine Sphere (Dynastic human), Gold: 280, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -39271,11 +39271,11 @@ female
 #end
 
 --- Hero (Dynastic human), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (370), ethereal2, deathrec, ivylord 1, greatboar
 #newmonster 4614
 #name "Hero"
@@ -39326,11 +39326,11 @@ female
 #end
 
 --- Hero (Dynastic human), Gold: 0, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (350), spider, coldres, deathrec
 #newmonster 4615
 #name "Hero"
@@ -39908,10 +39908,10 @@ female
 #end
 
 --- Neanusan Champion (Amazon human), Gold: 30, Resources: 10, Roles: [ranged, elite ranged, sacred ranged] (bow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, -1
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, fireres5, mountainsurvival
 #newmonster 4616
 #name "Neanusan Champion"
@@ -39952,11 +39952,11 @@ female
 #end
 
 --- Neanusan Ophidian Forest Harponeer (Ophidian), Gold: 11, Resources: 14, Roles: [infantry, sacred infantry, elite infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit
 #newmonster 4617
 #name "Neanusan Ophidian Forest Harponeer"
@@ -39994,11 +39994,11 @@ female
 #end
 
 --- Neanusan Ophidian Forest Spearman (Ophidian), Gold: 11, Resources: 13, Roles: [infantry, sacred infantry, elite infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit
 #newmonster 4618
 #name "Neanusan Ophidian Forest Spearman"
@@ -40036,10 +40036,10 @@ female
 #end
 
 --- Neanusan Knight (Amazon human), Gold: 35, Resources: 22, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit, fireres5, mountainsurvival
 #newmonster 4619
 #name "Neanusan Knight"
@@ -40078,10 +40078,10 @@ female
 #end
 
 --- Neanusan Heavy Trident Champion (Amazon human), Gold: 30, Resources: 23, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, fireres5, mountainsurvival
 #newmonster 4620
 #name "Neanusan Heavy Trident Champion"
@@ -40120,11 +40120,11 @@ female
 #end
 
 --- Neanusan Champion (Amazon human), Gold: 30, Resources: 25, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, fireres5, mountainsurvival
 #newmonster 4621
 #name "Neanusan Champion"
@@ -40164,11 +40164,11 @@ female
 #end
 
 --- Neanusan Heavy Trident Champion (Amazon human), Gold: 30, Resources: 26, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, fireres5, mountainsurvival
 #newmonster 4622
 #name "Neanusan Heavy Trident Champion"
@@ -40208,11 +40208,11 @@ female
 #end
 
 --- Neanusan Trident Champion (Amazon human), Gold: 30, Resources: 9, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, fireres5, mountainsurvival
 #newmonster 4623
 #name "Neanusan Trident Champion"
@@ -40252,10 +40252,10 @@ female
 #end
 
 --- Neanusan Trident Champion (Amazon human), Gold: 30, Resources: 6, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, fireres5, mountainsurvival
 #newmonster 4624
 #name "Neanusan Trident Champion"
@@ -40294,7 +40294,7 @@ female
 #end
 
 --- Radiant Champion (Amazon human), Gold: 70, Resources: 13, Roles: [ranged, elite ranged, sacred ranged] (bow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["awe desc"]], [price_per_command: [#hp 1 10]], [sacred: []]
@@ -40340,11 +40340,11 @@ female
 #end
 
 --- Assassin (Amazon human), Gold: 70, Resources: 9, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -1, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin, fireres5, mountainsurvival
 #newmonster 4626
 #name "Assassin"
@@ -40388,11 +40388,11 @@ female
 #end
 
 --- Forest Lord (Ophidian), Gold: 70, Resources: 14, Roles: [infantry, sacred infantry, elite infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit
 #newmonster 4627
 #name "Forest Lord"
@@ -40434,11 +40434,11 @@ female
 #end
 
 --- General (Amazon human), Gold: 60, Resources: 25, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, fireres5, mountainsurvival
 #newmonster 4628
 #name "General"
@@ -40480,7 +40480,7 @@ female
 #end
 
 --- Sacred Maiden (Amazon human), Gold: 80, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -40526,7 +40526,7 @@ female
 #end
 
 --- High Priestess (Amazon human), Gold: 145, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -40573,7 +40573,7 @@ female
 #end
 
 --- Initiate Forest Revenant (Amazon human), Gold: 80, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -40618,7 +40618,7 @@ female
 #end
 
 ---  Forest Revenant (Amazon human), Gold: 200, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -40666,7 +40666,7 @@ female
 #end
 
 --- Chosen Forest Revenant (Amazon human), Gold: 390, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -40720,7 +40720,7 @@ female
 #end
 
 --- Hero (Amazon human), Gold: 0, Resources: 17, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -1, 0
@@ -40909,7 +40909,7 @@ female
 #end
 
 --- Baohtguan Spearman (Illithid), Gold: 40, Resources: 16, Roles: [mounted, elite mounted, sacred mounted] (normal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 2, 3
@@ -40953,7 +40953,7 @@ female
 #end
 
 --- Baohtguan Champion (Illithid), Gold: 28, Resources: 1, Roles: [mounted, elite mounted, sacred mounted] (normal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [hasmontag: []], [itemslot: [feet -1]]
@@ -40992,7 +40992,7 @@ female
 #end
 
 --- Baohtguan Spearman (Illithid), Gold: 30, Resources: 8, Roles: [mounted, elite mounted, sacred mounted] (normal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 2, 4
@@ -41036,7 +41036,7 @@ female
 #end
 
 --- Trident Hybrid Heavy Infantry (Illithid), Gold: 9, Resources: 19, Roles: [infantry, elite infantry, sacred infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [hasmontag: []]
@@ -41072,7 +41072,7 @@ female
 #end
 
 --- Hybrid Heavy Infantry (Illithid), Gold: 9, Resources: 10, Roles: [infantry, elite infantry, sacred infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -6, 2
 -- Armor: 0, 0
 -- Offhand: 5, 7
@@ -41110,7 +41110,7 @@ female
 #end
 
 --- Heavy Spearman (Illithid), Gold: 10, Resources: 19, Roles: [infantry, elite infantry, sacred infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 2, 3
@@ -41148,7 +41148,7 @@ female
 #end
 
 --- Sword Hybrid Heavy Infantry (Illithid), Gold: 11, Resources: 22, Roles: [infantry, elite infantry, sacred infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, 3
 -- Armor: 0, 0
 -- Offhand: 5, 7
@@ -41186,10 +41186,10 @@ female
 #end
 
 --- Baohtguan Mind Champion (Illithid), Gold: 50, Resources: 2, Roles: [ranged] (mindflayer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4642
 #name "Baohtguan Mind Champion"
@@ -41227,7 +41227,7 @@ female
 #end
 
 --- Hybrid Heavy Infantry (Illithid), Gold: 10, Resources: 17, Roles: [infantry] (hybrid infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [montagunit: []]
@@ -41262,10 +41262,10 @@ When recruited, one unit of this category will appear instead of the unit shown 
 #end
 
 --- Baohtguan Champion (Illithid), Gold: 14, Resources: 6, Roles: [infantry, elite infantry, sacred infantry] (advanced hybrid infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4644
 #name "Baohtguan Champion"
@@ -41297,11 +41297,11 @@ When recruited, one unit of this category will appear instead of the unit shown 
 #end
 
 --- Baohtguan Satyr Slave Swordsman (Halfman), Gold: 8, Resources: 7, Roles: [infantry, scout] (satyr warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 4645
 #name "Baohtguan Satyr Slave Swordsman"
@@ -41339,11 +41339,11 @@ When recruited, one unit of this category will appear instead of the unit shown 
 #end
 
 --- Baohtguan Light Satyr Javelin Impaler (Halfman), Gold: 8, Resources: 6, Roles: [infantry, scout] (satyr warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 4646
 #name "Baohtguan Light Satyr Javelin Impaler"
@@ -41382,11 +41382,11 @@ When recruited, one unit of this category will appear instead of the unit shown 
 #end
 
 --- Baohtguan Satyr Slave Swordsman (Halfman), Gold: 8, Resources: 6, Roles: [infantry, scout] (satyr warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 4647
 #name "Baohtguan Satyr Slave Swordsman"
@@ -41424,11 +41424,11 @@ When recruited, one unit of this category will appear instead of the unit shown 
 #end
 
 --- Baohtguan Satyr Javelin Impaler (Halfman), Gold: 8, Resources: 9, Roles: [infantry, scout] (satyr warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 4648
 #name "Baohtguan Satyr Javelin Impaler"
@@ -41467,10 +41467,10 @@ When recruited, one unit of this category will appear instead of the unit shown 
 #end
 
 --- Baohtguan Minotaur Elite Spearmaster (Halfman), Gold: 45, Resources: 18, Roles: [infantry, scout] (2h long)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, elite +1, Infantry unit
 #newmonster 4649
 #name "Baohtguan Minotaur Elite Spearmaster"
@@ -41507,11 +41507,11 @@ When recruited, one unit of this category will appear instead of the unit shown 
 #end
 
 --- Baohtguan Minotaur Slave Swordsman (Halfman), Gold: 45, Resources: 9, Roles: [infantry, scout] (DW)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, -7
 -- Armor: 0, 0
 -- Offhand: 10, -6
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, skirmisher stealthy, Infantry unit
 #newmonster 4650
 #name "Baohtguan Minotaur Slave Swordsman"
@@ -41552,7 +41552,7 @@ When recruited, one unit of this category will appear instead of the unit shown 
 #end
 
 --- Hybrid Cavalry (Illithid), Gold: 35, Resources: 7, Roles: [mounted] (hybrid cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]], [montagunit: []]
@@ -41587,7 +41587,7 @@ When recruited, one unit of this category will appear instead of the unit shown 
 #end
 
 --- Radiant Hunter (Halfman), Gold: 45, Resources: 10, Roles: [infantry, scout] (satyr warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -41635,10 +41635,10 @@ gcost 1
 #end
 
 --- Assassin (Illithid), Gold: 90, Resources: 1, Roles: [scout] (scout)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 4653
 #name "Assassin"
@@ -41678,7 +41678,7 @@ gcost 1
 #end
 
 --- Mace Commander (Illithid), Gold: 65, Resources: 10, Roles: [infantry, elite infantry, sacred infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -6, 2
 -- Armor: 0, 0
 -- Offhand: 5, 7
@@ -41719,7 +41719,7 @@ gcost 1
 #end
 
 --- Spear Champion (Illithid), Gold: 125, Resources: 16, Roles: [mounted, elite mounted, sacred mounted] (normal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 2, 3
@@ -41766,7 +41766,7 @@ gcost 1
 #end
 
 --- Spearmaster (Halfman), Gold: 90, Resources: 10, Roles: [infantry, scout] (satyr warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -41816,7 +41816,7 @@ gcost 1
 #end
 
 --- Acolyte (Illithid), Gold: 80, Resources: 2, Roles: [mage, priest] (starchildren)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -41858,7 +41858,7 @@ gcost 1
 #end
 
 --- Exarch (Illithid), Gold: 130, Resources: 2, Roles: [mage, priest] (starchildren)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -41900,7 +41900,7 @@ gcost 1
 #end
 
 --- Lesser Saintly Ravager (Illithid), Gold: 150, Resources: 2, Roles: [mage, priest] (starchildren)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]], [magepriest: []]
@@ -41945,7 +41945,7 @@ gcost 1
 #end
 
 ---  Saintly Ravager (Illithid), Gold: 305, Resources: 2, Roles: [mage] (illithid mages T2)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [magepriest: []]
@@ -41995,7 +41995,7 @@ gcost 1
 #end
 
 --- Adept Saintly Ravager (Illithid), Gold: 470, Resources: 2, Roles: [mage] (illithid mages T3)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [magepriest: []], [varyslot: [color]]
@@ -42048,10 +42048,10 @@ gcost 1
 #end
 
 --- Hero (Illithid), Gold: 0, Resources: 2, Roles: [mage] (illithid mages T3)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (290), resource generator 10, slimer, majorcoldres, awe, thug-tier2, majorfireres
 #newmonster 4662
 #name "Hero"
@@ -42101,10 +42101,10 @@ gcost 1
 #end
 
 --- Hero (Illithid), Gold: 0, Resources: 2, Roles: [mage] (illithid mages T3)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (290), resource generator 10, airele, illusion, airshield
 #newmonster 4663
 #name "Hero"
@@ -42155,10 +42155,10 @@ gcost 1
 #end
 
 --- Hero (Illithid), Gold: 0, Resources: 2, Roles: [mage] (illithid mages T3)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (250), invulnerable20, inquisitor
 #newmonster 4664
 #name "Hero"
@@ -42208,10 +42208,10 @@ gcost 1
 --- Unit definitions for Cythpos
 
 --- Cythposan Champion (Halfman), Gold: 25, Resources: 7, Roles: [ranged] (centaur archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Ranged unit
 #newmonster 4665
 #name "Cythposan Champion"
@@ -42250,11 +42250,11 @@ gcost 1
 #end
 
 --- Cythposan Axe Champion (Halfman), Gold: 25, Resources: 9, Roles: [infantry] (centaur warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -7
 -- Armor: 0, 0
 -- Offhand: -7, -19
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4666
 #name "Cythposan Axe Champion"
@@ -42291,11 +42291,11 @@ gcost 1
 #end
 
 --- Cythposan Light Centauride Trident Champion (Halfman), Gold: 25, Resources: 10, Roles: [infantry] (centauride warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -9, -11
 -- Armor: 0, 0
 -- Offhand: -7, -18
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4667
 #name "Cythposan Light Centauride Trident Champion"
@@ -42333,11 +42333,11 @@ gcost 1
 #end
 
 --- Cythposan Centauride Spear Champion (Halfman), Gold: 25, Resources: 9, Roles: [infantry] (centauride warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -9, -11
 -- Armor: 0, 0
 -- Offhand: -7, -18
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4668
 #name "Cythposan Centauride Spear Champion"
@@ -42376,11 +42376,11 @@ gcost 1
 #end
 
 --- Cythposan Light Centauride Axe Champion (Halfman), Gold: 25, Resources: 9, Roles: [infantry] (centauride warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -6
 -- Armor: 0, 0
 -- Offhand: -7, -18
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4669
 #name "Cythposan Light Centauride Axe Champion"
@@ -42418,11 +42418,11 @@ gcost 1
 #end
 
 --- Cythposan Centauride Elite Spearmistress (Halfman), Gold: 30, Resources: 7, Roles: [infantry] (centauride warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -9, -11
 -- Armor: 0, 0
 -- Offhand: -7, -18
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 4670
 #name "Cythposan Centauride Elite Spearmistress"
@@ -42460,11 +42460,11 @@ gcost 1
 #end
 
 --- Cythposan Centauride Champion (Halfman), Gold: 25, Resources: 16, Roles: [infantry] (centauride warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -6
 -- Armor: 0, 0
 -- Offhand: -7, -18
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4671
 #name "Cythposan Centauride Champion"
@@ -42503,11 +42503,11 @@ gcost 1
 #end
 
 --- Cythposan Centauride Trident Champion (Halfman), Gold: 25, Resources: 16, Roles: [infantry] (centauride warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -9, -11
 -- Armor: 0, 0
 -- Offhand: -7, -18
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4672
 #name "Cythposan Centauride Trident Champion"
@@ -42546,11 +42546,11 @@ gcost 1
 #end
 
 --- Cythposan Centauride Axe Champion (Halfman), Gold: 25, Resources: 15, Roles: [infantry] (centauride warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -6
 -- Armor: 0, 0
 -- Offhand: -7, -18
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4673
 #name "Cythposan Centauride Axe Champion"
@@ -42589,7 +42589,7 @@ gcost 1
 #end
 
 --- Scout of Spring (Halfman), Gold: 40, Resources: 15, Roles: [infantry] (centauride warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -8, -10
 -- Armor: 0, 0
 --- Generation tags: [path: [nature]], [filterdesc: ["springpower desc"]], [sacred: []]
@@ -42634,10 +42634,10 @@ gcost 1
 #end
 
 --- Scout (Halfman), Gold: 45, Resources: 10, Roles: [scout] (centaur scout)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 4675
 #name "Scout"
@@ -42676,11 +42676,11 @@ gcost 1
 #end
 
 --- Axe Chieftain (Halfman), Gold: 65, Resources: 9, Roles: [infantry] (centaur warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -7
 -- Armor: 0, 0
 -- Offhand: -7, -19
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4676
 #name "Axe Chieftain"
@@ -42719,11 +42719,11 @@ gcost 1
 #end
 
 --- Swordsmistress (Halfman), Gold: 95, Resources: 16, Roles: [infantry] (centauride warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -6
 -- Armor: 0, 0
 -- Offhand: -7, -18
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4677
 #name "Swordsmistress"
@@ -42766,7 +42766,7 @@ gcost 1
 #end
 
 --- Neophyte Muse (Halfman), Gold: 70, Resources: 3, Roles: [mage, priest] (centauride casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 1
 -- Armor: 0, 0
 -- Offhand: 0, 1
@@ -42811,7 +42811,7 @@ gcost 1
 #end
 
 --- Supreme Muse (Halfman), Gold: 125, Resources: 1, Roles: [mage, priest] (centauride casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -8
 -- Armor: 0, 0
 -- Offhand: -10, -18
@@ -42856,7 +42856,7 @@ gcost 1
 #end
 
 --- Novice Serene Abbot (Halfman), Gold: 80, Resources: 1, Roles: [mage, priest] (centaur casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -7
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -42899,7 +42899,7 @@ gcost 1
 #end
 
 ---  Serene Abbot (Halfman), Gold: 160, Resources: 1, Roles: [mage, priest] (centaur casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -17
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -42946,7 +42946,7 @@ gcost 1
 #end
 
 --- Master Serene Abbot (Halfman), Gold: 420, Resources: 1, Roles: [mage, priest] (centaur casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -7
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -42992,11 +42992,11 @@ gcost 1
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 1, Roles: [mage, priest] (centauride casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -6
 -- Armor: 0, 0
 -- Offhand: -10, -18
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (270), ivylord 1, healerscaling, fireele
 #newmonster 4683
 #name "Hero"
@@ -43041,7 +43041,7 @@ gcost 1
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 17, Roles: [infantry] (centaur warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -8, -17
 -- Armor: 0, 0
 -- Offhand: -7, -19
@@ -43092,7 +43092,7 @@ gcost 1
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 12, Roles: [infantry] (centauride warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -8, -16
 -- Armor: 0, 0
 -- Offhand: -7, -18
@@ -43181,10 +43181,10 @@ gcost 1
 #end
 
 --- Cikosish Human Slave Champion (Feudal human), Gold: 10, Resources: 6, Roles: [ranged, elite ranged, sacred ranged] (crossbowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Ranged unit
 #newmonster 4686
 #name "Cikosish Human Slave Champion"
@@ -43216,10 +43216,10 @@ gcost 1
 #end
 
 --- Cikosish Human Master Swordsmaster (Feudal human), Gold: 10, Resources: 23, Roles: [infantry] (2h inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, elite +1, Infantry unit
 #newmonster 4687
 #name "Cikosish Human Master Swordsmaster"
@@ -43250,10 +43250,10 @@ gcost 1
 #end
 
 --- Cikosish Heavy Human Slave Swordsman (Feudal human), Gold: 9, Resources: 14, Roles: [infantry] (2h inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 4688
 #name "Cikosish Heavy Human Slave Swordsman"
@@ -43284,11 +43284,11 @@ gcost 1
 #end
 
 --- Cikosish Human Slave Swordsman (Feudal human), Gold: 9, Resources: 8, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 4689
 #name "Cikosish Human Slave Swordsman"
@@ -43320,10 +43320,10 @@ gcost 1
 #end
 
 --- Cikosish Human Slave Champion (Feudal human), Gold: 9, Resources: 4, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 4690
 #name "Cikosish Human Slave Champion"
@@ -43354,10 +43354,10 @@ gcost 1
 #end
 
 --- Cikosish Heavy Swordsman (Lizard), Gold: 10, Resources: 8, Roles: [infantry, sacred infantry, elite infantry] (2h)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, forestsurvival
 #newmonster 4691
 #name "Cikosish Heavy Swordsman"
@@ -43394,10 +43394,10 @@ gcost 1
 #end
 
 --- Cikosish Bardiche Champion (Lizard), Gold: 10, Resources: 5, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, forestsurvival
 #newmonster 4692
 #name "Cikosish Bardiche Champion"
@@ -43434,10 +43434,10 @@ gcost 1
 #end
 
 --- Cikosish Champion (Lizard), Gold: 10, Resources: 2, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, forestsurvival
 #newmonster 4693
 #name "Cikosish Champion"
@@ -43474,11 +43474,11 @@ gcost 1
 #end
 
 --- Cikosish Swordsman (Lizard), Gold: 10, Resources: 5, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, forestsurvival
 #newmonster 4694
 #name "Cikosish Swordsman"
@@ -43516,7 +43516,7 @@ gcost 1
 #end
 
 --- Cikosish Human Slave Champion (Feudal human), Gold: 27, Resources: 18, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -43556,7 +43556,7 @@ gcost 1
 #end
 
 --- Hellish Master (Lizard), Gold: 27, Resources: 25, Roles: [infantry, sacred infantry, elite infantry] (2h)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 --- Generation tags: [nopose: [ranged, mounted]], [filterdesc: ["reinvig desc"]], [sacred: []]
@@ -43598,10 +43598,10 @@ gcost 1
 #end
 
 --- Scout (Lizard), Gold: 30, Resources: 2, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 4697
 #name "Scout"
@@ -43640,11 +43640,11 @@ gcost 1
 #end
 
 --- Swordsmaster (Feudal human), Gold: 55, Resources: 8, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 4698
 #name "Swordsmaster"
@@ -43681,10 +43681,10 @@ gcost 1
 #end
 
 --- General (Lizard), Gold: 65, Resources: 8, Roles: [infantry, sacred infantry, elite infantry] (2h)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, forestsurvival
 #newmonster 4699
 #name "General"
@@ -43725,7 +43725,7 @@ gcost 1
 #end
 
 --- Spearmaster (Feudal human), Gold: 80, Resources: 18, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -43771,7 +43771,7 @@ gcost 1
 #end
 
 --- Junior Parson (Lizard), Gold: 50, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -43815,7 +43815,7 @@ gcost 1
 #end
 
 --- Elder Parson (Lizard), Gold: 130, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -43859,7 +43859,7 @@ gcost 1
 #end
 
 --- Neophyte Vampiric Icecrafter (Feudal human), Gold: 135, Resources: 6, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -43899,7 +43899,7 @@ gcost 1
 #end
 
 --- Major Vampiric Icecrafter (Feudal human), Gold: 220, Resources: 7, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -43942,7 +43942,7 @@ gcost 1
 #end
 
 --- Greater Vampiric Icecrafter (Lizard), Gold: 375, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
@@ -43992,7 +43992,7 @@ gcost 1
 #end
 
 --- Hero (Lizard), Gold: 0, Resources: 22, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
@@ -44044,7 +44044,7 @@ gcost 1
 #end
 
 --- Hero (Lizard), Gold: 0, Resources: 13, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
@@ -44097,7 +44097,7 @@ ressize 2
 #end
 
 --- Hero (Lizard), Gold: 0, Resources: 14, Roles: [ranged, sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werecrocodile"]], [filterdesc: ["werecrocodile desc", "stealthy desc", "allres desc", "pillage desc"]]
@@ -44213,10 +44213,10 @@ ressize 2
 #end
 
 --- Spivish Champion (Caelian), Gold: 15, Resources: 11, Roles: [ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4709
 #name "Spivish Champion"
@@ -44250,10 +44250,10 @@ ressize 2
 #end
 
 --- Spivish Champion (Caelian), Gold: 15, Resources: 12, Roles: [ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4710
 #name "Spivish Champion"
@@ -44287,10 +44287,10 @@ ressize 2
 #end
 
 --- Spivish Flail Bandit (Caelian), Gold: 15, Resources: 12, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: pillager, Infantry unit
 #newmonster 4711
 #name "Spivish Flail Bandit"
@@ -44324,11 +44324,11 @@ ressize 2
 #end
 
 --- Spivish Spear Bandit (Caelian), Gold: 15, Resources: 13, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: pillager, Infantry unit
 #newmonster 4712
 #name "Spivish Spear Bandit"
@@ -44363,10 +44363,10 @@ ressize 2
 #end
 
 --- Spivish Flail Champion (Caelian), Gold: 15, Resources: 12, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4713
 #name "Spivish Flail Champion"
@@ -44399,11 +44399,11 @@ ressize 2
 #end
 
 --- Spivish Spear Champion (Caelian), Gold: 15, Resources: 12, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4714
 #name "Spivish Spear Champion"
@@ -44437,11 +44437,11 @@ ressize 2
 #end
 
 --- Spivish Champion (Caelian), Gold: 15, Resources: 11, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4715
 #name "Spivish Champion"
@@ -44475,7 +44475,7 @@ ressize 2
 #end
 
 --- Spring Reaver (Caelian), Gold: 27, Resources: 14, Roles: [sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 3
 -- Armor: 0, 0
 --- Generation tags: [path: [nature]], [primarycommand: [#pierceres]], [filterdesc: ["springpower desc", "pierceres desc"]], [price_per_command: [#hp 0.5 20]], [sacred: []]
@@ -44517,11 +44517,11 @@ ressize 2
 --- Hydra Hatchling (Unit ID 1840), Gold: 35, Resources: 1
 
 --- Assassin (Caelian), Gold: 55, Resources: 9, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 4717
 #name "Assassin"
@@ -44559,11 +44559,11 @@ ressize 2
 #end
 
 --- Spearmaster (Caelian), Gold: 75, Resources: 13, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: pillager, Infantry unit
 #newmonster 4718
 #name "Spearmaster"
@@ -44602,11 +44602,11 @@ ressize 2
 #end
 
 --- Spear Lord (Caelian), Gold: 65, Resources: 12, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4719
 #name "Spear Lord"
@@ -44643,7 +44643,7 @@ ressize 2
 #end
 
 --- High Priest (Caelian), Gold: 70, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -44682,7 +44682,7 @@ ressize 2
 #end
 
 --- Sorcerer of the Reflection (Caelian), Gold: 160, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -44724,7 +44724,7 @@ ressize 2
 #end
 
 --- Minor Devoted Pyromancer (Caelian), Gold: 90, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -44764,7 +44764,7 @@ ressize 2
 #end
 
 --- Devoted Hellion (Caelian), Gold: 210, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -44806,7 +44806,7 @@ ressize 2
 #end
 
 --- Devoted Mage-engineer (Caelian), Gold: 240, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -44849,7 +44849,7 @@ ressize 2
 #end
 
 --- Supreme Devoted Pyromancer (Caelian), Gold: 355, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 2, 7
 -- Armor: 0, 0
 -- Offhand: -3, 2
@@ -44893,7 +44893,7 @@ ressize 2
 #end
 
 --- Hero (Caelian), Gold: 0, Resources: 9, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 2
@@ -44938,7 +44938,7 @@ ressize 2
 #end
 
 --- Hero (Caelian), Gold: 0, Resources: 12, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -44986,7 +44986,7 @@ ressize 2
 #end
 
 --- Hero (Caelian), Gold: 0, Resources: 31, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -45148,10 +45148,10 @@ ressize 2
 #end
 
 ---  (Bakemono), Gold: 7, Resources: 3, Roles: [ranged, scout] (little skirmishers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4729
 #name "Mizudorfine Bakemono Champion"
@@ -45190,10 +45190,10 @@ ressize 2
 #end
 
 --- Mizudorfine Yari Ranger (Hoburg), Gold: 6, Resources: 2, Roles: [infantry, elite infantry, sacred infantry] (stealthy oriental infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4730
 #name "Mizudorfine Yari Ranger"
@@ -45226,10 +45226,10 @@ ressize 2
 #end
 
 --- Mizudorfine Spear Ranger (Hoburg), Gold: 6, Resources: 2, Roles: [infantry, elite infantry, sacred infantry] (stealthy oriental infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4731
 #name "Mizudorfine Spear Ranger"
@@ -45262,11 +45262,11 @@ ressize 2
 #end
 
 --- Mizudorfine Ranger (Hoburg), Gold: 6, Resources: 1, Roles: [infantry, elite infantry, sacred infantry] (stealthy oriental infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4732
 #name "Mizudorfine Ranger"
@@ -45301,10 +45301,10 @@ ressize 2
 #end
 
 ---  (Bakemono), Gold: 7, Resources: 1, Roles: [infantry, scout] (little 1h warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4733
 #name "Mizudorfine Bakemono Champion"
@@ -45342,10 +45342,10 @@ ressize 2
 #end
 
 ---  (Bakemono), Gold: 7, Resources: 2, Roles: [infantry, scout] (little 1h warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4734
 #name "Mizudorfine Bakemono Ashigaru"
@@ -45383,7 +45383,7 @@ ressize 2
 #end
 
 --- Mizudorfine Thane (Hoburg), Gold: 25, Resources: 4, Roles: [mounted, elite mounted, sacred mounted] (stealthy oriental cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -45425,7 +45425,7 @@ ressize 2
 #end
 
 --- Mizudorfine Deer Lancer (Hoburg), Gold: 21, Resources: 8, Roles: [mounted, elite mounted, sacred mounted] (stealthy oriental cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 12
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -45465,7 +45465,7 @@ ressize 2
 #end
 
 --- Mizudorfine Champion (Hoburg), Gold: 21, Resources: 6, Roles: [mounted, elite mounted, sacred mounted] (stealthy oriental cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -45505,7 +45505,7 @@ ressize 2
 #end
 
 --- Mizudorfine Lancer (Hoburg), Gold: 26, Resources: 7, Roles: [mounted, elite mounted, sacred mounted] (stealthy oriental cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -45547,7 +45547,7 @@ ressize 2
 #end
 
 --- Night Stalker (Hoburg), Gold: 9, Resources: 5, Roles: [infantry, elite infantry, sacred infantry] (stealthy oriental infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 12
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -45586,11 +45586,11 @@ ressize 2
 #end
 
 --- Assassin (Hoburg), Gold: 45, Resources: 1, Roles: [scout] (oriental scout)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 4740
 #name "Assassin"
@@ -45625,10 +45625,10 @@ ressize 2
 #end
 
 --- Spearmeister (Hoburg), Gold: 65, Resources: 2, Roles: [infantry, elite infantry, sacred infantry] (stealthy oriental infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4741
 #name "Spearmeister"
@@ -45665,10 +45665,10 @@ ressize 2
 #end
 
 ---  (Bakemono), Gold: 7, Resources: 1, Roles: [infantry, scout] (little 1h warriors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4742
 #name "Axe Commander"
@@ -45707,7 +45707,7 @@ ressize 2
 #end
 
 --- Commanding Thane (Hoburg), Gold: 85, Resources: 4, Roles: [mounted, elite mounted, sacred mounted] (stealthy oriental cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -45752,7 +45752,7 @@ ressize 2
 #end
 
 --- High Priest (Hoburg), Gold: 60, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -45791,7 +45791,7 @@ ressize 2
 #end
 
 --- Diamond Fellow (Hoburg), Gold: 185, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -45832,7 +45832,7 @@ ressize 2
 #end
 
 ---  (Bakemono), Gold: 8, Resources: 10, Roles: [mage, priest] (unmounted warrior-caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]]
@@ -45876,7 +45876,7 @@ ressize 2
 #end
 
 ---  Mason of the Depths (Hoburg), Gold: 130, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, 12
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -45918,7 +45918,7 @@ ressize 2
 #end
 
 --- Chosen Mason of the Depths (Hoburg), Gold: 245, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, 12
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -45960,11 +45960,11 @@ ressize 2
 #end
 
 --- Hero (Hoburg), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, 12
 -- Armor: 0, 0
 -- Offhand: 0, 9
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (270), forgebonus 2 primary, ghoul: size 1, deathrec, blackdog_primary, resource generator 25, floating
 #newmonster 4749
 #name "Hero"
@@ -46044,10 +46044,10 @@ ressize 2
 #end
 
 --- Wineiran Tundra Champion (Imperial human), Gold: 10, Resources: 4, Roles: [ranged, scout] (ranged auxiliary)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: wasteunit, Ranged unit, mountainsurvival
 #newmonster 4750
 #name "Wineiran Tundra Champion"
@@ -46079,11 +46079,11 @@ ressize 2
 #end
 
 --- Velite (Imperial human), Gold: 10, Resources: 3, Roles: [infantry] (velite)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: mountainunit, Infantry unit
 #newmonster 4751
 #name "Velite"
@@ -46117,10 +46117,10 @@ ressize 2
 #end
 
 --- Standard (Imperial human), Gold: 20, Resources: 6, Roles: [infantry] (standard)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, mountainsurvival
 #newmonster 4752
 #name "Standard"
@@ -46157,11 +46157,11 @@ ressize 2
 #end
 
 --- Milite (Imperial human), Gold: 10, Resources: 2, Roles: [infantry] (milite)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, mountainsurvival
 #newmonster 4753
 #name "Milite"
@@ -46193,11 +46193,11 @@ ressize 2
 #end
 
 --- Hastatus (Imperial human), Gold: 11, Resources: 3, Roles: [infantry] (hastatus)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, mountainsurvival
 #newmonster 4754
 #name "Hastatus"
@@ -46230,11 +46230,11 @@ ressize 2
 #end
 
 --- Principe (Imperial human), Gold: 14, Resources: 3, Roles: [infantry] (principe)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, mountainsurvival
 #newmonster 4755
 #name "Principe"
@@ -46268,11 +46268,11 @@ ressize 2
 #end
 
 --- Triarius (Imperial human), Gold: 15, Resources: 5, Roles: [infantry] (triarius)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, mountainsurvival
 #newmonster 4756
 #name "Triarius"
@@ -46306,10 +46306,10 @@ ressize 2
 #end
 
 --- Wineiran Abysian Champion (Abysian), Gold: 20, Resources: 9, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4757
 #name "Wineiran Abysian Champion"
@@ -46344,7 +46344,7 @@ ressize 2
 #end
 
 --- Unholy Cohort (Imperial human), Gold: 30, Resources: 9, Roles: [sacred infantry, elite infantry] (corhors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -46385,10 +46385,10 @@ ressize 2
 #end
 
 --- Assassin (Imperial human), Gold: 50, Resources: 2, Roles: [ranged, scout] (ranged auxiliary)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin, mountainsurvival
 #newmonster 4759
 #name "Assassin"
@@ -46423,11 +46423,11 @@ ressize 2
 #end
 
 --- Spearmaster (Imperial human), Gold: 70, Resources: 3, Roles: [infantry] (hastatus)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, mountainsurvival
 #newmonster 4760
 #name "Spearmaster"
@@ -46464,11 +46464,11 @@ ressize 2
 #end
 
 --- Commanding Champion (Imperial human), Gold: 75, Resources: 3, Roles: [infantry] (principe)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, mountainsurvival
 #newmonster 4761
 #name "Commanding Champion"
@@ -46506,7 +46506,7 @@ ressize 2
 #end
 
 --- Commander (Imperial human), Gold: 95, Resources: 9, Roles: [sacred infantry, elite infantry] (corhors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -46550,7 +46550,7 @@ ressize 2
 #end
 
 --- Junior Vicar (Imperial human), Gold: 50, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -46586,7 +46586,7 @@ ressize 2
 #end
 
 --- Supreme Vicar (Imperial human), Gold: 145, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -46622,7 +46622,7 @@ ressize 2
 #end
 
 --- Novice of the Exalted Throne (Imperial human), Gold: 85, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -46660,7 +46660,7 @@ ressize 2
 #end
 
 --- Sorcerer of the Exalted Throne (Imperial human), Gold: 165, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -46698,7 +46698,7 @@ ressize 2
 #end
 
 --- Bringer of the Exalted Throne (Imperial human), Gold: 345, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -46740,7 +46740,7 @@ ressize 2
 #end
 
 --- Hero (Imperial human), Gold: 0, Resources: 7, Roles: [sacred infantry, elite infantry] (corhors)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -46788,11 +46788,11 @@ ressize 2
 #end
 
 --- Hero (Imperial human), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), ethereal2, autodishealer2, deathrec, fear, mountainsurvival
 #newmonster 4769
 #name "Hero"
@@ -46832,11 +46832,11 @@ ressize 2
 #end
 
 --- Hero (Imperial human), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (270), deathrec, elegist 1, forgebonus 2 primary, resource generator 15, floating, autohealer 3, mountainsurvival
 #newmonster 4770
 #name "Hero"
@@ -46909,10 +46909,10 @@ ressize 2
 #end
 
 --- Sri Logan Vanara Mountain Champion (Primate), Gold: 8, Resources: 7, Roles: [ranged] (vanara light archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: mountainunit, wasteunit, Ranged unit
 #newmonster 4771
 #name "Sri Logan Vanara Mountain Champion"
@@ -46947,10 +46947,10 @@ ressize 2
 #end
 
 --- Sri Logan Vanara Champion (Primate), Gold: 8, Resources: 13, Roles: [ranged] (vanara archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4772
 #name "Sri Logan Vanara Champion"
@@ -46983,11 +46983,11 @@ ressize 2
 #end
 
 --- Sri Logan Bandar Mace Champion (Primate), Gold: 16, Resources: 16, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4773
 #name "Sri Logan Bandar Mace Champion"
@@ -47022,10 +47022,10 @@ ressize 2
 #end
 
 --- Sri Logan Bandar Champion (Primate), Gold: 16, Resources: 16, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4774
 #name "Sri Logan Bandar Champion"
@@ -47059,11 +47059,11 @@ ressize 2
 #end
 
 --- Sri Logan Bandar Chakram Champion (Primate), Gold: 16, Resources: 19, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4775
 #name "Sri Logan Bandar Chakram Champion"
@@ -47099,11 +47099,11 @@ ressize 2
 #end
 
 --- Sri Logan Bandar Spear Champion (Primate), Gold: 16, Resources: 3, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4776
 #name "Sri Logan Bandar Spear Champion"
@@ -47136,10 +47136,10 @@ ressize 2
 #end
 
 --- Sri Logan Bandar Harpoon Champion (Primate), Gold: 16, Resources: 1, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4777
 #name "Sri Logan Bandar Harpoon Champion"
@@ -47172,11 +47172,11 @@ ressize 2
 #end
 
 --- Sri Logan Bandar Axe Thrower (Primate), Gold: 16, Resources: 6, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4778
 #name "Sri Logan Bandar Axe Thrower"
@@ -47210,11 +47210,11 @@ ressize 2
 #end
 
 --- Sri Logan Tusked One Spear Champion (Dantih), Gold: 70, Resources: 22, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4779
 #name "Sri Logan Tusked One Spear Champion"
@@ -47248,7 +47248,7 @@ ressize 2
 #end
 
 --- Exalted Templar (Primate), Gold: 18, Resources: 21, Roles: [sacred infantry, elite infantry] (vanara sacred infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -47289,10 +47289,10 @@ ressize 2
 #end
 
 --- Assassin (Primate), Gold: 45, Resources: 1, Roles: [infantry, scout] (markata infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 4781
 #name "Assassin"
@@ -47329,11 +47329,11 @@ ressize 2
 #end
 
 --- Mace Commander (Primate), Gold: 65, Resources: 16, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4782
 #name "Mace Commander"
@@ -47373,10 +47373,10 @@ ressize 2
 #end
 
 --- General (Primate), Gold: 45, Resources: 16, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4783
 #name "General"
@@ -47412,7 +47412,7 @@ ressize 2
 #end
 
 --- Spear Lord (Primate), Gold: 70, Resources: 21, Roles: [sacred infantry, elite infantry] (vanara sacred infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -47457,7 +47457,7 @@ ressize 2
 #end
 
 --- Great Abbot (Primate), Gold: 125, Resources: 1, Roles: [mage, priest] (bandar caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 4
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -47497,7 +47497,7 @@ ressize 2
 #end
 
 --- Minor Shining Diviner (Primate), Gold: 65, Resources: 1, Roles: [mage, priest] (bandar caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -47538,7 +47538,7 @@ ressize 2
 #end
 
 --- Shining Astrologer (Primate), Gold: 160, Resources: 1, Roles: [mage, priest] (bandar caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -47582,7 +47582,7 @@ ressize 2
 #end
 
 --- Shining Planewalker (Primate), Gold: 130, Resources: 3, Roles: [mage, priest] (bandar caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -47625,7 +47625,7 @@ ressize 2
 #end
 
 --- Grand Shining Diviner (Primate), Gold: 350, Resources: 1, Roles: [mage] (vanara elder mage, floating)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [helmet]]
@@ -47667,9 +47667,9 @@ ressize 2
 #end
 
 --- Supplicant (Primate), Gold: 50, Resources: 1, Roles: [mage] (vanara mage, sitting)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: comslave
 #newmonster 4790
 #name "Supplicant"
@@ -47702,10 +47702,10 @@ ressize 2
 #end
 
 --- Hero (Primate), Gold: 0, Resources: 1, Roles: [mage] (vanara elder mage, floating)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (270), resource generator 10, ivylord 3, ethereal2, thug-tier2, jaguar
 #newmonster 4791
 #name "Hero"
@@ -47746,10 +47746,10 @@ ressize 2
 #end
 
 --- Hero (Primate), Gold: 0, Resources: 1, Roles: [mage] (vanara elder mage, floating)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), fireele, ethereal2, resource generator 25, swampsurvival
 #newmonster 4792
 #name "Hero"
@@ -47847,10 +47847,10 @@ ressize 2
 #end
 
 --- Chatechean Vanara Hill Champion (Primate), Gold: 8, Resources: 13, Roles: [ranged] (vanara light archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: mountainunit, Ranged unit
 #newmonster 4793
 #name "Chatechean Vanara Hill Champion"
@@ -47885,11 +47885,11 @@ ressize 2
 #end
 
 --- Chatechean Vanara Sword Champion (Primate), Gold: 8, Resources: 16, Roles: [infantry] (vanara infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 6
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4794
 #name "Chatechean Vanara Sword Champion"
@@ -47922,10 +47922,10 @@ ressize 2
 #end
 
 --- Chatechean Vanara Axe Champion (Primate), Gold: 8, Resources: 14, Roles: [infantry] (vanara infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4795
 #name "Chatechean Vanara Axe Champion"
@@ -47957,11 +47957,11 @@ ressize 2
 #end
 
 --- Chatechean Vanara Champion (Primate), Gold: 8, Resources: 15, Roles: [infantry] (vanara infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4796
 #name "Chatechean Vanara Champion"
@@ -47994,10 +47994,10 @@ ressize 2
 #end
 
 --- Chatechean Axe Champion (Primate), Gold: 16, Resources: 9, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4797
 #name "Chatechean Axe Champion"
@@ -48031,11 +48031,11 @@ ressize 2
 #end
 
 --- Chatechean Sword Champion (Primate), Gold: 16, Resources: 9, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4798
 #name "Chatechean Sword Champion"
@@ -48070,11 +48070,11 @@ ressize 2
 #end
 
 --- Chatechean Sword Champion (Primate), Gold: 16, Resources: 10, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4799
 #name "Chatechean Sword Champion"
@@ -48109,7 +48109,7 @@ ressize 2
 #end
 
 --- Chatechean Vanara Champion (Primate), Gold: 40, Resources: 15, Roles: [mounted] (vanara cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 6
 -- Armor: 0, 0
 -- Offhand: 2, 2
@@ -48151,7 +48151,7 @@ ressize 2
 #end
 
 --- Temple Vindicator (Primate), Gold: 29, Resources: 40, Roles: [sacred infantry, elite infantry] (bandar elite infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [sacred: []]
@@ -48190,10 +48190,10 @@ ressize 2
 #end
 
 --- Scout (Primate), Gold: 28, Resources: 2, Roles: [scout] (vanara scouts)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 6
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 4802
 #name "Scout"
@@ -48227,10 +48227,10 @@ ressize 2
 #end
 
 --- Tribune (Primate), Gold: 75, Resources: 9, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4803
 #name "Tribune"
@@ -48268,7 +48268,7 @@ ressize 2
 #end
 
 --- Proconsul (Primate), Gold: 90, Resources: 15, Roles: [mounted] (vanara cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 6
 -- Armor: 0, 0
 -- Offhand: 2, 2
@@ -48315,7 +48315,7 @@ ressize 2
 #end
 
 --- Magistrate (Primate), Gold: 95, Resources: 40, Roles: [sacred infantry, elite infantry] (bandar elite infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [sacred: []]
@@ -48360,7 +48360,7 @@ ressize 2
 #end
 
 --- Yogi (Primate), Gold: 60, Resources: 1, Roles: [mage, priest] (bandar caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -48402,7 +48402,7 @@ ressize 2
 #end
 
 --- Rishi (Primate), Gold: 125, Resources: 1, Roles: [mage, priest] (bandar elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -48442,7 +48442,7 @@ ressize 2
 #end
 
 --- Chatechean Novice (Primate), Gold: 50, Resources: 1, Roles: [mage, priest] (bandar caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -48481,7 +48481,7 @@ ressize 2
 #end
 
 --- Forest Lord (Primate), Gold: 155, Resources: 1, Roles: [mage, priest] (bandar caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -48525,7 +48525,7 @@ ressize 2
 #end
 
 --- Ivory Lord (Primate), Gold: 155, Resources: 1, Roles: [mage, priest] (bandar caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -48569,7 +48569,7 @@ ressize 2
 #end
 
 --- Forest Keeper (Primate), Gold: 345, Resources: 1, Roles: [mage, priest] (bandar elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -48615,7 +48615,7 @@ ressize 2
 #end
 
 --- Ivory Keeper (Primate), Gold: 330, Resources: 1, Roles: [mage, priest] (bandar elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -48660,7 +48660,7 @@ ressize 2
 #end
 
 --- Hero (Primate), Gold: 0, Resources: 40, Roles: [sacred ranged, elite ranged] (bandar elite archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [water]], [filterdesc: ["allres desc", "winterpower desc", "pillage desc"]], [sacred: []]
@@ -48711,7 +48711,7 @@ ressize 2
 #end
 
 --- Hero (Primate), Gold: 0, Resources: 45, Roles: [sacred ranged, elite ranged] (bandar elite archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werebear"]], [filterdesc: ["werebear desc", "stealthy desc"]]
@@ -48855,10 +48855,10 @@ ressize 2
 #end
 
 --- Patasan Lizard Champion (Lizard), Gold: 10, Resources: 6, Roles: [ranged, sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4815
 #name "Patasan Lizard Champion"
@@ -48894,10 +48894,10 @@ ressize 2
 #end
 
 --- Patasan Lizard Halberd Champion (Lizard), Gold: 10, Resources: 4, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4816
 #name "Patasan Lizard Halberd Champion"
@@ -48932,11 +48932,11 @@ ressize 2
 #end
 
 --- Patasan Morningstar Champion (Halfman), Gold: 10, Resources: 25, Roles: [infantry] (satyr soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 4817
 #name "Patasan Morningstar Champion"
@@ -48971,10 +48971,10 @@ ressize 2
 #end
 
 --- Patasan Minotaur Axeman (Halfman), Gold: 30, Resources: 40, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4818
 #name "Patasan Minotaur Axeman"
@@ -49009,10 +49009,10 @@ ressize 2
 #end
 
 --- Patasan Minotaur Trident Champion (Halfman), Gold: 30, Resources: 40, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4819
 #name "Patasan Minotaur Trident Champion"
@@ -49047,11 +49047,11 @@ ressize 2
 #end
 
 --- Patasan Heavy Minotaur Morningstar Champion (Halfman), Gold: 30, Resources: 45, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 6, -4
 -- Armor: 0, 0
 -- Offhand: 10, -4
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4820
 #name "Patasan Heavy Minotaur Morningstar Champion"
@@ -49087,11 +49087,11 @@ ressize 2
 #end
 
 --- Patasan Minotaur Morningstar Champion (Halfman), Gold: 30, Resources: 33, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 6, -4
 -- Armor: 0, 0
 -- Offhand: 10, -4
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4821
 #name "Patasan Minotaur Morningstar Champion"
@@ -49127,11 +49127,11 @@ ressize 2
 #end
 
 --- Patasan Minotaur Champion (Halfman), Gold: 30, Resources: 34, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 6, -4
 -- Armor: 0, 0
 -- Offhand: 5, -10
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4822
 #name "Patasan Minotaur Champion"
@@ -49168,10 +49168,10 @@ ressize 2
 #end
 
 --- Patasan Minotaur Flail Champion (Halfman), Gold: 30, Resources: 28, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4823
 #name "Patasan Minotaur Flail Champion"
@@ -49206,7 +49206,7 @@ ressize 2
 #end
 
 --- Furious Aspirant (Lizard), Gold: 14, Resources: 6, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -49247,7 +49247,7 @@ ressize 2
 #end
 
 --- Rhubarb Hierophant (Halfman), Gold: 30, Resources: 16, Roles: [infantry] (satyr soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -49290,10 +49290,10 @@ ressize 2
 #end
 
 --- Spy (Halfman), Gold: 70, Resources: 10, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, -7
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy
 #newmonster 4826
 #name "Spy"
@@ -49331,10 +49331,10 @@ ressize 2
 #end
 
 --- Halberd Commander (Lizard), Gold: 60, Resources: 4, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4827
 #name "Halberd Commander"
@@ -49372,11 +49372,11 @@ ressize 2
 #end
 
 --- Morningstar Lord (Halfman), Gold: 100, Resources: 33, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 6, -4
 -- Armor: 0, 0
 -- Offhand: 10, -4
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4828
 #name "Morningstar Lord"
@@ -49416,7 +49416,7 @@ ressize 2
 #end
 
 --- Spearmaster (Halfman), Gold: 70, Resources: 16, Roles: [infantry] (satyr soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -49460,7 +49460,7 @@ ressize 2
 #end
 
 --- Novice (Halfman), Gold: 50, Resources: 1, Roles: [mage, priest] (satyr casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -6, -2
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -49499,7 +49499,7 @@ ressize 2
 #end
 
 --- High Priest (Halfman), Gold: 140, Resources: 1, Roles: [mage, priest] (satyr casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -10, -13
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -49539,7 +49539,7 @@ ressize 2
 #end
 
 --- Disciple of the Chained Crusade (Halfman), Gold: 240, Resources: 1, Roles: [mage, priest] (dryad casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -6, -2
 -- Armor: 0, 0
 --- Generation tags: [extramage: [2]], [tier2: []], [magepriest: []]
@@ -49585,7 +49585,7 @@ ressize 2
 #end
 
 --- Fledgling Fury Apostle (Halfman), Gold: 145, Resources: 1, Roles: [mage, priest] (dryad casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -6, -2
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]]
@@ -49626,7 +49626,7 @@ ressize 2
 #end
 
 ---  Fury Apostle (Halfman), Gold: 175, Resources: 3, Roles: [mage, priest] (dryad casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -6, -2
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]]
@@ -49667,7 +49667,7 @@ ressize 2
 #end
 
 --- Master Fury Apostle (Halfman), Gold: 330, Resources: 3, Roles: [mage, priest] (dryad casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -6, -2
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [weapon]]
@@ -49711,10 +49711,10 @@ ressize 2
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 1, Roles: [mage, priest] (satyr casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -6, -2
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (350), welemental, blackdog_primary, deathrec
 #newmonster 4836
 #name "Hero"
@@ -49760,7 +49760,7 @@ gcost 1
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 17, Roles: [ranged] (satyr archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [nature]], [price_if_command: [at #size 1 +5]], [filterdesc: ["werewolf desc", "poisonarmor desc"]], [sacred: []]
@@ -49885,10 +49885,10 @@ gcost 1
 #end
 
 --- Djesuish Humanbred Champion (Abysian), Gold: 12, Resources: 14, Roles: [humanbred archers, ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4838
 #name "Djesuish Humanbred Champion"
@@ -49923,11 +49923,11 @@ gcost 1
 #end
 
 --- Djesuish Humanbred Champion (Abysian), Gold: 12, Resources: 35, Roles: [humanbred infantry, infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -31, -64
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4839
 #name "Djesuish Humanbred Champion"
@@ -49962,10 +49962,10 @@ gcost 1
 #end
 
 --- Djesuish Humanbred Axe Champion (Abysian), Gold: 12, Resources: 34, Roles: [humanbred infantry, infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4840
 #name "Djesuish Humanbred Axe Champion"
@@ -49999,11 +49999,11 @@ gcost 1
 #end
 
 --- Djesuish Humanbred Axe Champion (Abysian), Gold: 12, Resources: 35, Roles: [humanbred infantry, infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -31, -64
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4841
 #name "Djesuish Humanbred Axe Champion"
@@ -50038,11 +50038,11 @@ gcost 1
 #end
 
 --- Djesuish Axe Champion (Abysian), Gold: 24, Resources: 27, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -31, -64
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 4842
 #name "Djesuish Axe Champion"
@@ -50078,10 +50078,10 @@ gcost 1
 #end
 
 --- Djesuish Jungle Mauler (Abysian), Gold: 20, Resources: 12, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit
 #newmonster 4843
 #name "Djesuish Jungle Mauler"
@@ -50117,11 +50117,11 @@ gcost 1
 #end
 
 --- Djesuish Jungle Champion (Abysian), Gold: 20, Resources: 15, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -31, -64
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit
 #newmonster 4844
 #name "Djesuish Jungle Champion"
@@ -50158,7 +50158,7 @@ gcost 1
 #end
 
 --- Djesuish Humanbred Knight (Abysian), Gold: 35, Resources: 33, Roles: [humanbred cavalry, mounted, elite mounted, sacred mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -50201,7 +50201,7 @@ gcost 1
 #end
 
 --- Primal Knight (Abysian), Gold: 50, Resources: 25, Roles: [sacred infantry, scout] (elite demonbred infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -50244,11 +50244,11 @@ gcost 1
 #end
 
 --- Assassin (Abysian), Gold: 60, Resources: 11, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 4847
 #name "Assassin"
@@ -50287,10 +50287,10 @@ gcost 1
 #end
 
 --- Castellan (Abysian), Gold: 60, Resources: 12, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit
 #newmonster 4848
 #name "Castellan"
@@ -50328,11 +50328,11 @@ gcost 1
 #end
 
 --- Mace Chieftain (Abysian), Gold: 70, Resources: 35, Roles: [humanbred infantry, infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -31, -64
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4849
 #name "Mace Chieftain"
@@ -50371,7 +50371,7 @@ gcost 1
 #end
 
 --- Falchion Commander (Abysian), Gold: 125, Resources: 33, Roles: [humanbred cavalry, mounted, elite mounted, sacred mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -50418,7 +50418,7 @@ gcost 1
 #end
 
 --- Winged High Chieftain (Abysian), Gold: 115, Resources: 25, Roles: [sacred infantry, scout] (elite demonbred infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -50464,7 +50464,7 @@ gcost 1
 #end
 
 --- Anathemant (Abysian), Gold: 65, Resources: 1, Roles: [mage, priest] (middling abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -50505,7 +50505,7 @@ gcost 1
 #end
 
 --- Neophyte of Occult Wildfires (Abysian), Gold: 140, Resources: 4, Roles: [mage, priest] (lowly humanbred casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -50550,7 +50550,7 @@ gcost 1
 #end
 
 --- Lord of Occult Wildfires (Abysian), Gold: 240, Resources: 4, Roles: [mage, priest] (middling abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -50594,7 +50594,7 @@ gcost 1
 #end
 
 --- King of Occult Wildfires (Abysian), Gold: 430, Resources: 4, Roles: [mage, priest] (lofty abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -50642,11 +50642,11 @@ gcost 1
 #end
 
 --- Hero (Abysian), Gold: 0, Resources: 4, Roles: [mage, priest] (lofty abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), wererat, fireshield, better researcher +3 - tier 3 mages, elegist 1, floating
 #newmonster 4856
 #name "Hero"
@@ -50695,11 +50695,11 @@ gcost 1
 #end
 
 --- Hero (Abysian), Gold: 0, Resources: 3, Roles: [mage, priest] (lofty abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (270), werewolf, autodishealer2, better researcher +1, forgebonus 2 primary, resource generator 15
 #newmonster 4857
 #name "Hero"
@@ -50783,10 +50783,10 @@ gcost 1
 #end
 
 --- Simbatuan Champion (Austral human), Gold: 10, Resources: 4, Roles: [ranged, sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4858
 #name "Simbatuan Champion"
@@ -50818,11 +50818,11 @@ gcost 1
 #end
 
 --- Simbatuan Spear Champion (Austral human), Gold: 10, Resources: 4, Roles: [infantry, sacred infantry, elite infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4859
 #name "Simbatuan Spear Champion"
@@ -50853,11 +50853,11 @@ gcost 1
 #end
 
 --- Simbatuan Champion (Austral human), Gold: 10, Resources: 3, Roles: [infantry, sacred infantry, elite infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4860
 #name "Simbatuan Champion"
@@ -50887,10 +50887,10 @@ gcost 1
 #end
 
 --- Simbatuan Avvite Marsh Champion (Avvite), Gold: 25, Resources: 7, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 4861
 #name "Simbatuan Avvite Marsh Champion"
@@ -50925,7 +50925,7 @@ gcost 1
 #end
 
 --- Simbatuan Elite Swordsmaster (Austral human), Gold: 60, Resources: 31, Roles: [mounted, sacred mounted, elite mounted] (mounted low)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -50967,7 +50967,7 @@ gcost 1
 #end
 
 --- Simbatuan Champion (Austral human), Gold: 25, Resources: 7, Roles: [mounted, sacred mounted, elite mounted] (mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -51007,7 +51007,7 @@ gcost 1
 #end
 
 --- Avenging Warden (Avvite), Gold: 45, Resources: 32, Roles: [ranged] (bowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["patrol desc"]], [sacred: []]
@@ -51048,10 +51048,10 @@ gcost 1
 #end
 
 --- Scout (Austral human), Gold: 30, Resources: 3, Roles: [infantry, sacred infantry, elite infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 4865
 #name "Scout"
@@ -51084,10 +51084,10 @@ gcost 1
 #end
 
 --- Swamp Champion (Avvite), Gold: 75, Resources: 7, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 4866
 #name "Swamp Champion"
@@ -51125,7 +51125,7 @@ gcost 1
 #end
 
 --- Swordsmaster (Austral human), Gold: 120, Resources: 31, Roles: [mounted, sacred mounted, elite mounted] (mounted low)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -51170,7 +51170,7 @@ gcost 1
 #end
 
 --- Warchief (Avvite), Gold: 110, Resources: 32, Roles: [ranged] (bowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["patrol desc"]], [sacred: []]
@@ -51214,7 +51214,7 @@ gcost 1
 #end
 
 --- Neophyte (Austral human), Gold: 65, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -51251,7 +51251,7 @@ gcost 1
 #end
 
 --- High Priest (Austral human), Gold: 115, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -51289,7 +51289,7 @@ gcost 1
 #end
 
 --- Novice Simbatuan Tutor (Austral human), Gold: 85, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -51328,7 +51328,7 @@ gcost 1
 #end
 
 --- Simbatuan Tutor (Austral human), Gold: 175, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -51367,7 +51367,7 @@ gcost 1
 #end
 
 --- Adept Wolfkin of Fog (Austral human), Gold: 235, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -51410,7 +51410,7 @@ gcost 1
 #end
 
 --- Adept Wolfkin of the Harvests (Austral human), Gold: 250, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -51453,7 +51453,7 @@ gcost 1
 #end
 
 --- Hero (Austral human), Gold: 0, Resources: 10, Roles: [infantry, sacred infantry, elite infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -51494,11 +51494,11 @@ gcost 1
 #end
 
 --- Hero (Austral human), Gold: 0, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (250), chargedbody, earthele, flying, mountainsurvival
 #newmonster 4876
 #name "Hero"
@@ -51683,10 +51683,10 @@ gcost 1
 #end
 
 --- Omellian Centauride Champion (Halfman), Gold: 25, Resources: 31, Roles: [ranged] (centauride crossbowmaidens)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -12
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Ranged unit
 #newmonster 4877
 #name "Omellian Centauride Champion"
@@ -51725,10 +51725,10 @@ gcost 1
 #end
 
 --- Omellian Centauride Champion (Halfman), Gold: 27, Resources: 27, Roles: [ranged] (centauride crossbowmaidens)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -12
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Ranged unit
 #newmonster 4878
 #name "Omellian Centauride Champion"
@@ -51767,11 +51767,11 @@ gcost 1
 #end
 
 --- Omellian Swamp Lancer (Halfman), Gold: 25, Resources: 27, Roles: [infantry] (centaur soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -9, -12
 -- Armor: 0, 0
 -- Offhand: -7, -19
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 4879
 #name "Omellian Swamp Lancer"
@@ -51809,11 +51809,11 @@ gcost 1
 #end
 
 --- Omellian Swamp Spearman (Halfman), Gold: 25, Resources: 27, Roles: [infantry] (centaur soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -9, -12
 -- Armor: 0, 0
 -- Offhand: -7, -19
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 4880
 #name "Omellian Swamp Spearman"
@@ -51851,11 +51851,11 @@ gcost 1
 #end
 
 --- Omellian Centauride Spearmaiden (Halfman), Gold: 25, Resources: 43, Roles: [infantry] (centauride soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -9, -11
 -- Armor: 0, 0
 -- Offhand: -7, -18
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4881
 #name "Omellian Centauride Spearmaiden"
@@ -51893,11 +51893,11 @@ gcost 1
 #end
 
 --- Omellian Centauride Lancer (Halfman), Gold: 25, Resources: 43, Roles: [infantry] (centauride soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -9, -11
 -- Armor: 0, 0
 -- Offhand: -7, -18
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4882
 #name "Omellian Centauride Lancer"
@@ -51935,10 +51935,10 @@ gcost 1
 #end
 
 --- Omellian Centauride Champion (Halfman), Gold: 25, Resources: 45, Roles: [infantry] (centauride soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -6, -11
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4883
 #name "Omellian Centauride Champion"
@@ -51975,10 +51975,10 @@ gcost 1
 #end
 
 --- Omellian Minotaur Bardiche Champion (Halfman), Gold: 30, Resources: 43, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4884
 #name "Omellian Minotaur Bardiche Champion"
@@ -52013,11 +52013,11 @@ gcost 1
 #end
 
 --- Omellian Minotaur Spearman (Halfman), Gold: 30, Resources: 39, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 9, -12
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4885
 #name "Omellian Minotaur Spearman"
@@ -52053,7 +52053,7 @@ gcost 1
 #end
 
 --- Tomb Guardian (Halfman), Gold: 40, Resources: 48, Roles: [ranged] (centaur crossbowmen)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -13
 -- Armor: 0, 0
 --- Generation tags: [path: [death]], [filterdesc: ["ghoul desc"]], [sacred: []]
@@ -52096,10 +52096,10 @@ gcost 1
 #end
 
 --- Assassin (Halfman), Gold: 65, Resources: 15, Roles: [scout] (centaur scout)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 4887
 #name "Assassin"
@@ -52138,11 +52138,11 @@ gcost 1
 #end
 
 --- General (Halfman), Gold: 75, Resources: 27, Roles: [infantry] (centaur soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -9, -12
 -- Armor: 0, 0
 -- Offhand: -7, -19
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 4888
 #name "General"
@@ -52183,10 +52183,10 @@ gcost 1
 #end
 
 --- Lieutenant (Halfman), Gold: 100, Resources: 43, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4889
 #name "Lieutenant"
@@ -52225,7 +52225,7 @@ gcost 1
 #end
 
 --- Champion (Halfman), Gold: 130, Resources: 48, Roles: [ranged] (centaur crossbowmen)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -13
 -- Armor: 0, 0
 --- Generation tags: [path: [death]], [filterdesc: ["ghoul desc"]], [sacred: []]
@@ -52273,7 +52273,7 @@ gcost 1
 #end
 
 --- Fledgling Cleric (Halfman), Gold: 70, Resources: 1, Roles: [mage, priest] (centauride casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -6
 -- Armor: 0, 0
 -- Offhand: 0, 1
@@ -52318,7 +52318,7 @@ gcost 1
 #end
 
 --- Adept Cleric (Halfman), Gold: 135, Resources: 1, Roles: [mage, priest] (centaur casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -17
 -- Armor: 0, 0
 -- Offhand: -10, -19
@@ -52360,7 +52360,7 @@ gcost 1
 #end
 
 --- Bog Lady (Halfman), Gold: 190, Resources: 1, Roles: [mage, priest] (centauride casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -8
 -- Armor: 0, 0
 -- Offhand: 0, 1
@@ -52408,7 +52408,7 @@ gcost 1
 #end
 
 --- Apprentice Evoker of the Coven (Halfman), Gold: 120, Resources: 3, Roles: [mage, priest] (centaur casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -52450,7 +52450,7 @@ gcost 1
 #end
 
 --- Veteran Evoker of the Coven (Halfman), Gold: 170, Resources: 1, Roles: [mage, priest] (centaur casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -9
 -- Armor: 0, 0
 -- Offhand: -10, -19
@@ -52495,7 +52495,7 @@ gcost 1
 #end
 
 --- Great Evoker of the Coven (Halfman), Gold: 235, Resources: 1, Roles: [mage, priest] (centaur casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, -13
 -- Armor: 0, 0
 -- Offhand: -10, -19
@@ -52543,11 +52543,11 @@ gcost 1
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 1, Roles: [mage, priest] (centauride casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, -10
 -- Armor: 0, 0
 -- Offhand: -10, -18
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (290), fear, forgebonus 2 primary, resource generator 15, majorcoldres, wererat
 #newmonster 4897
 #name "Hero"
@@ -52595,11 +52595,11 @@ gcost 1
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 1, Roles: [mage, priest] (centaur casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -7
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (370), heretic, ghoul: size 2, deathrec
 #newmonster 4898
 #name "Hero"
@@ -52742,10 +52742,10 @@ gcost 1
 #end
 
 --- Palainian Desert Champion (Atlantian), Gold: 13, Resources: 7, Roles: [ranged, sacred] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: wasteunit, Ranged unit
 #newmonster 4899
 #name "Palainian Desert Champion"
@@ -52780,10 +52780,10 @@ gcost 1
 #end
 
 --- Palainian Desert Champion (Atlantian), Gold: 15, Resources: 6, Roles: [ranged, sacred] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: wasteunit, Ranged unit
 #newmonster 4900
 #name "Palainian Desert Champion"
@@ -52818,10 +52818,10 @@ gcost 1
 #end
 
 --- Palainian Pale One Flail Champion (Pale One), Gold: 9, Resources: 34, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4901
 #name "Palainian Pale One Flail Champion"
@@ -52861,11 +52861,11 @@ gcost 1
 #end
 
 --- Palainian Pale One Trident Champion (Pale One), Gold: 9, Resources: 36, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4902
 #name "Palainian Pale One Trident Champion"
@@ -52906,10 +52906,10 @@ gcost 1
 #end
 
 --- Palainian Trident Champion (Atlantian), Gold: 10, Resources: 32, Roles: [infantry, sacred] (meteor armor infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4903
 #name "Palainian Trident Champion"
@@ -52942,10 +52942,10 @@ gcost 1
 #end
 
 --- Palainian Glaive Champion (Atlantian), Gold: 10, Resources: 32, Roles: [infantry, sacred] (meteor armor infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4904
 #name "Palainian Glaive Champion"
@@ -52978,10 +52978,10 @@ gcost 1
 #end
 
 --- Palainian Shambler Jungle Standard Bearer (Atlantian), Gold: 45, Resources: 9, Roles: [infantry, sacred] (shambler infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Infantry unit
 #newmonster 4905
 #name "Palainian Shambler Jungle Standard Bearer"
@@ -53018,7 +53018,7 @@ gcost 1
 #end
 
 --- Unseen Follower (Atlantian), Gold: 45, Resources: 32, Roles: [mounted, sacred] (meteor armor cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [itemslot: [feet -1]], [filterdesc: ["stealthy desc", "professional desc"]]
@@ -53058,7 +53058,7 @@ gcost 1
 #end
 
 --- Holy Cohort (Atlantian), Gold: 45, Resources: 27, Roles: [infantry, sacred] (shambler infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [sacred: []]
@@ -53098,10 +53098,10 @@ gcost 1
 #end
 
 --- Spy (Atlantian), Gold: 50, Resources: 11, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy
 #newmonster 4908
 #name "Spy"
@@ -53138,10 +53138,10 @@ gcost 1
 #end
 
 --- Castellan (Pale One), Gold: 60, Resources: 34, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4909
 #name "Castellan"
@@ -53184,7 +53184,7 @@ gcost 1
 #end
 
 --- Glaive Commander (Atlantian), Gold: 95, Resources: 32, Roles: [mounted, sacred] (meteor armor cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [itemslot: [feet -1]], [filterdesc: ["stealthy desc", "professional desc"]]
@@ -53227,7 +53227,7 @@ gcost 1
 #end
 
 --- Junior Conjurer (Atlantian), Gold: 65, Resources: 1, Roles: [priest, mage] (T3 large casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -53265,7 +53265,7 @@ gcost 1
 #end
 
 --- Master Conjurer (Atlantian), Gold: 130, Resources: 4, Roles: [priest, mage] (T3 large casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -53304,7 +53304,7 @@ gcost 1
 #end
 
 --- Sorcerer of Blight (Atlantian), Gold: 165, Resources: 3, Roles: [priest, mage] (T3 large casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [extramage: [1]], [tier1: []]
@@ -53345,7 +53345,7 @@ gcost 1
 #end
 
 --- Monsoon Consort (Atlantian), Gold: 185, Resources: 4, Roles: [priest, mage] (T3 large casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [helmet]]
@@ -53386,7 +53386,7 @@ gcost 1
 #end
 
 --- Corroding Consort (Atlantian), Gold: 185, Resources: 4, Roles: [priest, mage] (T3 large casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [helmet]]
@@ -53427,7 +53427,7 @@ gcost 1
 #end
 
 --- Monsoon Exarch (Atlantian), Gold: 260, Resources: 3, Roles: [priest, mage] (T3 large casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [helmet]]
@@ -53468,7 +53468,7 @@ gcost 1
 #end
 
 --- Corroding Exarch (Atlantian), Gold: 245, Resources: 3, Roles: [priest, mage] (T3 large casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [helmet]]
@@ -53509,10 +53509,10 @@ gcost 1
 #end
 
 --- Hero (Atlantian), Gold: 0, Resources: 4, Roles: [priest, mage] (T2 medium casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), illearth, resource generator 10, heretic, metalman: size 2
 #newmonster 4918
 #name "Hero"
@@ -53631,10 +53631,10 @@ gcost 1
 #end
 
 --- Vitibian Champion (Atlantian), Gold: 15, Resources: 3, Roles: [ranged, sacred] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4919
 #name "Vitibian Champion"
@@ -53667,10 +53667,10 @@ gcost 1
 #end
 
 --- Vitibian Naga Champion (Naga), Gold: 20, Resources: 6, Roles: [ranged, scout] (naga archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: castledef +1, Ranged unit
 #newmonster 4920
 #name "Vitibian Naga Champion"
@@ -53710,10 +53710,10 @@ gcost 1
 #end
 
 --- Vitibian Glaive Champion (Atlantian), Gold: 12, Resources: 32, Roles: [infantry, sacred] (meteor armor infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 4921
 #name "Vitibian Glaive Champion"
@@ -53746,11 +53746,11 @@ gcost 1
 #end
 
 --- Vitibian Spear Champion (Atlantian), Gold: 10, Resources: 13, Roles: [infantry, sacred] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4922
 #name "Vitibian Spear Champion"
@@ -53785,11 +53785,11 @@ gcost 1
 #end
 
 --- Vitibian Swordsman (Atlantian), Gold: 10, Resources: 14, Roles: [infantry, sacred] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4923
 #name "Vitibian Swordsman"
@@ -53824,10 +53824,10 @@ gcost 1
 #end
 
 --- Vitibian Standard Bearer (Atlantian), Gold: 23, Resources: 10, Roles: [infantry, sacred] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4924
 #name "Vitibian Standard Bearer"
@@ -53863,11 +53863,11 @@ gcost 1
 #end
 
 --- Vitibian Naga Spear Champion (Naga), Gold: 20, Resources: 7, Roles: [infantry, scout] (naga infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4925
 #name "Vitibian Naga Spear Champion"
@@ -53906,11 +53906,11 @@ gcost 1
 #end
 
 --- Vitibian Naga Impaler (Naga), Gold: 20, Resources: 9, Roles: [infantry, scout] (naga infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4926
 #name "Vitibian Naga Impaler"
@@ -53949,10 +53949,10 @@ gcost 1
 #end
 
 --- Vitibian Shambler Champion (Atlantian), Gold: 60, Resources: 7, Roles: [infantry, sacred] (shambler infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4927
 #name "Vitibian Shambler Champion"
@@ -53989,7 +53989,7 @@ gcost 1
 #end
 
 --- Vitibian Champion (Atlantian), Gold: 50, Resources: 32, Roles: [mounted, sacred] (meteor armor cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -54029,7 +54029,7 @@ gcost 1
 #end
 
 --- Just Disciple (Atlantian), Gold: 22, Resources: 16, Roles: [infantry, sacred] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -54068,7 +54068,7 @@ gcost 1
 #end
 
 --- Frost Aspirant (Naga), Gold: 35, Resources: 13, Roles: [infantry] (naga 2h infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [primarycommand: [#bluntres]], [filterdesc: ["bluntres desc"]], [price_per_command: [#hp 0.5 20]], [sacred: []]
@@ -54112,10 +54112,10 @@ gcost 1
 #end
 
 --- Scout (Atlantian), Gold: 30, Resources: 7, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 4931
 #name "Scout"
@@ -54150,11 +54150,11 @@ gcost 1
 #end
 
 --- Sword High Chieftain (Atlantian), Gold: 60, Resources: 14, Roles: [infantry, sacred] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4932
 #name "Sword High Chieftain"
@@ -54192,7 +54192,7 @@ gcost 1
 #end
 
 --- Commanding Champion (Atlantian), Gold: 110, Resources: 32, Roles: [mounted, sacred] (meteor armor cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -54236,7 +54236,7 @@ gcost 1
 #end
 
 --- Captain (Naga), Gold: 75, Resources: 13, Roles: [infantry] (naga 2h infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [primarycommand: [#bluntres]], [filterdesc: ["bluntres desc"]], [price_per_command: [#hp 0.5 20]], [sacred: []]
@@ -54283,7 +54283,7 @@ gcost 1
 #end
 
 --- Servant (Atlantian), Gold: 65, Resources: 1, Roles: [priest, mage] (T3 large casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -54321,7 +54321,7 @@ gcost 1
 #end
 
 --- Priest (Atlantian), Gold: 155, Resources: 3, Roles: [priest, mage] (T3 large casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -54362,7 +54362,7 @@ gcost 1
 #end
 
 --- High Priest (Atlantian), Gold: 245, Resources: 4, Roles: [priest, mage] (T3 large casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [3]]
@@ -54404,7 +54404,7 @@ gcost 1
 #end
 
 --- Initiate Enraged Devastator (Naga), Gold: 95, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]]
@@ -54450,7 +54450,7 @@ gcost 1
 #end
 
 --- Enraged Factotum (Naga), Gold: 175, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [helmet]]
@@ -54496,7 +54496,7 @@ gcost 1
 #end
 
 --- Enraged Tutor (Naga), Gold: 175, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [helmet]]
@@ -54542,7 +54542,7 @@ gcost 1
 #end
 
 --- Arch Enraged Devastator (Atlantian), Gold: 240, Resources: 1, Roles: [mage, priest] (T1 little casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [weapon]]
@@ -54580,10 +54580,10 @@ gcost 1
 #end
 
 --- Hero (Naga), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -5
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), illearth, invulnerable10, fear, forgebonus 1 primary, cavecrab
 #newmonster 4942
 #name "Hero"
@@ -54779,10 +54779,10 @@ gcost 1
 #end
 
 --- Chlughine Runner Trident Netter (Lizard), Gold: 13, Resources: 3, Roles: [infantry, scout] (runner skirmisher)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, elite +1, Infantry unit
 #newmonster 4943
 #name "Chlughine Runner Trident Netter"
@@ -54819,10 +54819,10 @@ gcost 1
 #end
 
 --- Chlughine Predator Slave Netter (Lizard), Gold: 11, Resources: 8, Roles: [infantry, sacred infantry, elite infantry] (predator infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, castledef 2, Infantry unit
 #newmonster 4944
 #name "Chlughine Predator Slave Netter"
@@ -54861,10 +54861,10 @@ gcost 1
 #end
 
 --- Chlughine Predator Slave Guard (Lizard), Gold: 11, Resources: 8, Roles: [infantry, sacred infantry, elite infantry] (predator infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, castledef 2, Infantry unit
 #newmonster 4945
 #name "Chlughine Predator Slave Guard"
@@ -54902,10 +54902,10 @@ gcost 1
 #end
 
 --- Chlughine Predator Slave Axeman (Lizard), Gold: 11, Resources: 15, Roles: [infantry, sacred infantry, elite infantry] (predator infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 4946
 #name "Chlughine Predator Slave Axeman"
@@ -54942,11 +54942,11 @@ gcost 1
 #end
 
 --- Chlughine Axeman (Sidhe), Gold: 25, Resources: 5, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -5
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4947
 #name "Chlughine Axeman"
@@ -54983,10 +54983,10 @@ gcost 1
 #end
 
 --- Chlughine Spear Netter (Sidhe), Gold: 25, Resources: 4, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4948
 #name "Chlughine Spear Netter"
@@ -55023,10 +55023,10 @@ gcost 1
 #end
 
 --- Chlughine Axeman (Sidhe), Gold: 25, Resources: 5, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4949
 #name "Chlughine Axeman"
@@ -55062,7 +55062,7 @@ gcost 1
 #end
 
 --- Chlughine Champion (Sidhe), Gold: 50, Resources: 15, Roles: [mounted, scout] (cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -55108,7 +55108,7 @@ gcost 1
 #end
 
 --- Unseen Master (Lizard), Gold: 35, Resources: 18, Roles: [sacred infantry, elite infantry] (sobek infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -6, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -55153,7 +55153,7 @@ gcost 1
 #end
 
 --- Scout (Sidhe), Gold: 65, Resources: 14, Roles: [mounted, scout] (cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -55197,10 +55197,10 @@ gcost 1
 #end
 
 --- Sergeant (Lizard), Gold: 55, Resources: 3, Roles: [infantry, scout] (runner skirmisher)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, elite +1, Infantry unit
 #newmonster 4953
 #name "Sergeant"
@@ -55243,11 +55243,11 @@ gcost 1
 #end
 
 --- Axemaster (Sidhe), Gold: 80, Resources: 5, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -5
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4954
 #name "Axemaster"
@@ -55288,7 +55288,7 @@ gcost 1
 #end
 
 --- Axe Commander (Sidhe), Gold: 105, Resources: 15, Roles: [mounted, scout] (cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -55339,7 +55339,7 @@ gcost 1
 #end
 
 --- Acolyte (Sidhe), Gold: 70, Resources: 21, Roles: [mage, priest] (Tier 1 mage priest)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -55386,7 +55386,7 @@ gcost 1
 #end
 
 --- High Priestess (Sidhe), Gold: 215, Resources: 33, Roles: [mage, priest] (Tier 2-3 mage priest (low mount))
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, -6
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -55435,7 +55435,7 @@ gcost 1
 #end
 
 --- Mirror Consort (Sidhe), Gold: 205, Resources: 19, Roles: [mage, priest] (Tier 2-3 mage priest (low mount))
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 --- Generation tags: [extramage: [2]], [tier2: []], [itemslot: [feet -1]]
@@ -55481,7 +55481,7 @@ gcost 1
 #end
 
 --- Apprentice of Cloudy Emeralds (Sidhe), Gold: 75, Resources: 17, Roles: [mage, priest] (Tier 1 mage priest)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -8
 -- Armor: 0, 0
 -- Offhand: -1, -5
@@ -55526,7 +55526,7 @@ gcost 1
 #end
 
 --- Ascendant of Cloudy Emeralds (Sidhe), Gold: 220, Resources: 15, Roles: [mage, priest] (Tier 2-3 mage priest)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -5
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -55577,7 +55577,7 @@ gcost 1
 #end
 
 --- Lord of Cloudy Emeralds (Sidhe), Gold: 325, Resources: 15, Roles: [mage, priest] (Tier 2-3 mage priest)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -5
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -55630,7 +55630,7 @@ gcost 1
 #end
 
 --- Hero (Sidhe), Gold: 0, Resources: 16, Roles: [mage, priest] (Tier 2-3 mage priest (low mount))
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, -6
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -55686,7 +55686,7 @@ gcost 1
 #end
 
 --- Hero (Sidhe), Gold: 0, Resources: 16, Roles: [mounted, scout] (cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 --- Generation tags: [path: [nature]], [elite: []], [nopose: [chariot]], [itemslot: [feet -1]], [filterdesc: ["regeneration desc", "patrol desc", "castle desc"]], [price_per_command: [hp 1 10]]
@@ -55822,10 +55822,10 @@ gcost 1
 #end
 
 --- Khovatian Champion (Pale One), Gold: 9, Resources: 30, Roles: [ranged] (ranged_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4964
 #name "Khovatian Champion"
@@ -55866,10 +55866,10 @@ gcost 1
 #end
 
 --- Khovatian Champion (Pale One), Gold: 19, Resources: 28, Roles: [ranged] (ranged_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 4965
 #name "Khovatian Champion"
@@ -55910,11 +55910,11 @@ gcost 1
 #end
 
 --- Khovatian Trident Guard (Pale One), Gold: 9, Resources: 19, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: castledef +1, Infantry unit
 #newmonster 4966
 #name "Khovatian Trident Guard"
@@ -55956,10 +55956,10 @@ gcost 1
 #end
 
 --- Khovatian Flail Guard (Pale One), Gold: 9, Resources: 15, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: castledef +1, Infantry unit
 #newmonster 4967
 #name "Khovatian Flail Guard"
@@ -56000,10 +56000,10 @@ gcost 1
 #end
 
 --- Khovatian Cavernwight Trident Champion (Pale One), Gold: 23, Resources: 21, Roles: [infantry, sacred] (infantry_steel)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4968
 #name "Khovatian Cavernwight Trident Champion"
@@ -56047,10 +56047,10 @@ gcost 1
 #end
 
 --- Khovatian Cavernwight Glaive Champion (Pale One), Gold: 23, Resources: 24, Roles: [infantry, sacred] (infantry_steel)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4969
 #name "Khovatian Cavernwight Glaive Champion"
@@ -56094,10 +56094,10 @@ gcost 1
 #end
 
 --- Khovatian Cavernwight Flail Champion (Pale One), Gold: 23, Resources: 22, Roles: [infantry, sacred] (infantry_steel)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4970
 #name "Khovatian Cavernwight Flail Champion"
@@ -56141,7 +56141,7 @@ gcost 1
 #end
 
 --- Khovatian Grub Knight (Pale One), Gold: 29, Resources: 27, Roles: [mounted] (mounted_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -56191,7 +56191,7 @@ gcost 1
 #end
 
 --- Khovatian Grub Knight (Pale One), Gold: 29, Resources: 27, Roles: [mounted] (mounted_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -56241,7 +56241,7 @@ gcost 1
 #end
 
 --- Dust Warden (Pale One), Gold: 45, Resources: 26, Roles: [sacred ranged] (ancient_ranged)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -56287,10 +56287,10 @@ gcost 1
 #end
 
 --- Scout (Pale One), Gold: 29, Resources: 4, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 4974
 #name "Scout"
@@ -56331,10 +56331,10 @@ gcost 1
 #end
 
 --- General (Pale One), Gold: 75, Resources: 24, Roles: [infantry, sacred] (infantry_steel)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 4975
 #name "General"
@@ -56381,7 +56381,7 @@ gcost 1
 #end
 
 --- Trident Chieftain (Pale One), Gold: 70, Resources: 27, Roles: [mounted] (mounted_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -56434,7 +56434,7 @@ gcost 1
 #end
 
 --- Apprentice Ascendant (Pale One), Gold: 50, Resources: 3, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -56479,7 +56479,7 @@ gcost 1
 #end
 
 --- Grand Ascendant (Pale One), Gold: 115, Resources: 1, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -56525,7 +56525,7 @@ gcost 1
 #end
 
 --- Hurricane Peer (Pale One), Gold: 175, Resources: 1, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [extramage: [1]], [tier1: []]
@@ -56574,7 +56574,7 @@ gcost 1
 #end
 
 --- Apprentice Heliophobic Priest (Pale One), Gold: 155, Resources: 1, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]], [magepriest: []]
@@ -56623,7 +56623,7 @@ gcost 1
 #end
 
 ---  Heliophobic Priest (Pale One), Gold: 300, Resources: 3, Roles: [mage, priest] (olmspawn_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [magepriest: []]
@@ -56675,7 +56675,7 @@ gcost 1
 #end
 
 --- Chosen Heliophobic Priest (Pale One), Gold: 420, Resources: 2, Roles: [mage, priest] (ancient_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [magepriest: []], [varyslot: [helmet]]
@@ -56725,7 +56725,7 @@ gcost 1
 #end
 
 --- Hero (Pale One), Gold: 0, Resources: 14, Roles: [sacred ranged] (ancient_ranged)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -56776,7 +56776,7 @@ gcost 1
 #end
 
 --- Hero (Pale One), Gold: 0, Resources: 37, Roles: [sacred infantry] (ancient_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [sacred: []]
@@ -56840,10 +56840,10 @@ gcost 1
 #end
 
 --- Teclan Clubber (Zotz), Gold: 8, Resources: 2, Roles: [infantry] (light 2h infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: mountainunit, Infantry unit, shockres5
 #newmonster 4985
 #name "Teclan Clubber"
@@ -56886,10 +56886,10 @@ gcost 1
 #end
 
 --- Teclan Javelin Swordsman (Zotz), Gold: 8, Resources: 3, Roles: [infantry] (light 2h infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: mountainunit, Infantry unit, shockres5
 #newmonster 4986
 #name "Teclan Javelin Swordsman"
@@ -56932,11 +56932,11 @@ gcost 1
 #end
 
 --- Teclan Lancer (Zotz), Gold: 8, Resources: 3, Roles: [infantry] (light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4987
 #name "Teclan Lancer"
@@ -56977,11 +56977,11 @@ gcost 1
 #end
 
 --- Teclan Light Swordsman (Zotz), Gold: 8, Resources: 3, Roles: [infantry] (light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4988
 #name "Teclan Light Swordsman"
@@ -57022,11 +57022,11 @@ gcost 1
 #end
 
 --- Teclan Champion (Zotz), Gold: 8, Resources: 3, Roles: [infantry] (light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4989
 #name "Teclan Champion"
@@ -57067,10 +57067,10 @@ gcost 1
 #end
 
 --- Teclan Swordsman (Zotz), Gold: 8, Resources: 4, Roles: [infantry] (light 2h infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4990
 #name "Teclan Swordsman"
@@ -57111,7 +57111,7 @@ gcost 1
 #end
 
 --- Unseen Lurker (Zotz), Gold: 19, Resources: 9, Roles: [infantry] (light 2h infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
 --- Generation tags: [sacred: []]
@@ -57156,10 +57156,10 @@ gcost 1
 #end
 
 --- Spy (Zotz), Gold: 50, Resources: 2, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy, shockres5
 #newmonster 4992
 #name "Spy"
@@ -57202,11 +57202,11 @@ gcost 1
 #end
 
 --- Sergeant (Zotz), Gold: 40, Resources: 3, Roles: [infantry] (light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 4993
 #name "Sergeant"
@@ -57248,10 +57248,10 @@ gcost 1
 #end
 
 --- General (Zotz), Gold: 40, Resources: 2, Roles: [infantry] (light 2h infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: mountainunit, Infantry unit, shockres5
 #newmonster 4994
 #name "General"
@@ -57295,7 +57295,7 @@ gcost 1
 #end
 
 --- Swordsmaster (Zotz), Gold: 95, Resources: 9, Roles: [infantry] (light 2h infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
 --- Generation tags: [sacred: []]
@@ -57344,7 +57344,7 @@ gcost 1
 #end
 
 --- Arch Scholar (Zotz), Gold: 50, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -19
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -57390,7 +57390,7 @@ gcost 1
 #end
 
 --- Minor Bleak Medium (Zotz), Gold: 90, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -19
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]], [magepriest: []]
@@ -57439,7 +57439,7 @@ gcost 1
 #end
 
 ---  Bleak Medium (Zotz), Gold: 250, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -19
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [magepriest: []]
@@ -57490,7 +57490,7 @@ gcost 1
 #end
 
 --- Chosen Bleak Medium (Zotz), Gold: 330, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -19
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [magepriest: []], [varyslot: [weapon]]
@@ -57541,10 +57541,10 @@ gcost 1
 #end
 
 --- Hero (Zotz), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -19
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (230), deathrec, ghost, highupkeep, forgebonus 1 secondary, illearth, shockres5
 #newmonster 5000
 #name "Hero"
@@ -57598,10 +57598,10 @@ gcost 1
 --- Unit definitions for Lalbal
 
 --- Lalbaline Markata Champion (Primate), Gold: 5, Resources: 1, Roles: [ranged] (markata ranged)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 5001
 #name "Lalbaline Markata Champion"
@@ -57634,11 +57634,11 @@ gcost 1
 #end
 
 --- Lalbaline Vanara Spear Champion (Primate), Gold: 8, Resources: 10, Roles: [infantry] (vanara infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Infantry unit
 #newmonster 5002
 #name "Lalbaline Vanara Spear Champion"
@@ -57673,11 +57673,11 @@ gcost 1
 #end
 
 --- Lalbaline Vanara Spear Champion (Primate), Gold: 8, Resources: 10, Roles: [infantry] (vanara infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Infantry unit
 #newmonster 5003
 #name "Lalbaline Vanara Spear Champion"
@@ -57712,11 +57712,11 @@ gcost 1
 #end
 
 --- Lalbaline Bandar Hill Champion (Primate), Gold: 16, Resources: 7, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: mountainunit, Infantry unit
 #newmonster 5004
 #name "Lalbaline Bandar Hill Champion"
@@ -57751,11 +57751,11 @@ gcost 1
 #end
 
 --- Lalbaline Bandar Falchion Champion (Primate), Gold: 16, Resources: 12, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5005
 #name "Lalbaline Bandar Falchion Champion"
@@ -57790,11 +57790,11 @@ gcost 1
 #end
 
 --- Lalbaline Light Bandar Falchion Champion (Primate), Gold: 16, Resources: 9, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5006
 #name "Lalbaline Light Bandar Falchion Champion"
@@ -57828,7 +57828,7 @@ gcost 1
 #end
 
 --- Lalbaline Vanara Elite Spearmaster (Primate), Gold: 35, Resources: 13, Roles: [mounted] (vanara cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -57869,7 +57869,7 @@ gcost 1
 #end
 
 --- Exalted Aspirant (Primate), Gold: 19, Resources: 15, Roles: [sacred ranged, elite ranged] (vanara sacred archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, 3
 -- Armor: 0, 0
 --- Generation tags: [primarycommand: [#slashres]], [filterdesc: ["slashres desc"]], [price_per_command: [#hp 0.5 20]], [sacred: []]
@@ -57908,10 +57908,10 @@ gcost 1
 #end
 
 --- Scout (Primate), Gold: 28, Resources: 4, Roles: [scout] (vanara scouts)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 5009
 #name "Scout"
@@ -57945,11 +57945,11 @@ gcost 1
 #end
 
 --- Spearmaster (Primate), Gold: 65, Resources: 7, Roles: [infantry] (bandar light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: mountainunit, Infantry unit
 #newmonster 5010
 #name "Spearmaster"
@@ -57989,7 +57989,7 @@ gcost 1
 #end
 
 --- Sergeant (Primate), Gold: 95, Resources: 13, Roles: [mounted] (vanara cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -58035,7 +58035,7 @@ gcost 1
 #end
 
 --- Great Cleric (Primate), Gold: 75, Resources: 1, Roles: [priest] (vanara priest, standing)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 10
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -58074,7 +58074,7 @@ gcost 1
 #end
 
 --- Hand of the Dawning Forest (Primate), Gold: 50, Resources: 1, Roles: [mage, priest] (bandar caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, 8
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -58112,7 +58112,7 @@ gcost 1
 #end
 
 --- Sorcerer of the Dawning Forest (Primate), Gold: 175, Resources: 1, Roles: [mage] (vanara mage, sitting)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]]
@@ -58152,7 +58152,7 @@ gcost 1
 #end
 
 --- Elder of the Dawning Forest (Primate), Gold: 235, Resources: 1, Roles: [mage] (vanara elder mage, floating)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [helmet]]
@@ -58194,10 +58194,10 @@ gcost 1
 #end
 
 --- Hero (Primate), Gold: 0, Resources: 1, Roles: [mage] (vanara elder mage, floating)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (250), heretic, nobadevents3, ethereal2, imp, deathcurse
 #newmonster 5016
 #name "Hero"
@@ -58239,10 +58239,10 @@ gcost 1
 #end
 
 --- Hero (Primate), Gold: 0, Resources: 1, Roles: [mage] (vanara elder mage, floating)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (270), ethereal2, autodishealer2, sailing
 #newmonster 5017
 #name "Hero"
@@ -58415,10 +58415,10 @@ gcost 1
 #end
 
 --- Atlagrian Human Champion (Imperial human), Gold: 10, Resources: 4, Roles: [ranged, scout] (ranged auxiliary)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 5018
 #name "Atlagrian Human Champion"
@@ -58449,11 +58449,11 @@ gcost 1
 #end
 
 --- Atlagrian Champion (Ichtyid), Gold: 10, Resources: 11, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
 -- Offhand: -8, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5019
 #name "Atlagrian Champion"
@@ -58486,10 +58486,10 @@ gcost 1
 #end
 
 --- Atlagrian Impaler (Ichtyid), Gold: 10, Resources: 9, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5020
 #name "Atlagrian Impaler"
@@ -58521,11 +58521,11 @@ gcost 1
 #end
 
 --- Atlagrian Harpoon Champion (Ichtyid), Gold: 10, Resources: 10, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -8, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5021
 #name "Atlagrian Harpoon Champion"
@@ -58559,11 +58559,11 @@ gcost 1
 #end
 
 --- Atlagrian Harpoon Impaler (Ichtyid), Gold: 10, Resources: 5, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: wasteunit, mountainunit, Infantry unit
 #newmonster 5022
 #name "Atlagrian Harpoon Impaler"
@@ -58599,11 +58599,11 @@ gcost 1
 #end
 
 --- Atlagrian Harpoon Impaler (Ichtyid), Gold: 10, Resources: 5, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -5, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: wasteunit, mountainunit, Infantry unit
 #newmonster 5023
 #name "Atlagrian Harpoon Impaler"
@@ -58639,10 +58639,10 @@ gcost 1
 #end
 
 --- Atlagrian Heavy Impaler (Ichtyid), Gold: 10, Resources: 6, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5024
 #name "Atlagrian Heavy Impaler"
@@ -58674,11 +58674,11 @@ gcost 1
 #end
 
 --- Atlagrian Heavy Harpoon Champion (Ichtyid), Gold: 10, Resources: 7, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5025
 #name "Atlagrian Heavy Harpoon Champion"
@@ -58712,10 +58712,10 @@ gcost 1
 #end
 
 --- Atlagrian Trapper (Ichtyid), Gold: 10, Resources: 8, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5026
 #name "Atlagrian Trapper"
@@ -58748,7 +58748,7 @@ gcost 1
 #end
 
 --- Blossoming Aspirant (Ichtyid), Gold: 26, Resources: 5, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -58788,10 +58788,10 @@ gcost 1
 #end
 
 --- Spy (Ichtyid), Gold: 50, Resources: 3, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy
 #newmonster 5028
 #name "Spy"
@@ -58826,11 +58826,11 @@ gcost 1
 #end
 
 --- Wasteland Commander (Ichtyid), Gold: 60, Resources: 5, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: wasteunit, mountainunit, Infantry unit
 #newmonster 5029
 #name "Wasteland Commander"
@@ -58869,11 +58869,11 @@ gcost 1
 #end
 
 --- General (Ichtyid), Gold: 100, Resources: 7, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5030
 #name "General"
@@ -58911,7 +58911,7 @@ gcost 1
 #end
 
 --- Commanding Champion (Ichtyid), Gold: 65, Resources: 5, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -58953,7 +58953,7 @@ gcost 1
 #end
 
 --- Young Adept (Ichtyid), Gold: 65, Resources: 6, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -58991,7 +58991,7 @@ gcost 1
 #end
 
 --- Adept Adept (Ichtyid), Gold: 115, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -59029,7 +59029,7 @@ gcost 1
 #end
 
 --- Dark Hand (Ichtyid), Gold: 70, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]], [magepriest: []]
@@ -59069,7 +59069,7 @@ gcost 1
 #end
 
 --- Dark Sorcerer (Ichtyid), Gold: 255, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [magepriest: []]
@@ -59112,7 +59112,7 @@ gcost 1
 #end
 
 --- Dark Patriarch (Ichtyid), Gold: 460, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [magepriest: []], [varyslot: [helmet]]
@@ -59158,10 +59158,10 @@ gcost 1
 #end
 
 --- Hero (Ichtyid), Gold: 0, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (230), forgebonus 2 secondary, deathrec, ghoul: size 2
 #newmonster 5037
 #name "Hero"
@@ -59202,7 +59202,7 @@ gcost 1
 #end
 
 --- Hero (Ichtyid), Gold: 0, Resources: 12, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -59248,7 +59248,7 @@ gcost 1
 #end
 
 --- Hero (Ichtyid), Gold: 0, Resources: 18, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werehyena"]], [filterdesc: ["werehyena desc", "allres desc", "castle desc"]]
@@ -59355,10 +59355,10 @@ gcost 1
 #end
 
 --- Onapolisan Centauride Champion (Halfman), Gold: 25, Resources: 49, Roles: [ranged] (centauride crossbowmaidens)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -7, -12
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 5040
 #name "Onapolisan Centauride Champion"
@@ -59396,10 +59396,10 @@ gcost 1
 #end
 
 --- Onapolisan Flail Champion (Halfman), Gold: 35, Resources: 37, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 5041
 #name "Onapolisan Flail Champion"
@@ -59434,10 +59434,10 @@ gcost 1
 #end
 
 --- Onapolisan Pike Champion (Halfman), Gold: 30, Resources: 19, Roles: [infantry] (hoplites)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 6, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5042
 #name "Onapolisan Pike Champion"
@@ -59472,11 +59472,11 @@ gcost 1
 #end
 
 --- Onapolisan Spear Champion (Halfman), Gold: 30, Resources: 21, Roles: [infantry] (hoplites)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 6, 0
 -- Armor: 0, 0
 -- Offhand: 9, -12
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5043
 #name "Onapolisan Spear Champion"
@@ -59512,11 +59512,11 @@ gcost 1
 #end
 
 --- Onapolisan Spear Champion (Halfman), Gold: 30, Resources: 19, Roles: [infantry] (hoplites)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, -5
 -- Armor: 0, 0
 -- Offhand: 9, -12
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5044
 #name "Onapolisan Spear Champion"
@@ -59552,11 +59552,11 @@ gcost 1
 #end
 
 --- Onapolisan Heavy Spear Champion (Halfman), Gold: 30, Resources: 33, Roles: [infantry] (hoplites)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 6, 0
 -- Armor: 0, 0
 -- Offhand: 8, -8
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5045
 #name "Onapolisan Heavy Spear Champion"
@@ -59592,11 +59592,11 @@ gcost 1
 #end
 
 --- Onapolisan Heavy Spear Champion (Halfman), Gold: 30, Resources: 28, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 10, -14
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5046
 #name "Onapolisan Heavy Spear Champion"
@@ -59632,11 +59632,11 @@ gcost 1
 #end
 
 --- Onapolisan Morningstar Champion (Halfman), Gold: 30, Resources: 28, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, -7
 -- Armor: 0, 0
 -- Offhand: 10, -14
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5047
 #name "Onapolisan Morningstar Champion"
@@ -59672,11 +59672,11 @@ gcost 1
 #end
 
 --- Onapolisan Champion (Halfman), Gold: 30, Resources: 31, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, -7
 -- Armor: 0, 0
 -- Offhand: 10, -14
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5048
 #name "Onapolisan Champion"
@@ -59712,7 +59712,7 @@ gcost 1
 #end
 
 --- Warden of Flame (Halfman), Gold: 40, Resources: 18, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, -7
 -- Armor: 0, 0
 -- Offhand: 10, -4
@@ -59755,11 +59755,11 @@ gcost 1
 #end
 
 --- Scout (Halfman), Gold: 50, Resources: 15, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 6, -4
 -- Armor: 0, 0
 -- Offhand: 10, -6
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 5050
 #name "Scout"
@@ -59799,11 +59799,11 @@ gcost 1
 #end
 
 --- Sergeant (Halfman), Gold: 80, Resources: 19, Roles: [infantry] (hoplites)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, -5
 -- Armor: 0, 0
 -- Offhand: 9, -12
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5051
 #name "Sergeant"
@@ -59842,11 +59842,11 @@ gcost 1
 #end
 
 --- Colonel (Halfman), Gold: 80, Resources: 31, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, -7
 -- Armor: 0, 0
 -- Offhand: 10, -14
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5052
 #name "Colonel"
@@ -59885,7 +59885,7 @@ gcost 1
 #end
 
 --- General (Halfman), Gold: 160, Resources: 18, Roles: [infantry, scout] (soldiers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, -7
 -- Armor: 0, 0
 -- Offhand: 10, -4
@@ -59932,7 +59932,7 @@ gcost 1
 #end
 
 --- Acolyte (Halfman), Gold: 70, Resources: 1, Roles: [mage, priest] (centaur casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -7
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -59976,7 +59976,7 @@ gcost 1
 #end
 
 --- Celebrant (Halfman), Gold: 170, Resources: 1, Roles: [mage, priest] (tier 2-3 mature elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -8
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -60015,7 +60015,7 @@ gcost 1
 #end
 
 --- High Priest (Halfman), Gold: 245, Resources: 1, Roles: [mage, priest] (tier 2-3 mature elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -8
 -- Armor: 0, 0
 --- Generation tags: [priest: [3]]
@@ -60054,7 +60054,7 @@ gcost 1
 #end
 
 --- Burnt Lord (Halfman), Gold: 175, Resources: 1, Roles: [mage, priest] (tier 2-3 mature elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, 0
 -- Armor: 0, 0
 --- Generation tags: [extramage: [1]], [tier1: []]
@@ -60096,7 +60096,7 @@ gcost 1
 #end
 
 --- Apprentice of Noble Mirrors (Halfman), Gold: 65, Resources: 3, Roles: [mage, priest] (tier 1 hot-headed youth)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]]
@@ -60135,7 +60135,7 @@ gcost 1
 #end
 
 --- Windwhisperer of Noble Mirrors (Halfman), Gold: 210, Resources: 6, Roles: [mage, priest] (tier 2-3 mature elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -8
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [weapon]]
@@ -60176,7 +60176,7 @@ gcost 1
 #end
 
 --- Communicant of Noble Mirrors (Halfman), Gold: 175, Resources: 7, Roles: [mage, priest] (tier 2-3 mature elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -8
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [weapon]]
@@ -60216,7 +60216,7 @@ gcost 1
 #end
 
 --- Cloudreader of Noble Mirrors (Halfman), Gold: 200, Resources: 3, Roles: [mage, priest] (tier 2-3 mature elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -5
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [weapon]]
@@ -60257,7 +60257,7 @@ gcost 1
 #end
 
 --- Caller of Noble Mirrors (Halfman), Gold: 280, Resources: 6, Roles: [mage, priest] (tier 2-3 mature elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -8
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [weapon]]
@@ -60299,11 +60299,11 @@ gcost 1
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 1, Roles: [mage, priest] (centauride casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -8
 -- Armor: 0, 0
 -- Offhand: -10, -18
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (250), fireele, warriormage, better researcher +3 - tier 3 mages, flying
 #newmonster 5063
 #name "Hero"
@@ -60348,10 +60348,10 @@ gcost 1
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 1, Roles: [mage, priest] (tier 2-3 mature elder)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (350), carcasscollector, ghoul: size 2, makepearls, forgebonus 2 primary
 #newmonster 5064
 #name "Hero"
@@ -60394,11 +60394,11 @@ gcost 1
 #end
 
 --- Hero (Halfman), Gold: 0, Resources: 1, Roles: [mage, priest] (centauride casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, -8
 -- Armor: 0, 0
 -- Offhand: -10, -18
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), nobadevents2, wingedmonkey, resource generator 15, floating, ancestorspirits, airshield, autohealer1
 #newmonster 5065
 #name "Hero"
@@ -60484,10 +60484,10 @@ gcost 1
 #end
 
 --- Lillerusine Human Champion (Boreal human), Gold: 10, Resources: 5, Roles: [ranged, scout] (archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 5066
 #name "Lillerusine Human Champion"
@@ -60519,10 +60519,10 @@ gcost 1
 #end
 
 --- Lillerusine Serf Hirdman (Van), Gold: 8, Resources: 6, Roles: [ranged] (serf archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: serf, Ranged unit
 #newmonster 5067
 #name "Lillerusine Serf Hirdman"
@@ -60554,11 +60554,11 @@ gcost 1
 #end
 
 --- Lillerusine Human Sword Champion (Boreal human), Gold: 10, Resources: 14, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5068
 #name "Lillerusine Human Sword Champion"
@@ -60589,10 +60589,10 @@ gcost 1
 #end
 
 --- Lillerusine Human Trident Champion (Boreal human), Gold: 10, Resources: 11, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5069
 #name "Lillerusine Human Trident Champion"
@@ -60622,11 +60622,11 @@ gcost 1
 #end
 
 --- Lillerusine Spear Hirdman (Van), Gold: 25, Resources: 7, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: castledef +1, Infantry unit
 #newmonster 5070
 #name "Lillerusine Spear Hirdman"
@@ -60662,11 +60662,11 @@ gcost 1
 #end
 
 --- Lillerusine Light Basher (Van), Gold: 25, Resources: 6, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: castledef +1, Infantry unit
 #newmonster 5071
 #name "Lillerusine Light Basher"
@@ -60701,11 +60701,11 @@ gcost 1
 #end
 
 --- Lillerusine Basher (Van), Gold: 25, Resources: 18, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5072
 #name "Lillerusine Basher"
@@ -60739,11 +60739,11 @@ gcost 1
 #end
 
 --- Lillerusine Spetum Hirdman (Van), Gold: 25, Resources: 19, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5073
 #name "Lillerusine Spetum Hirdman"
@@ -60777,10 +60777,10 @@ gcost 1
 #end
 
 --- Lillerusine Trident Hirdman (Van), Gold: 25, Resources: 17, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5074
 #name "Lillerusine Trident Hirdman"
@@ -60813,11 +60813,11 @@ gcost 1
 #end
 
 --- Lillerusine Serf Hirdman (Van), Gold: 8, Resources: 6, Roles: [infantry] (serf infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -11, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: serf, Infantry unit
 #newmonster 5075
 #name "Lillerusine Serf Hirdman"
@@ -60849,7 +60849,7 @@ gcost 1
 #end
 
 --- Illusion Knight (Boreal human), Gold: 29, Resources: 10, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -60888,11 +60888,11 @@ gcost 1
 #end
 
 --- Assassin (Van), Gold: 65, Resources: 9, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 5077
 #name "Assassin"
@@ -60929,10 +60929,10 @@ gcost 1
 #end
 
 --- General (Van), Gold: 65, Resources: 17, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5078
 #name "General"
@@ -60967,11 +60967,11 @@ gcost 1
 #end
 
 --- Sergeant (Van), Gold: 75, Resources: 19, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5079
 #name "Sergeant"
@@ -61008,7 +61008,7 @@ gcost 1
 #end
 
 --- High Priest (Van), Gold: 95, Resources: 1, Roles: [priest] (Tier 1-2 Priests)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, -3
 -- Offhand: 0, -3
@@ -61048,7 +61048,7 @@ gcost 1
 #end
 
 --- Lillerusine Initiate (Van), Gold: 60, Resources: 6, Roles: [mage] (Tier 1 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, -3
 -- Offhand: 0, -3
@@ -61089,7 +61089,7 @@ gcost 1
 #end
 
 --- Lillerusine Fellow (Van), Gold: 180, Resources: 10, Roles: [mage] (Tier 2 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -61134,7 +61134,7 @@ gcost 1
 #end
 
 --- King of the Tribulation (Van), Gold: 365, Resources: 18, Roles: [mage] (Tier 3 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -61183,7 +61183,7 @@ gcost 1
 #end
 
 --- King of the Temples (Van), Gold: 395, Resources: 16, Roles: [mage] (Tier 3 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -61233,7 +61233,7 @@ gcost 1
 #end
 
 --- Hero (Van), Gold: 0, Resources: 14, Roles: [mage] (Tier 3 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -61283,7 +61283,7 @@ gcost 1
 #end
 
 --- Hero (Van), Gold: 0, Resources: 12, Roles: [sacred infantry, elite infantry] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -61333,10 +61333,10 @@ gcost 1
 --- Unit definitions for Leirholm
 
 --- Leirholmian Hirdman (Vaetti), Gold: 7, Resources: 9, Roles: [ranged, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -4
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, shockres5
 #newmonster 5087
 #name "Leirholmian Hirdman"
@@ -61373,11 +61373,11 @@ gcost 1
 #end
 
 --- Leirholmian Thane (Vaetti), Gold: 8, Resources: 8, Roles: [infantry, scout] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 3, -7
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit, shockres5
 #newmonster 5088
 #name "Leirholmian Thane"
@@ -61414,10 +61414,10 @@ gcost 1
 #end
 
 --- Leirholmian Flail Hirdman (Vaetti), Gold: 7, Resources: 10, Roles: [infantry, scout] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 5089
 #name "Leirholmian Flail Hirdman"
@@ -61453,11 +61453,11 @@ gcost 1
 #end
 
 --- Leirholmian Heavy Sword Hirdman (Vaetti), Gold: 7, Resources: 11, Roles: [infantry, scout] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 2, -5
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 5090
 #name "Leirholmian Heavy Sword Hirdman"
@@ -61494,11 +61494,11 @@ gcost 1
 #end
 
 --- Leirholmian Hirdman (Vaetti), Gold: 7, Resources: 9, Roles: [infantry, scout] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 5091
 #name "Leirholmian Hirdman"
@@ -61535,10 +61535,10 @@ gcost 1
 #end
 
 --- Leirholmian Sword Hirdman (Vaetti), Gold: 7, Resources: 6, Roles: [infantry] (2h inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 5092
 #name "Leirholmian Sword Hirdman"
@@ -61574,11 +61574,11 @@ gcost 1
 #end
 
 --- Leirholmian Vanara Spearman (Primate), Gold: 8, Resources: 11, Roles: [infantry] (vanara light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5093
 #name "Leirholmian Vanara Spearman"
@@ -61613,11 +61613,11 @@ gcost 1
 #end
 
 --- Leirholmian Vanara Legionary (Primate), Gold: 8, Resources: 11, Roles: [infantry] (vanara light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5094
 #name "Leirholmian Vanara Legionary"
@@ -61652,11 +61652,11 @@ gcost 1
 #end
 
 --- Leirholmian Vanara Sword Legionary (Primate), Gold: 8, Resources: 12, Roles: [infantry] (vanara light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 6
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5095
 #name "Leirholmian Vanara Sword Legionary"
@@ -61691,7 +61691,7 @@ gcost 1
 #end
 
 --- Leirholmian Hirdman (Vaetti), Gold: 27, Resources: 14, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 1, -5
@@ -61734,7 +61734,7 @@ gcost 1
 #end
 
 --- Pure Warrior (Primate), Gold: 65, Resources: 45, Roles: [sacred chariot] (vanara sacred chariots)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 2, 2
@@ -61783,10 +61783,10 @@ gcost 1
 #end
 
 --- Scout (Vaetti), Gold: 27, Resources: 3, Roles: [infantry, scout] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout, shockres5
 #newmonster 5098
 #name "Scout"
@@ -61824,11 +61824,11 @@ gcost 1
 #end
 
 --- Commanding Knight (Vaetti), Gold: 70, Resources: 8, Roles: [infantry, scout] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 3, -7
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit, shockres5
 #newmonster 5099
 #name "Commanding Knight"
@@ -61868,10 +61868,10 @@ gcost 1
 #end
 
 --- Flail Commander (Vaetti), Gold: 35, Resources: 10, Roles: [infantry, scout] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 5100
 #name "Flail Commander"
@@ -61908,7 +61908,7 @@ gcost 1
 #end
 
 --- General (Primate), Gold: 105, Resources: 45, Roles: [sacred chariot] (vanara sacred chariots)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 2, 2
@@ -61958,7 +61958,7 @@ gcost 1
 #end
 
 --- High Priestess (Vaetti), Gold: 85, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 6, 11
 -- Armor: 0, 0
 -- Offhand: 0, 4
@@ -62002,7 +62002,7 @@ gcost 1
 #end
 
 --- Leirholmian Follower (Vaetti), Gold: 120, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 4
@@ -62044,7 +62044,7 @@ gcost 1
 #end
 
 --- Harvest Bringer (Vaetti), Gold: 225, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 4
@@ -62089,7 +62089,7 @@ gcost 1
 #end
 
 --- Enigma Bringer (Vaetti), Gold: 210, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 4
@@ -62135,7 +62135,7 @@ gcost 1
 #end
 
 --- Blight Bringer (Vaetti), Gold: 225, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 4
@@ -62181,7 +62181,7 @@ gcost 1
 #end
 
 --- Hero (Vaetti), Gold: 0, Resources: 15, Roles: [ranged, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, 3
 -- Armor: 0, 0
 --- Generation tags: [sacred: []]
@@ -62225,11 +62225,11 @@ gcost 1
 #end
 
 --- Hero (Vaetti), Gold: 0, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, 11
 -- Armor: 0, 0
 -- Offhand: 0, 4
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (370), deathrec, bugs, ivylord 1, ethereal, shockres5
 #newmonster 5108
 #name "Hero"
@@ -62455,10 +62455,10 @@ gcost 1
 #end
 
 --- Shangrisalan Champion (Pale One), Gold: 9, Resources: 36, Roles: [ranged] (ranged_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, shockres5
 #newmonster 5109
 #name "Shangrisalan Champion"
@@ -62500,10 +62500,10 @@ gcost 1
 #end
 
 --- Shangrisalan Champion (Pale One), Gold: 19, Resources: 34, Roles: [ranged] (ranged_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, shockres5
 #newmonster 5110
 #name "Shangrisalan Champion"
@@ -62545,11 +62545,11 @@ gcost 1
 #end
 
 --- Shangrisalan Heavy Hammer Champion (Pale One), Gold: 10, Resources: 30, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit, shockres5
 #newmonster 5111
 #name "Shangrisalan Heavy Hammer Champion"
@@ -62591,11 +62591,11 @@ gcost 1
 #end
 
 --- Shangrisalan Hammer Champion (Pale One), Gold: 9, Resources: 24, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 5112
 #name "Shangrisalan Hammer Champion"
@@ -62637,10 +62637,10 @@ gcost 1
 #end
 
 --- Shangrisalan Flail Champion (Pale One), Gold: 9, Resources: 34, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 5113
 #name "Shangrisalan Flail Champion"
@@ -62681,11 +62681,11 @@ gcost 1
 #end
 
 --- Shangrisalan Champion (Pale One), Gold: 9, Resources: 39, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 5114
 #name "Shangrisalan Champion"
@@ -62727,11 +62727,11 @@ gcost 1
 #end
 
 --- Shangrisalan Heavy Hammer Champion (Pale One), Gold: 9, Resources: 39, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 5115
 #name "Shangrisalan Heavy Hammer Champion"
@@ -62773,7 +62773,7 @@ gcost 1
 #end
 
 --- Pure Guard (Pale One), Gold: 50, Resources: 50, Roles: [sacred infantry] (ancient_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werecrocodile"]], [filterdesc: ["werecrocodile desc"]], [sacred: []]
@@ -62820,10 +62820,10 @@ gcost 1
 #end
 
 --- Spy (Pale One), Gold: 50, Resources: 15, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy, shockres5
 #newmonster 5117
 #name "Spy"
@@ -62867,11 +62867,11 @@ gcost 1
 #end
 
 --- General (Pale One), Gold: 60, Resources: 39, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 5118
 #name "General"
@@ -62916,10 +62916,10 @@ gcost 1
 #end
 
 --- Flail Champion (Pale One), Gold: 70, Resources: 34, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, shockres5
 #newmonster 5119
 #name "Flail Champion"
@@ -62964,7 +62964,7 @@ gcost 1
 #end
 
 --- Glaive High Chieftain (Pale One), Gold: 130, Resources: 50, Roles: [sacred infantry] (ancient_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werecrocodile"]], [filterdesc: ["werecrocodile desc"]], [sacred: []]
@@ -63015,7 +63015,7 @@ gcost 1
 #end
 
 --- Attendant (Pale One), Gold: 50, Resources: 3, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -63060,7 +63060,7 @@ gcost 1
 #end
 
 --- Priest (Pale One), Gold: 155, Resources: 1, Roles: [mage, priest] (olmspawn_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -63107,7 +63107,7 @@ gcost 1
 #end
 
 --- Oracle (Pale One), Gold: 220, Resources: 1, Roles: [mage, priest] (olmspawn_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [3]]
@@ -63155,7 +63155,7 @@ gcost 1
 #end
 
 --- Bronze Lord (Pale One), Gold: 85, Resources: 1, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [extramage: [1]], [tier1: []]
@@ -63203,7 +63203,7 @@ gcost 1
 #end
 
 --- Initiate Cyan Navigator (Pale One), Gold: 65, Resources: 3, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]]
@@ -63248,7 +63248,7 @@ gcost 1
 #end
 
 --- Major Cyan Navigator (Pale One), Gold: 215, Resources: 6, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]]
@@ -63295,7 +63295,7 @@ gcost 1
 #end
 
 --- Paramount Cyan Navigator (Pale One), Gold: 295, Resources: 10, Roles: [mage, priest] (ancient_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [helmet]]
@@ -63342,7 +63342,7 @@ gcost 1
 #end
 
 --- Hero (Pale One), Gold: 0, Resources: 36, Roles: [sacred infantry] (olmspawn_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -63399,7 +63399,7 @@ gcost 1
 #end
 
 --- Hero (Pale One), Gold: 0, Resources: 14, Roles: [sacred ranged] (ancient_ranged)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -63450,10 +63450,10 @@ gcost 1
 #end
 
 --- Hero (Pale One), Gold: 0, Resources: 1, Roles: [mage, priest] (ancient_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (290), ethereal2, shikigami_primary, werecrocodile2, shockres5
 #newmonster 5130
 #name "Hero"
@@ -63569,10 +63569,10 @@ gcost 1
 #end
 
 --- Csithian Champion (Lizard), Gold: 10, Resources: 7, Roles: [ranged, sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, darkvision 50, poisonres5
 #newmonster 5131
 #name "Csithian Champion"
@@ -63609,11 +63609,11 @@ gcost 1
 #end
 
 --- Csithian Heavy Spearman (Lizard), Gold: 10, Resources: 26, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: castledef 2, Infantry unit, darkvision 50, poisonres5
 #newmonster 5132
 #name "Csithian Heavy Spearman"
@@ -63652,11 +63652,11 @@ gcost 1
 #end
 
 --- Csithian Guard (Lizard), Gold: 10, Resources: 27, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: castledef 2, Infantry unit, darkvision 50, poisonres5
 #newmonster 5133
 #name "Csithian Guard"
@@ -63695,11 +63695,11 @@ gcost 1
 #end
 
 --- Spearman (Imperial human), Gold: 10, Resources: 5, Roles: [infantry] (velite)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, darkvision 50, poisonres5
 #newmonster 5134
 #name "Spearman"
@@ -63734,11 +63734,11 @@ gcost 1
 #end
 
 --- Light Spearman (Imperial human), Gold: 10, Resources: 6, Roles: [infantry] (milite)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, darkvision 50, poisonres5
 #newmonster 5135
 #name "Light Spearman"
@@ -63770,10 +63770,10 @@ gcost 1
 #end
 
 --- Csithian Champion (Lizard), Gold: 10, Resources: 4, Roles: [infantry, sacred infantry, elite infantry] (2h)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, darkvision 50, poisonres5
 #newmonster 5136
 #name "Csithian Champion"
@@ -63811,7 +63811,7 @@ gcost 1
 #end
 
 --- Unyielding Aspirant (Lizard), Gold: 28, Resources: 16, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
@@ -63855,10 +63855,10 @@ gcost 1
 #end
 
 --- Scout (Lizard), Gold: 30, Resources: 4, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout, darkvision 50, poisonres5
 #newmonster 5138
 #name "Scout"
@@ -63898,10 +63898,10 @@ gcost 1
 #end
 
 --- Club High Chieftain (Lizard), Gold: 70, Resources: 4, Roles: [infantry, sacred infantry, elite infantry] (2h)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, darkvision 50, poisonres5
 #newmonster 5139
 #name "Club High Chieftain"
@@ -63943,11 +63943,11 @@ gcost 1
 #end
 
 --- Captain (Lizard), Gold: 60, Resources: 26, Roles: [infantry, scout, sacred infantry, elite infantry] (1h/pole)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: castledef 2, Infantry unit, darkvision 50, poisonres5
 #newmonster 5140
 #name "Captain"
@@ -63989,7 +63989,7 @@ gcost 1
 #end
 
 --- Ancient Invoker (Lizard), Gold: 115, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
@@ -64033,7 +64033,7 @@ gcost 1
 #end
 
 --- Stygian Follower (Lizard), Gold: 105, Resources: 5, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -64077,7 +64077,7 @@ gcost 1
 #end
 
 --- Novice Torrential Personalshaper (Lizard), Gold: 85, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
@@ -64121,7 +64121,7 @@ gcost 1
 #end
 
 --- Major Torrential Personalshaper (Lizard), Gold: 175, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
@@ -64166,7 +64166,7 @@ gcost 1
 #end
 
 --- Paramount Torrential Personalshaper (Lizard), Gold: 340, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: -1, -2
 -- Offhand: -1, -2
@@ -64217,11 +64217,11 @@ gcost 1
 #end
 
 --- Hero (Lizard), Gold: 0, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), ghoul: size 2, deathrec, darkvision 50, poisonres5
 #newmonster 5146
 #name "Hero"
@@ -64266,7 +64266,7 @@ gcost 1
 #end
 
 --- Hero (Lizard), Gold: 0, Resources: 25, Roles: [ranged, sacred ranged, elite ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -2
 -- Armor: 0, 0
 --- Generation tags: [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werehyena"]], [filterdesc: ["werehyena desc", "deathpower desc"]], [sacred: []]
@@ -64433,11 +64433,11 @@ gcost 1
 #end
 
 --- Sma-behdtyan Humanbred Champion (Abysian), Gold: 12, Resources: 25, Roles: [humanbred archers, ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, fireres5
 #newmonster 5148
 #name "Sma-behdtyan Humanbred Champion"
@@ -64473,11 +64473,11 @@ gcost 1
 #end
 
 --- Sma-behdtyan Ichtyid Elite Spearmaster (Ichtyid), Gold: 9, Resources: 21, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -5, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, elite +1, Infantry unit
 #newmonster 5149
 #name "Sma-behdtyan Ichtyid Elite Spearmaster"
@@ -64514,11 +64514,11 @@ gcost 1
 #end
 
 --- Sma-behdtyan Light Ichtyid Slave Impaler (Ichtyid), Gold: 8, Resources: 4, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -5, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, forestunit, Infantry unit
 #newmonster 5150
 #name "Sma-behdtyan Light Ichtyid Slave Impaler"
@@ -64556,11 +64556,11 @@ gcost 1
 #end
 
 --- Sma-behdtyan Light Ichtyid Slave Impaler (Ichtyid), Gold: 8, Resources: 5, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, forestunit, Infantry unit
 #newmonster 5151
 #name "Sma-behdtyan Light Ichtyid Slave Impaler"
@@ -64598,11 +64598,11 @@ gcost 1
 #end
 
 --- Sma-behdtyan Ichtyid Slave Impaler (Ichtyid), Gold: 8, Resources: 7, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, wasteunit, Infantry unit
 #newmonster 5152
 #name "Sma-behdtyan Ichtyid Slave Impaler"
@@ -64641,11 +64641,11 @@ gcost 1
 #end
 
 --- Sma-behdtyan Demonbred Flying Champion (Abysian), Gold: 30, Resources: 25, Roles: [infantry, elite infantry] (demonbred infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, fireres5
 #newmonster 5153
 #name "Sma-behdtyan Demonbred Flying Champion"
@@ -64683,11 +64683,11 @@ gcost 1
 #end
 
 --- Sma-behdtyan Champion (Abysian), Gold: 20, Resources: 21, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, fireres5
 #newmonster 5154
 #name "Sma-behdtyan Champion"
@@ -64723,11 +64723,11 @@ gcost 1
 #end
 
 --- Sma-behdtyan Morningstar Champion (Abysian), Gold: 20, Resources: 22, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, fireres5
 #newmonster 5155
 #name "Sma-behdtyan Morningstar Champion"
@@ -64763,7 +64763,7 @@ gcost 1
 #end
 
 --- Fire Guard (Abysian), Gold: 60, Resources: 24, Roles: [sacred infantry, elite infantry] (burning one infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -64810,10 +64810,10 @@ gcost 1
 #end
 
 --- Spy (Abysian), Gold: 60, Resources: 5, Roles: [scout] (generic_spies)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy, fireres5
 #newmonster 5157
 #name "Spy"
@@ -64851,11 +64851,11 @@ gcost 1
 #end
 
 --- Spearmaster (Ichtyid), Gold: 55, Resources: 4, Roles: [infantry, sacred, elite] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -5, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, forestunit, Infantry unit
 #newmonster 5158
 #name "Spearmaster"
@@ -64899,11 +64899,11 @@ gcost 1
 #end
 
 --- Lieutenant (Abysian), Gold: 80, Resources: 21, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, fireres5
 #newmonster 5159
 #name "Lieutenant"
@@ -64943,11 +64943,11 @@ gcost 1
 #end
 
 --- Sergeant (Abysian), Gold: 110, Resources: 25, Roles: [infantry, elite infantry] (demonbred infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, fireres5
 #newmonster 5160
 #name "Sergeant"
@@ -64988,7 +64988,7 @@ gcost 1
 #end
 
 --- Junior Cardinal (Abysian), Gold: 80, Resources: 3, Roles: [mage, priest] (lowly abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -65029,7 +65029,7 @@ gcost 1
 #end
 
 ---  Cardinal (Abysian), Gold: 130, Resources: 2, Roles: [mage, priest] (middling abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -65070,7 +65070,7 @@ gcost 1
 #end
 
 --- Ancient Cardinal (Abysian), Gold: 220, Resources: 2, Roles: [mage, priest] (lofty abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -65112,7 +65112,7 @@ gcost 1
 #end
 
 --- Lord of the Frenzied Fraternity (Abysian), Gold: 185, Resources: 3, Roles: [mage, priest] (middling abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -65159,7 +65159,7 @@ gcost 1
 #end
 
 --- Neophyte of Revealed Onyx (Abysian), Gold: 105, Resources: 2, Roles: [mage, priest] (lowly humanbred casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -65200,7 +65200,7 @@ gcost 1
 #end
 
 --- Scion of Revealed Onyx (Abysian), Gold: 200, Resources: 1, Roles: [mage, priest] (middling abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -65243,7 +65243,7 @@ gcost 1
 #end
 
 --- Master of Revealed Onyx (Abysian), Gold: 370, Resources: 1, Roles: [mage, priest] (lofty abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -65291,7 +65291,7 @@ gcost 1
 #end
 
 --- Hero (Abysian), Gold: 0, Resources: 28, Roles: [sacred infantry, scout] (elite demonbred infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -65340,11 +65340,11 @@ gcost 1
 #end
 
 --- Hero (Abysian), Gold: 0, Resources: 1, Roles: [mage, priest] (lofty abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (290), corpselord 4, airele, flying, floating, cavecrab, fireres5
 #newmonster 5169
 #name "Hero"
@@ -65408,10 +65408,10 @@ gcost 1
 #end
 
 --- Lhabafanan Champion (Pale One), Gold: 9, Resources: 4, Roles: [ranged] (ranged_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 5170
 #name "Lhabafanan Champion"
@@ -65451,10 +65451,10 @@ gcost 1
 #end
 
 --- Lhabafanan Human Flail Champion (Feudal human), Gold: 10, Resources: 10, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5171
 #name "Lhabafanan Human Flail Champion"
@@ -65485,11 +65485,11 @@ gcost 1
 #end
 
 --- Lhabafanan Human Spetum Champion (Feudal human), Gold: 10, Resources: 9, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5172
 #name "Lhabafanan Human Spetum Champion"
@@ -65521,10 +65521,10 @@ gcost 1
 #end
 
 --- Lhabafanan Light Cavernwight Impaler (Pale One), Gold: 23, Resources: 7, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5173
 #name "Lhabafanan Light Cavernwight Impaler"
@@ -65567,10 +65567,10 @@ gcost 1
 #end
 
 --- Lhabafanan Light Cavernwight Flail Champion (Pale One), Gold: 23, Resources: 7, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5174
 #name "Lhabafanan Light Cavernwight Flail Champion"
@@ -65613,11 +65613,11 @@ gcost 1
 #end
 
 --- Lhabafanan Cavernwight Harpoon Impaler (Pale One), Gold: 23, Resources: 7, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5175
 #name "Lhabafanan Cavernwight Harpoon Impaler"
@@ -65662,11 +65662,11 @@ gcost 1
 #end
 
 --- Lhabafanan Cavernwight Impaler (Pale One), Gold: 23, Resources: 21, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5176
 #name "Lhabafanan Cavernwight Impaler"
@@ -65711,10 +65711,10 @@ gcost 1
 #end
 
 --- Lhabafanan Cavernwight Flail Champion (Pale One), Gold: 23, Resources: 19, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5177
 #name "Lhabafanan Cavernwight Flail Champion"
@@ -65758,7 +65758,7 @@ gcost 1
 #end
 
 --- Protector of Ice (Pale One), Gold: 11, Resources: 24, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -65803,7 +65803,7 @@ gcost 1
 #end
 
 --- Dandelion Guard (Pale One), Gold: 50, Resources: 36, Roles: [sacred ranged] (ancient_ranged)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -65851,10 +65851,10 @@ gcost 1
 #end
 
 --- Scout (Pale One), Gold: 29, Resources: 9, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 5180
 #name "Scout"
@@ -65896,10 +65896,10 @@ gcost 1
 #end
 
 --- Sergeant (Feudal human), Gold: 40, Resources: 10, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5181
 #name "Sergeant"
@@ -65931,10 +65931,10 @@ gcost 1
 #end
 
 --- Warlord (Pale One), Gold: 85, Resources: 19, Roles: [infantry, scout] (infantry_bronze)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5182
 #name "Warlord"
@@ -65982,7 +65982,7 @@ gcost 1
 #end
 
 --- Attendant (Pale One), Gold: 50, Resources: 1, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -66027,7 +66027,7 @@ gcost 1
 #end
 
 --- Vicar (Pale One), Gold: 115, Resources: 3, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -66072,7 +66072,7 @@ gcost 1
 #end
 
 --- Patron (Pale One), Gold: 220, Resources: 10, Roles: [mage, priest] (ancient_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [3]]
@@ -66116,7 +66116,7 @@ gcost 1
 #end
 
 ---  Hermetic Rainmaker (Pale One), Gold: 155, Resources: 7, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [weapon]]
@@ -66163,7 +66163,7 @@ gcost 1
 #end
 
 ---  Abyssal Rainmaker (Pale One), Gold: 155, Resources: 3, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [weapon]]
@@ -66209,7 +66209,7 @@ gcost 1
 #end
 
 ---  Stellar Rainmaker (Pale One), Gold: 155, Resources: 3, Roles: [mage, priest] (young_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [weapon]]
@@ -66255,7 +66255,7 @@ gcost 1
 #end
 
 --- Paramount Hermetic Rainmaker (Feudal human), Gold: 240, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -66293,7 +66293,7 @@ gcost 1
 #end
 
 --- Paramount Abyssal Rainmaker (Feudal human), Gold: 240, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -66331,7 +66331,7 @@ gcost 1
 #end
 
 --- Paramount Stellar Rainmaker (Feudal human), Gold: 225, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -66369,7 +66369,7 @@ gcost 1
 #end
 
 --- Hero (Pale One), Gold: 0, Resources: 4, Roles: [sacred ranged] (ancient_ranged)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -66418,10 +66418,10 @@ gcost 1
 #end
 
 --- Hero (Pale One), Gold: 0, Resources: 1, Roles: [mage, priest] (ancient_caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), resource generator 10, ethereal2, ritualrange2, fireele, dragonlord 2
 #newmonster 5193
 #name "Hero"
@@ -66485,10 +66485,10 @@ gcost 1
 #end
 
 --- Laphainian Human Slave Champion (Feudal human), Gold: 10, Resources: 10, Roles: [ranged, elite ranged, sacred ranged] (crossbowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, castledef +1, Ranged unit
 #newmonster 5194
 #name "Laphainian Human Slave Champion"
@@ -66520,10 +66520,10 @@ gcost 1
 #end
 
 --- Laphainian Heavy Human Slave Swordsman (Feudal human), Gold: 9, Resources: 35, Roles: [infantry] (2h inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 5195
 #name "Laphainian Heavy Human Slave Swordsman"
@@ -66554,11 +66554,11 @@ gcost 1
 #end
 
 --- Laphainian Human Slave Swordsman (Feudal human), Gold: 9, Resources: 11, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, mountainunit, Infantry unit
 #newmonster 5196
 #name "Laphainian Human Slave Swordsman"
@@ -66591,10 +66591,10 @@ gcost 1
 #end
 
 --- Laphainian Human Slave Champion (Feudal human), Gold: 9, Resources: 10, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, mountainunit, Infantry unit
 #newmonster 5197
 #name "Laphainian Human Slave Champion"
@@ -66626,11 +66626,11 @@ gcost 1
 #end
 
 --- Laphainian Javelin Champion (Fir Bolg), Gold: 13, Resources: 4, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, -2
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Hardy
 #newmonster 5198
 #name "Laphainian Javelin Champion"
@@ -66663,11 +66663,11 @@ gcost 1
 #end
 
 --- Laphainian Basher (Fir Bolg), Gold: 13, Resources: 4, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, -2
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Hardy
 #newmonster 5199
 #name "Laphainian Basher"
@@ -66700,10 +66700,10 @@ gcost 1
 #end
 
 --- Laphainian Basher (Fir Bolg), Gold: 13, Resources: 3, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Hardy
 #newmonster 5200
 #name "Laphainian Basher"
@@ -66735,11 +66735,11 @@ gcost 1
 #end
 
 --- Laphainian Axe Champion (Fir Bolg), Gold: 13, Resources: 10, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Hardy
 #newmonster 5201
 #name "Laphainian Axe Champion"
@@ -66771,7 +66771,7 @@ gcost 1
 #end
 
 --- Laphainian Lancer (Fir Bolg), Gold: 35, Resources: 12, Roles: [mounted] (cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -66811,7 +66811,7 @@ gcost 1
 #end
 
 --- Shadow Aspirant (Fir Bolg), Gold: 14, Resources: 7, Roles: [ranged, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [filterdesc: ["stealthy desc"]]
@@ -66847,7 +66847,7 @@ gcost 1
 #end
 
 --- Astral Companion (Fir Bolg), Gold: 18, Resources: 11, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -66885,10 +66885,10 @@ gcost 1
 #end
 
 --- Scout (Fir Bolg), Gold: 35, Resources: 3, Roles: [ranged, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout, Hardy
 #newmonster 5205
 #name "Scout"
@@ -66924,11 +66924,11 @@ gcost 1
 #end
 
 --- Club Lord (Fir Bolg), Gold: 50, Resources: 4, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, -2
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Hardy
 #newmonster 5206
 #name "Club Lord"
@@ -66964,11 +66964,11 @@ gcost 1
 #end
 
 --- Slave Commander (Feudal human), Gold: 55, Resources: 11, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, mountainunit, Infantry unit
 #newmonster 5207
 #name "Slave Commander"
@@ -67006,7 +67006,7 @@ gcost 1
 #end
 
 --- Warchief (Fir Bolg), Gold: 125, Resources: 12, Roles: [mounted] (cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -67050,7 +67050,7 @@ gcost 1
 #end
 
 --- Paramount Parson (Fir Bolg), Gold: 70, Resources: 1, Roles: [mage, priest] (non-combatant caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, -2
 -- Armor: 0, 0
 -- Offhand: 2, -3
@@ -67087,7 +67087,7 @@ gcost 1
 #end
 
 --- Intangible Novice (Fir Bolg), Gold: 50, Resources: 1, Roles: [mage, priest] (non-combatant caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, -4
 -- Armor: 0, 0
 -- Offhand: 2, -3
@@ -67124,7 +67124,7 @@ gcost 1
 #end
 
 --- Intangible Fellow (Fir Bolg), Gold: 220, Resources: 1, Roles: [mage, priest] (non-combatant caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -1
 -- Armor: 0, 0
 -- Offhand: 2, -3
@@ -67167,7 +67167,7 @@ gcost 1
 #end
 
 --- Intangible Exarch (Fir Bolg), Gold: 390, Resources: 1, Roles: [mage, priest] (non-combatant caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 0
 -- Armor: 0, 0
 -- Offhand: 2, -3
@@ -67213,7 +67213,7 @@ gcost 1
 #end
 
 --- Hero (Fir Bolg), Gold: 0, Resources: 8, Roles: [mage, priest] (mounted warrior-caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -67276,10 +67276,10 @@ gcost 1
 #end
 
 --- Ymunheimian Maul Hirdman (Van), Gold: 25, Resources: 11, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5214
 #name "Ymunheimian Maul Hirdman"
@@ -67312,11 +67312,11 @@ gcost 1
 #end
 
 --- Ymunheimian Sword Hirdman (Van), Gold: 25, Resources: 16, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5215
 #name "Ymunheimian Sword Hirdman"
@@ -67350,11 +67350,11 @@ gcost 1
 #end
 
 --- Ymunheimian Basher (Van), Gold: 25, Resources: 15, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5216
 #name "Ymunheimian Basher"
@@ -67388,10 +67388,10 @@ gcost 1
 #end
 
 --- Ymunheimian Heavy Maul Hirdman (Van), Gold: 25, Resources: 17, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5217
 #name "Ymunheimian Heavy Maul Hirdman"
@@ -67424,11 +67424,11 @@ gcost 1
 #end
 
 --- Ymunheimian Heavy Basher (Van), Gold: 25, Resources: 19, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5218
 #name "Ymunheimian Heavy Basher"
@@ -67462,11 +67462,11 @@ gcost 1
 #end
 
 --- Ymunheimian Heavy Sword Hirdman (Van), Gold: 25, Resources: 20, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5219
 #name "Ymunheimian Heavy Sword Hirdman"
@@ -67500,11 +67500,11 @@ gcost 1
 #end
 
 --- Ymunheimian Light Sword Hirdman (Van), Gold: 25, Resources: 13, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5220
 #name "Ymunheimian Light Sword Hirdman"
@@ -67538,7 +67538,7 @@ gcost 1
 #end
 
 --- Ymunheimian Thane (Van), Gold: 55, Resources: 16, Roles: [mounted, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -67579,7 +67579,7 @@ gcost 1
 #end
 
 --- Ymunheimian Hirdman (Van), Gold: 45, Resources: 13, Roles: [mounted, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -67620,7 +67620,7 @@ gcost 1
 #end
 
 --- Ymunheimian Hirdman (Van), Gold: 45, Resources: 13, Roles: [mounted, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -67661,7 +67661,7 @@ gcost 1
 #end
 
 --- Enigmatic Vindicator (Van), Gold: 65, Resources: 10, Roles: [sacred infantry, elite infantry] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -67700,7 +67700,7 @@ gcost 1
 #end
 
 --- Overgrown Ranger (Van), Gold: 70, Resources: 17, Roles: [elite mounted, sacred mounted] (mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -67744,10 +67744,10 @@ gcost 1
 #end
 
 --- Scout (Van), Gold: 45, Resources: 5, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 5226
 #name "Scout"
@@ -67784,11 +67784,11 @@ gcost 1
 #end
 
 --- Swordsmaster (Van), Gold: 75, Resources: 20, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5227
 #name "Swordsmaster"
@@ -67825,7 +67825,7 @@ gcost 1
 #end
 
 --- Colonel (Van), Gold: 115, Resources: 16, Roles: [mounted, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -67869,7 +67869,7 @@ gcost 1
 #end
 
 --- Gode (Van), Gold: 70, Resources: 3, Roles: [priest] (Tier 1-2 Priests)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, -3
 -- Offhand: 0, -3
@@ -67909,7 +67909,7 @@ gcost 1
 #end
 
 --- Exarch (Van), Gold: 150, Resources: 3, Roles: [priest] (Tier 1-2 Priests)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, -3
 -- Offhand: 0, -3
@@ -67950,7 +67950,7 @@ gcost 1
 #end
 
 --- Torrent Galderman (Van), Gold: 260, Resources: 21, Roles: [mage] (Tier 2 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -67997,7 +67997,7 @@ gcost 1
 #end
 
 --- Torrent Warlock (Van), Gold: 280, Resources: 20, Roles: [mage] (Tier 2 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -68044,7 +68044,7 @@ gcost 1
 #end
 
 --- Torrent Adept (Van), Gold: 260, Resources: 19, Roles: [mage] (Tier 2 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -68091,7 +68091,7 @@ gcost 1
 #end
 
 --- Adept Demonologist of Torrents (Van), Gold: 470, Resources: 14, Roles: [mage] (Tier 3 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -68144,7 +68144,7 @@ gcost 1
 #end
 
 --- Hero (Van), Gold: 0, Resources: 13, Roles: [mage] (Tier 3 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -68228,11 +68228,11 @@ gcost 1
 #end
 
 --- Dewdan Vanara Axeman (Primate), Gold: 8, Resources: 6, Roles: [infantry] (vanara light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5236
 #name "Dewdan Vanara Axeman"
@@ -68266,11 +68266,11 @@ gcost 1
 #end
 
 --- Dewdan Light Vanara Spearman (Primate), Gold: 8, Resources: 6, Roles: [infantry] (vanara light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5237
 #name "Dewdan Light Vanara Spearman"
@@ -68304,11 +68304,11 @@ gcost 1
 #end
 
 --- Dewdan Light Vanara Spearman (Primate), Gold: 8, Resources: 6, Roles: [infantry] (vanara light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5238
 #name "Dewdan Light Vanara Spearman"
@@ -68342,11 +68342,11 @@ gcost 1
 #end
 
 --- Dewdan Vanara Spearman (Primate), Gold: 8, Resources: 10, Roles: [infantry] (vanara infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5239
 #name "Dewdan Vanara Spearman"
@@ -68379,11 +68379,11 @@ gcost 1
 #end
 
 --- Dewdan Bandar Elite Spearmaster (Primate), Gold: 19, Resources: 21, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 5240
 #name "Dewdan Bandar Elite Spearmaster"
@@ -68418,10 +68418,10 @@ gcost 1
 #end
 
 --- Dewdan Bandar Champion (Primate), Gold: 16, Resources: 21, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5241
 #name "Dewdan Bandar Champion"
@@ -68454,11 +68454,11 @@ gcost 1
 #end
 
 --- Dewdan Bandar Spearman (Primate), Gold: 16, Resources: 21, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5242
 #name "Dewdan Bandar Spearman"
@@ -68492,10 +68492,10 @@ gcost 1
 #end
 
 --- Dewdan Bandar Axeman (Primate), Gold: 16, Resources: 22, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5243
 #name "Dewdan Bandar Axeman"
@@ -68528,7 +68528,7 @@ gcost 1
 #end
 
 --- Champion of Fall (Primate), Gold: 26, Resources: 14, Roles: [sacred ranged, elite ranged] (vanara sacred archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, 3
 -- Armor: 0, 0
 --- Generation tags: [path: [earth]], [filterdesc: ["fallpower desc"]], [sacred: []]
@@ -68567,7 +68567,7 @@ gcost 1
 #end
 
 --- Night Disciple (Primate), Gold: 24, Resources: 22, Roles: [sacred ranged, elite ranged] (bandar elite archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["stealthy desc"]], [sacred: []]
@@ -68607,11 +68607,11 @@ gcost 1
 #end
 
 --- Assassin (Primate), Gold: 50, Resources: 5, Roles: [scout] (vanara scouts)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 5246
 #name "Assassin"
@@ -68647,11 +68647,11 @@ gcost 1
 #end
 
 --- Axemaster (Primate), Gold: 50, Resources: 6, Roles: [infantry] (vanara light infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5247
 #name "Axemaster"
@@ -68689,11 +68689,11 @@ gcost 1
 #end
 
 --- Elite Commander (Primate), Gold: 80, Resources: 21, Roles: [infantry] (bandar infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 5248
 #name "Elite Commander"
@@ -68733,7 +68733,7 @@ gcost 1
 #end
 
 --- Captain (Primate), Gold: 90, Resources: 14, Roles: [sacred ranged, elite ranged] (vanara sacred archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -3, 3
 -- Armor: 0, 0
 --- Generation tags: [path: [earth]], [filterdesc: ["fallpower desc"]], [sacred: []]
@@ -68778,7 +68778,7 @@ gcost 1
 #end
 
 --- Rishi (Primate), Gold: 50, Resources: 1, Roles: [priest] (vanara priest, standing)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -68816,7 +68816,7 @@ gcost 1
 #end
 
 --- Neophyte of Ash Wastes (Primate), Gold: 220, Resources: 1, Roles: [mage, priest] (bandar caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
 -- Offhand: 2, 6
@@ -68858,7 +68858,7 @@ gcost 1
 #end
 
 --- Consort of Ash Wastes (Primate), Gold: 250, Resources: 1, Roles: [mage] (vanara mage, sitting)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [magepriest: []]
@@ -68900,7 +68900,7 @@ gcost 1
 #end
 
 --- Harbinger of Ash Wastes (Dantih), Gold: 485, Resources: 10, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [magepriest: []], [varyslot: [weapon]]
@@ -68948,11 +68948,11 @@ gcost 1
 #end
 
 --- Library-Keeper (Primate), Gold: 50, Resources: 1, Roles: [mage] (vanara mage, standing)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 2, 6
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Librarian
 #newmonster 5254
 #name "Library-Keeper"
@@ -68986,7 +68986,7 @@ gcost 1
 #end
 
 --- Hero (Primate), Gold: 0, Resources: 23, Roles: [sacred mounted, elite mounted] (vanara sacred cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [caponlychance: [1]], [itemslot: [feet -1]], [filterdesc: ["stealthy desc", "allres desc", "castle desc", "zealous desc", "dompower desc", "siege desc"]]
@@ -69102,10 +69102,10 @@ gcost 1
 #end
 
 --- Alingsundish Serf Hirdman (Van), Gold: 8, Resources: 10, Roles: [ranged] (serf archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: serf, Ranged unit, swampsurvival
 #newmonster 5256
 #name "Alingsundish Serf Hirdman"
@@ -69138,11 +69138,11 @@ gcost 1
 #end
 
 --- Alingsundish Maceman (Van), Gold: 25, Resources: 10, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, swampsurvival
 #newmonster 5257
 #name "Alingsundish Maceman"
@@ -69177,10 +69177,10 @@ gcost 1
 #end
 
 --- Alingsundish Light Axeman (Van), Gold: 25, Resources: 10, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, swampsurvival
 #newmonster 5258
 #name "Alingsundish Light Axeman"
@@ -69214,11 +69214,11 @@ gcost 1
 #end
 
 --- Alingsundish Axe Thrower (Van), Gold: 25, Resources: 12, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, swampsurvival
 #newmonster 5259
 #name "Alingsundish Axe Thrower"
@@ -69254,11 +69254,11 @@ gcost 1
 #end
 
 --- Alingsundish Axeman (Van), Gold: 25, Resources: 13, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, swampsurvival
 #newmonster 5260
 #name "Alingsundish Axeman"
@@ -69293,11 +69293,11 @@ gcost 1
 #end
 
 --- Alingsundish Serf Hirdman (Van), Gold: 8, Resources: 6, Roles: [infantry] (serf infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, 5
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: serf, Infantry unit, swampsurvival
 #newmonster 5261
 #name "Alingsundish Serf Hirdman"
@@ -69329,7 +69329,7 @@ gcost 1
 #end
 
 --- Alingsundish Thane (Van), Gold: 55, Resources: 6, Roles: [mounted, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -69369,7 +69369,7 @@ gcost 1
 #end
 
 --- Illusory Knight (Van), Gold: 70, Resources: 6, Roles: [elite mounted, sacred mounted] (mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 --- Generation tags: [path: [fire]], [itemslot: [feet -1]], [filterdesc: ["summerpower desc"]], [sacred: []]
@@ -69411,11 +69411,11 @@ gcost 1
 #end
 
 --- Assassin (Van), Gold: 65, Resources: 4, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin, swampsurvival
 #newmonster 5264
 #name "Assassin"
@@ -69453,11 +69453,11 @@ gcost 1
 #end
 
 --- Sergeant (Van), Gold: 95, Resources: 10, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, swampsurvival
 #newmonster 5265
 #name "Sergeant"
@@ -69496,11 +69496,11 @@ gcost 1
 #end
 
 --- Axemaster (Van), Gold: 85, Resources: 13, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, swampsurvival
 #newmonster 5266
 #name "Axemaster"
@@ -69539,7 +69539,7 @@ gcost 1
 #end
 
 --- General (Van), Gold: 210, Resources: 6, Roles: [elite mounted, sacred mounted] (mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 --- Generation tags: [path: [fire]], [itemslot: [feet -1]], [filterdesc: ["summerpower desc"]], [sacred: []]
@@ -69586,7 +69586,7 @@ gcost 1
 #end
 
 --- Neophyte Deacon (Van), Gold: 70, Resources: 4, Roles: [priest] (Tier 1-2 Priests)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, -3
 -- Offhand: 0, -3
@@ -69628,7 +69628,7 @@ gcost 1
 #end
 
 --- High Deacon (Van), Gold: 160, Resources: 5, Roles: [priest] (Tier 3 Priests)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, -3
 -- Offhand: 0, -3
@@ -69670,7 +69670,7 @@ gcost 1
 #end
 
 --- Consort of the Lower Shrouds (Van), Gold: 225, Resources: 6, Roles: [mage] (Tier 2 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -69718,7 +69718,7 @@ gcost 1
 #end
 
 --- Fellow of the Translucent Accord (Van), Gold: 160, Resources: 17, Roles: [mage] (Tier 2 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -69762,7 +69762,7 @@ gcost 1
 #end
 
 --- Geomancer of the Translucent Accord (Van), Gold: 225, Resources: 16, Roles: [mage] (Tier 2 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -69808,7 +69808,7 @@ gcost 1
 #end
 
 --- Terminator of the Translucent Accord (Van), Gold: 190, Resources: 16, Roles: [mage] (Tier 2 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -69853,7 +69853,7 @@ gcost 1
 #end
 
 --- Bringer of the Translucent Accord (Van), Gold: 345, Resources: 13, Roles: [mage] (Tier 3 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -69900,7 +69900,7 @@ gcost 1
 #end
 
 --- Hero (Van), Gold: 0, Resources: 13, Roles: [mage] (Tier 3 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -69955,7 +69955,7 @@ gcost 1
 #end
 
 --- Hero (Van), Gold: 0, Resources: 19, Roles: [mage] (Tier 3 mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -70005,7 +70005,7 @@ gcost 1
 #end
 
 --- Hero (Van), Gold: 0, Resources: 9, Roles: [sacred infantry] (flyer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 17, -22
 -- Armor: 0, 0
 -- Offhand: -4, -11
@@ -70061,10 +70061,10 @@ gcost 1
 --- Unit definitions for Edomkahdod
 
 --- Edomkahdodan Sylvan Champion (Avvite), Gold: 25, Resources: 53, Roles: [ranged] (bowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, Ranged unit
 #newmonster 5278
 #name "Edomkahdodan Sylvan Champion"
@@ -70101,11 +70101,11 @@ gcost 1
 #end
 
 --- Edomkahdodan Champion (Avvite), Gold: 25, Resources: 29, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Infantry unit
 #newmonster 5279
 #name "Edomkahdodan Champion"
@@ -70142,11 +70142,11 @@ gcost 1
 #end
 
 --- Edomkahdodan Morningstar Champion (Avvite), Gold: 25, Resources: 26, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Infantry unit
 #newmonster 5280
 #name "Edomkahdodan Morningstar Champion"
@@ -70183,11 +70183,11 @@ gcost 1
 #end
 
 --- Edomkahdodan Javelin Champion (Avvite), Gold: 25, Resources: 23, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 5281
 #name "Edomkahdodan Javelin Champion"
@@ -70225,11 +70225,11 @@ gcost 1
 #end
 
 --- Edomkahdodan Swamp Champion (Avvite), Gold: 25, Resources: 26, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 5282
 #name "Edomkahdodan Swamp Champion"
@@ -70267,11 +70267,11 @@ gcost 1
 #end
 
 --- Edomkahdodan Sword Champion (Avvite), Gold: 25, Resources: 52, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5283
 #name "Edomkahdodan Sword Champion"
@@ -70307,7 +70307,7 @@ gcost 1
 #end
 
 --- Edomkahdodan Knight (Avvite), Gold: 50, Resources: 26, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -10
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -70349,7 +70349,7 @@ gcost 1
 #end
 
 --- Edomkahdodan Lance Knight (Avvite), Gold: 50, Resources: 26, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -10
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -70392,7 +70392,7 @@ gcost 1
 #end
 
 --- Temple Follower (Avvite), Gold: 115, Resources: 23, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -10
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -70437,11 +70437,11 @@ gcost 1
 #end
 
 --- Assassin (Avvite), Gold: 65, Resources: 14, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 5287
 #name "Assassin"
@@ -70482,11 +70482,11 @@ gcost 1
 #end
 
 --- Captain (Avvite), Gold: 85, Resources: 23, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 5288
 #name "Captain"
@@ -70528,11 +70528,11 @@ gcost 1
 #end
 
 --- Commanding Champion (Avvite), Gold: 75, Resources: 26, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: patroller 1, Infantry unit
 #newmonster 5289
 #name "Commanding Champion"
@@ -70572,7 +70572,7 @@ gcost 1
 #end
 
 --- Colonel (Avvite), Gold: 100, Resources: 26, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -1, -10
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -70617,7 +70617,7 @@ gcost 1
 #end
 
 --- Novice Navigator (Avvite), Gold: 70, Resources: 8, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 1
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -70663,7 +70663,7 @@ gcost 1
 #end
 
 --- Paramount Navigator (Avvite), Gold: 135, Resources: 10, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 1
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -70708,7 +70708,7 @@ gcost 1
 #end
 
 --- Neophyte of the Surreal Spheres (Oriental human), Gold: 105, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -70743,7 +70743,7 @@ gcost 1
 #end
 
 --- Sorcerer of the Surreal Spheres (Oriental human), Gold: 195, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -70781,7 +70781,7 @@ gcost 1
 #end
 
 --- Exarch of the Surreal Spheres (Avvite), Gold: 390, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -70830,7 +70830,7 @@ gcost 1
 #end
 
 --- Hero (Avvite), Gold: 0, Resources: 52, Roles: [ranged] (bowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [sacred: []]
@@ -70874,7 +70874,7 @@ gcost 1
 #end
 
 --- Hero (Avvite), Gold: 0, Resources: 86, Roles: [chariot] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]], [filterdesc: ["siege desc"]], [sacred: []]
@@ -70972,10 +70972,10 @@ gcost 1
 #end
 
 --- Uganmatian Illithid Mind Champion (Illithid), Gold: 50, Resources: 2, Roles: [ranged] (mindflayer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 5298
 #name "Uganmatian Illithid Mind Champion"
@@ -71013,10 +71013,10 @@ gcost 1
 #end
 
 --- Uganmatian Champion (Feudal human), Gold: 12, Resources: 10, Roles: [ranged, elite ranged, sacred ranged] (crossbowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 5299
 #name "Uganmatian Champion"
@@ -71047,10 +71047,10 @@ gcost 1
 #end
 
 --- Uganmatian Champion (Feudal human), Gold: 10, Resources: 9, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5300
 #name "Uganmatian Champion"
@@ -71080,11 +71080,11 @@ gcost 1
 #end
 
 --- Uganmatian Crusher (Feudal human), Gold: 10, Resources: 10, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5301
 #name "Uganmatian Crusher"
@@ -71115,11 +71115,11 @@ gcost 1
 #end
 
 --- Uganmatian Crusher (Feudal human), Gold: 10, Resources: 9, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5302
 #name "Uganmatian Crusher"
@@ -71150,7 +71150,7 @@ gcost 1
 #end
 
 --- Uganmatian Knight (Feudal human), Gold: 30, Resources: 41, Roles: [mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -71190,7 +71190,7 @@ gcost 1
 #end
 
 --- Uganmatian Elite Swordsmaster (Feudal human), Gold: 40, Resources: 22, Roles: [chariot] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -71231,7 +71231,7 @@ gcost 1
 #end
 
 --- Demon Thane (Feudal human), Gold: 35, Resources: 15, Roles: [ranged, elite ranged, sacred ranged] (crossbowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [earth]], [primarycommand: [#prot]], [price_if_command: [at #size 1 +5]], [filterdesc: ["eelemental shift desc", "invulnerable desc"]], [sacred: []]
@@ -71268,10 +71268,10 @@ gcost 1
 #end
 
 --- Scout (Feudal human), Gold: 30, Resources: 3, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 5306
 #name "Scout"
@@ -71305,10 +71305,10 @@ gcost 1
 #end
 
 --- Axe Chieftain (Feudal human), Gold: 40, Resources: 9, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5307
 #name "Axe Chieftain"
@@ -71339,7 +71339,7 @@ gcost 1
 #end
 
 --- Colonel (Feudal human), Gold: 100, Resources: 22, Roles: [chariot] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -71383,7 +71383,7 @@ gcost 1
 #end
 
 --- General (Feudal human), Gold: 115, Resources: 15, Roles: [ranged, elite ranged, sacred ranged] (crossbowman)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [path: [earth]], [primarycommand: [#prot]], [price_if_command: [at #size 1 +5]], [filterdesc: ["eelemental shift desc", "invulnerable desc"]], [sacred: []]
@@ -71425,7 +71425,7 @@ gcost 1
 #end
 
 --- Fledgling Hierophant (Feudal human), Gold: 50, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -71462,7 +71462,7 @@ gcost 1
 #end
 
 ---  Hierophant (Feudal human), Gold: 115, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -71498,7 +71498,7 @@ gcost 1
 #end
 
 --- High Hierophant (Feudal human), Gold: 195, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -71534,7 +71534,7 @@ gcost 1
 #end
 
 --- Chaos Apprentice (Illithid), Gold: 115, Resources: 1, Roles: [mage, priest] (starchildren)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]]
@@ -71575,7 +71575,7 @@ gcost 1
 #end
 
 --- Chaos Devastator (Illithid), Gold: 165, Resources: 2, Roles: [mage] (illithid mages T2)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [color]]
@@ -71620,7 +71620,7 @@ gcost 1
 #end
 
 --- Chaos Hellcaller (Illithid), Gold: 205, Resources: 2, Roles: [mage] (illithid mages T2)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [color]]
@@ -71665,7 +71665,7 @@ gcost 1
 #end
 
 --- Chaos Exarch (Feudal human), Gold: 210, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -71707,10 +71707,10 @@ gcost 1
 #end
 
 --- Hero (Illithid), Gold: 0, Resources: 2, Roles: [mage] (illithid mages T3)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), resource generator 10, cavecrab, coldres, fireshield, heretic, majorcoldres, invulnerable10
 #newmonster 5317
 #name "Hero"
@@ -71762,11 +71762,11 @@ gcost 1
 #end
 
 --- Hero (Feudal human), Gold: 0, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (390), illearth, ethereal2, resource generator 10
 #newmonster 5318
 #name "Hero"
@@ -71901,10 +71901,10 @@ gcost 1
 #end
 
 --- Vaycatmarkan Mountain Legionary (Hoburg), Gold: 6, Resources: 4, Roles: [ranged, elite ranged, sacred ranged] (boreal ranged)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, mountainunit, Ranged unit
 #newmonster 5319
 #name "Vaycatmarkan Mountain Legionary"
@@ -71939,10 +71939,10 @@ gcost 1
 #end
 
 --- Vaycatmarkan Mountain Legionary (Hoburg), Gold: 6, Resources: 3, Roles: [ranged, elite ranged, sacred ranged] (boreal ranged)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: forestunit, mountainunit, Ranged unit
 #newmonster 5320
 #name "Vaycatmarkan Mountain Legionary"
@@ -71977,11 +71977,11 @@ gcost 1
 #end
 
 --- Vaycatmarkan Spear Auxiliary (Hoburg), Gold: 6, Resources: 3, Roles: [infantry, elite infantry, sacred infantry] (boreal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5321
 #name "Vaycatmarkan Spear Auxiliary"
@@ -72014,11 +72014,11 @@ gcost 1
 #end
 
 --- Vaycatmarkan Auxiliary (Hoburg), Gold: 6, Resources: 4, Roles: [infantry, elite infantry, sacred infantry] (boreal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 12
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5322
 #name "Vaycatmarkan Auxiliary"
@@ -72051,11 +72051,11 @@ gcost 1
 #end
 
 --- Vaycatmarkan Mace Auxiliary (Hoburg), Gold: 6, Resources: 3, Roles: [infantry, elite infantry, sacred infantry] (boreal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5323
 #name "Vaycatmarkan Mace Auxiliary"
@@ -72088,11 +72088,11 @@ gcost 1
 #end
 
 --- Vaycatmarkan Legionary (Hoburg), Gold: 6, Resources: 8, Roles: [infantry, elite infantry, sacred infantry] (stealthy boreal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 12
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5324
 #name "Vaycatmarkan Legionary"
@@ -72126,7 +72126,7 @@ gcost 1
 #end
 
 --- Vaycatmarkan Flying Lancer (Hoburg), Gold: 35, Resources: 9, Roles: [mounted, elite mounted, sacred mounted] (stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 7, 13
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -72170,7 +72170,7 @@ gcost 1
 #end
 
 --- Vaycatmarkan Flying Auxiliary (Hoburg), Gold: 35, Resources: 7, Roles: [mounted, elite mounted, sacred mounted] (stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -72211,7 +72211,7 @@ gcost 1
 #end
 
 --- Shadow Scout (Hoburg), Gold: 7, Resources: 10, Roles: [infantry, elite infantry, sacred infantry] (stealthy boreal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 12
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -72250,7 +72250,7 @@ gcost 1
 #end
 
 --- Temple Sniper (Hoburg), Gold: 9, Resources: 5, Roles: [ranged, elite ranged, sacred ranged] (boreal ranged)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["growthpower desc"]], [sacred: []]
@@ -72288,11 +72288,11 @@ gcost 1
 #end
 
 --- Assassin (Hoburg), Gold: 55, Resources: 7, Roles: [scout] (stealthy boreal scout)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 12
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin, professional
 #newmonster 5329
 #name "Assassin"
@@ -72331,7 +72331,7 @@ gcost 1
 #end
 
 --- Legate (Hoburg), Gold: 55, Resources: 10, Roles: [infantry, elite infantry, sacred infantry] (stealthy boreal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 12
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -72373,7 +72373,7 @@ gcost 1
 #end
 
 --- Tribune (Hoburg), Gold: 85, Resources: 9, Roles: [mounted, elite mounted, sacred mounted] (stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 7, 13
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -72420,7 +72420,7 @@ gcost 1
 #end
 
 --- Propraetor (Hoburg), Gold: 75, Resources: 5, Roles: [ranged, elite ranged, sacred ranged] (boreal ranged)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["growthpower desc"]], [sacred: []]
@@ -72462,7 +72462,7 @@ gcost 1
 #end
 
 --- Paramount Priest (Hoburg), Gold: 85, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, 12
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -72502,7 +72502,7 @@ gcost 1
 #end
 
 --- Mage of Tainted Harvests (Hoburg), Gold: 225, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -72545,7 +72545,7 @@ gcost 1
 #end
 
 --- Junior Wolven Herbalist (Hoburg), Gold: 90, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -72585,7 +72585,7 @@ gcost 1
 #end
 
 ---  Wolven Herbalist (Hoburg), Gold: 145, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -72627,7 +72627,7 @@ gcost 1
 #end
 
 --- Adept Wolven Herbalist (Hoburg), Gold: 325, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 12
 -- Armor: 0, 0
 -- Offhand: 0, 9
@@ -72670,7 +72670,7 @@ gcost 1
 #end
 
 --- Hero (Hoburg), Gold: 0, Resources: 14, Roles: [infantry, elite infantry, sacred infantry] (boreal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 12
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -72717,11 +72717,11 @@ gcost 1
 #end
 
 --- Hero (Hoburg), Gold: 0, Resources: 4, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 3, 12
 -- Armor: 0, 0
 -- Offhand: 0, 9
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (250), heretic, better researcher +3 - tier 3 mages, healerscaling, deathrec, werebear, professional
 #newmonster 5339
 #name "Hero"
@@ -72765,7 +72765,7 @@ gcost 1
 #end
 
 --- Hero (Hoburg), Gold: 0, Resources: 13, Roles: [mounted, elite mounted, sacred mounted] (stealthy boreal cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 7, 13
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -72869,11 +72869,11 @@ gcost 1
 #end
 
 --- Ekgardan Elite Axemaster (Boreal human), Gold: 12, Resources: 18, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 5341
 #name "Ekgardan Elite Axemaster"
@@ -72904,11 +72904,11 @@ gcost 1
 #end
 
 --- Ekgardan Light Impaler (Boreal human), Gold: 10, Resources: 10, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5342
 #name "Ekgardan Light Impaler"
@@ -72939,10 +72939,10 @@ gcost 1
 #end
 
 --- Ekgardan Axeman (Boreal human), Gold: 10, Resources: 8, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5343
 #name "Ekgardan Axeman"
@@ -72972,11 +72972,11 @@ gcost 1
 #end
 
 --- Ekgardan Axeman (Boreal human), Gold: 10, Resources: 10, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5344
 #name "Ekgardan Axeman"
@@ -73007,11 +73007,11 @@ gcost 1
 #end
 
 --- Ekgardan Champion (Boreal human), Gold: 10, Resources: 15, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5345
 #name "Ekgardan Champion"
@@ -73042,11 +73042,11 @@ gcost 1
 #end
 
 --- Ekgardan Impaler (Boreal human), Gold: 10, Resources: 13, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5346
 #name "Ekgardan Impaler"
@@ -73077,11 +73077,11 @@ gcost 1
 #end
 
 --- Ekgardan Serf Axeman (Boreal human), Gold: 8, Resources: 6, Roles: [infantry] (serf infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -11, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: serf, Infantry unit
 #newmonster 5347
 #name "Ekgardan Serf Axeman"
@@ -73113,7 +73113,7 @@ gcost 1
 #end
 
 --- Ekgardan Knight (Boreal human), Gold: 30, Resources: 23, Roles: [mounted, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -73151,7 +73151,7 @@ gcost 1
 #end
 
 --- Ekgardan Knight (Boreal human), Gold: 30, Resources: 23, Roles: [mounted, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -73189,7 +73189,7 @@ gcost 1
 #end
 
 --- Radiant Follower (Boreal human), Gold: 70, Resources: 8, Roles: [elite mounted, sacred mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]], [filterdesc: ["awe desc"]], [price_per_command: [#hp 1 10]], [sacred: []]
@@ -73227,10 +73227,10 @@ gcost 1
 #end
 
 --- Scout (Boreal human), Gold: 30, Resources: 4, Roles: [ranged, scout] (archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 5351
 #name "Scout"
@@ -73267,11 +73267,11 @@ gcost 1
 #end
 
 --- Warchief (Boreal human), Gold: 60, Resources: 10, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5352
 #name "Warchief"
@@ -73305,7 +73305,7 @@ gcost 1
 #end
 
 --- Axe Lord (Boreal human), Gold: 80, Resources: 23, Roles: [mounted, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -73346,7 +73346,7 @@ gcost 1
 #end
 
 --- Initiate Hierophant (Boreal human), Gold: 50, Resources: 7, Roles: [priest, mage] (Unmounted casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, -3
 -- Offhand: 0, -3
@@ -73383,7 +73383,7 @@ gcost 1
 #end
 
 --- Master Hierophant (Boreal human), Gold: 115, Resources: 6, Roles: [priest, mage] (Unmounted casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, -3
 -- Offhand: 0, -3
@@ -73421,7 +73421,7 @@ gcost 1
 #end
 
 --- Initiate Fae Reaver (Boreal human), Gold: 80, Resources: 3, Roles: [priest, mage] (Unmounted casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, -3
 -- Offhand: 0, -3
@@ -73460,7 +73460,7 @@ gcost 1
 #end
 
 ---  Fae Reaver (Boreal human), Gold: 280, Resources: 23, Roles: [mage] (Tier 2-3 mounted mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -73506,7 +73506,7 @@ gcost 1
 #end
 
 --- Great Fae Reaver (Boreal human), Gold: 375, Resources: 19, Roles: [mage] (Tier 2-3 mounted mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -73557,7 +73557,7 @@ gcost 1
 #end
 
 --- Hero (Boreal human), Gold: 0, Resources: 16, Roles: [elite mounted, sacred mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -73604,7 +73604,7 @@ gcost 1
 #end
 
 --- Hero (Boreal human), Gold: 0, Resources: 10, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -73648,7 +73648,7 @@ gcost 1
 #end
 
 --- Hero (Boreal human), Gold: 0, Resources: 26, Roles: [mage] (Tier 2-3 mounted mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -75094,7 +75094,7 @@ Priests: Weak."
 ---------------------------------------------------------------
 #selectnation 132
 #clear
-#era 2
+#era 3
 #name "Timobeanda"
 #epithet "Age of the Abyss"
 #descr "A glorious NationGen nation! Generated from seed -3851626831360356701 with settings integer 8"
@@ -75178,7 +75178,7 @@ Priests: Moderate."
 ---------------------------------------------------------------
 #selectnation 133
 #clear
-#era 2
+#era 3
 #name "Myrmene"
 #epithet "Fae Office"
 #descr "A glorious NationGen nation! Generated from seed -8540295415414362166 with settings integer 8"
@@ -75765,7 +75765,7 @@ Priests: Strong."
 ---------------------------------------------------------------
 #selectnation 140
 #clear
-#era 2
+#era 3
 #name "Assor"
 #epithet "Wall of the Putrid"
 #descr "A glorious NationGen nation! Generated from seed 5953244354629092068 with settings integer 8"
@@ -75936,7 +75936,7 @@ Priests: Moderate."
 ---------------------------------------------------------------
 #selectnation 142
 #clear
-#era 2
+#era 3
 #name "Cerium"
 #epithet "Burning Obelisk"
 #descr "A glorious NationGen nation! Generated from seed -3469830949033905341 with settings integer 8"
@@ -76106,7 +76106,7 @@ Priests: Strong."
 ---------------------------------------------------------------
 #selectnation 144
 #clear
-#era 2
+#era 3
 #name "Lhotha"
 #epithet "Glory of the Frost"
 #descr "A glorious NationGen nation! Generated from seed -8958326831871813952 with settings integer 8"
@@ -76271,7 +76271,7 @@ Priests: Moderate."
 ---------------------------------------------------------------
 #selectnation 146
 #clear
-#era 2
+#era 3
 #name "Lekvanstad"
 #epithet "Dawn of the Greater Bloodstone Mages"
 #descr "A glorious NationGen nation! Generated from seed -2231832527880150552 with settings integer 8"
@@ -76519,7 +76519,7 @@ Priests: Weak."
 ---------------------------------------------------------------
 #selectnation 149
 #clear
-#era 2
+#era 3
 #name "Kinchenmark"
 #epithet "Land of the Glittering"
 #descr "A glorious NationGen nation! Generated from seed -2275159151315962887 with settings integer 8"
@@ -76861,7 +76861,7 @@ Priests: Strong, temples cost 500 gold."
 ---------------------------------------------------------------
 #selectnation 153
 #clear
-#era 2
+#era 3
 #name "Sethi"
 #epithet "Drowned Age"
 #descr "A glorious NationGen nation! Generated from seed -6811494468561726847 with settings integer 8"
@@ -77205,7 +77205,7 @@ Priests: Moderate."
 ---------------------------------------------------------------
 #selectnation 157
 #clear
-#era 2
+#era 3
 #name "Otammgal"
 #epithet "City of the Tridents"
 #descr "A glorious NationGen nation! Generated from seed -3647697224233016120 with settings integer 8"
@@ -77450,7 +77450,7 @@ Priests: Moderate."
 ---------------------------------------------------------------
 #selectnation 160
 #clear
-#era 2
+#era 3
 #name "Whahimichi"
 #epithet "Age of the Arch Adamant Mages"
 #descr "A glorious NationGen nation! Generated from seed 3559092944371376749 with settings integer 8"
@@ -77708,7 +77708,7 @@ Priests: Strong."
 ---------------------------------------------------------------
 #selectnation 163
 #clear
-#era 2
+#era 3
 #name "Nishisan"
 #epithet "Burrow of Lava"
 #descr "A glorious NationGen nation! Generated from seed -6255037863666454122 with settings integer 8"
@@ -78287,7 +78287,7 @@ Priests: Strong."
 ---------------------------------------------------------------
 #selectnation 170
 #clear
-#era 2
+#era 3
 #name "Cythpos"
 #epithet "Time of the Serene"
 #descr "A glorious NationGen nation! Generated from seed -8824134469109711706 with settings integer 8"
@@ -78372,7 +78372,7 @@ Priests: Moderate."
 ---------------------------------------------------------------
 #selectnation 171
 #clear
-#era 2
+#era 3
 #name "Cikos"
 #epithet "Vampiric Cult"
 #descr "A glorious NationGen nation! Generated from seed 4744258957787251048 with settings integer 8"
@@ -78624,7 +78624,7 @@ Priests: Weak, temples cost 300 gold."
 ---------------------------------------------------------------
 #selectnation 174
 #clear
-#era 2
+#era 3
 #name "Wineira"
 #epithet "Twilight of the Exalted Throne"
 #descr "A glorious NationGen nation! Generated from seed -4462608762545887846 with settings integer 8"
@@ -79053,7 +79053,7 @@ Priests: Strong."
 ---------------------------------------------------------------
 #selectnation 179
 #clear
-#era 2
+#era 3
 #name "Simbatu"
 #epithet "Rise of the Adept Mages"
 #descr "A glorious NationGen nation! Generated from seed 4593057718263523125 with settings integer 8"
@@ -79557,7 +79557,7 @@ Priests: Strong, temples cost 200 gold."
 ---------------------------------------------------------------
 #selectnation 185
 #clear
-#era 2
+#era 3
 #name "Tecla"
 #epithet "Saga of the Bleak"
 #descr "A glorious NationGen nation! Generated from seed 1022872024172299447 with settings integer 8"
@@ -79701,6 +79701,9 @@ Priests: Weak."
 
 #homerealm 8
 #homerealm 10
+#addgod 978
+#addgod 812
+#addgod 2550
 
 #templepic 12
 
@@ -79716,7 +79719,7 @@ Priests: Weak."
 ---------------------------------------------------------------
 #selectnation 187
 #clear
-#era 2
+#era 3
 #name "Atlagria"
 #epithet "Zenith of the Dark Mages"
 #descr "A glorious NationGen nation! Generated from seed 1871492990721927579 with settings integer 8"
@@ -80053,7 +80056,7 @@ Priests: Weak, temples cost 500 gold."
 ---------------------------------------------------------------
 #selectnation 191
 #clear
-#era 2
+#era 3
 #name "Shangrisala"
 #epithet "Dank Battleground"
 #descr "A glorious NationGen nation! Generated from seed -4387168080012689280 with settings integer 8"
@@ -80718,7 +80721,7 @@ Priests: Moderate."
 ---------------------------------------------------------------
 #selectnation 199
 #clear
-#era 2
+#era 3
 #name "Edomkahdod"
 #epithet "Riddle of the Surreal Sphere"
 #descr "A glorious NationGen nation! Generated from seed -5145477710411079730 with settings integer 8"
@@ -80969,7 +80972,7 @@ Priests: Weak."
 ---------------------------------------------------------------
 #selectnation 202
 #clear
-#era 2
+#era 3
 #name "Ekgard"
 #epithet "Prophecy of the Fae"
 #descr "A glorious NationGen nation! Generated from seed 7997139840113157820 with settings integer 8"
@@ -81851,11 +81854,11 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Yoroithian Light Harpoon Spearman (Ophidian), Gold: 11, Resources: 4, Roles: [infantry, sacred infantry, elite infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -5, 3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5392
 #name "Yoroithian Light Harpoon Spearman"
@@ -81892,11 +81895,11 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Yoroithian Champion (Ophidian), Gold: 11, Resources: 5, Roles: [infantry, sacred infantry, elite infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -5, 3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5393
 #name "Yoroithian Champion"
@@ -81932,11 +81935,11 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Yoroithian Spear Champion (Ophidian), Gold: 11, Resources: 5, Roles: [infantry, sacred infantry, elite infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -5, 3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5394
 #name "Yoroithian Spear Champion"
@@ -81973,11 +81976,11 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Yoroithian Thane (Ophidian), Gold: 13, Resources: 12, Roles: [infantry, sacred infantry, elite infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 5395
 #name "Yoroithian Thane"
@@ -82014,11 +82017,11 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Yoroithian Harpoon Spearman (Ophidian), Gold: 11, Resources: 14, Roles: [infantry, sacred infantry, elite infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 5396
 #name "Yoroithian Harpoon Spearman"
@@ -82056,11 +82059,11 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Yoroithian Bog Champion (Ophidian), Gold: 11, Resources: 15, Roles: [infantry, sacred infantry, elite infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 5397
 #name "Yoroithian Bog Champion"
@@ -82098,7 +82101,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Raging Paragon (Ophidian), Gold: 13, Resources: 12, Roles: [infantry, sacred infantry, elite infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -82139,7 +82142,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Avenging Sentinel (Ophidian), Gold: 20, Resources: 10, Roles: [infantry, sacred infantry, elite infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -82181,10 +82184,10 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Scout (Ophidian), Gold: 30, Resources: 10, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 5400
 #name "Scout"
@@ -82221,11 +82224,11 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Commanding Champion (Ophidian), Gold: 60, Resources: 5, Roles: [infantry, sacred infantry, elite infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -5, 3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5401
 #name "Commanding Champion"
@@ -82264,11 +82267,11 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Warchief (Ophidian), Gold: 40, Resources: 14, Roles: [infantry, sacred infantry, elite infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Infantry unit
 #newmonster 5402
 #name "Warchief"
@@ -82308,7 +82311,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Acolyte (Ophidian), Gold: 55, Resources: 1, Roles: [priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -82347,7 +82350,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- High Priest (Ophidian), Gold: 105, Resources: 1, Roles: [priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [priest: [2]]
@@ -82386,7 +82389,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Heretic Consort (Ophidian), Gold: 120, Resources: 1, Roles: [mage] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [extramage: [1]], [tier1: []]
@@ -82428,7 +82431,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Yoroithian Apprentice (Ophidian), Gold: 65, Resources: 1, Roles: [mage] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]]
@@ -82467,7 +82470,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Ascendant of Chosen Devotion (Ophidian), Gold: 175, Resources: 5, Roles: [mage] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [magepriest: []], [varyslot: [helmet]]
@@ -82508,7 +82511,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Ascendant of the Chosen Deluges (Ophidian), Gold: 175, Resources: 5, Roles: [mage] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [magepriest: []], [varyslot: [helmet]]
@@ -82549,7 +82552,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Patriarch of Chosen Devotion (Ophidian), Gold: 350, Resources: 1, Roles: [mage] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [magepriest: []], [varyslot: [helmet]]
@@ -82592,7 +82595,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Patriarch of the Chosen Deluges (Ophidian), Gold: 350, Resources: 1, Roles: [mage] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [magepriest: []], [varyslot: [helmet]]
@@ -82635,10 +82638,10 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Hero (Ophidian), Gold: 0, Resources: 1, Roles: [mage] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (370), autodishealer2, ivylord 2, ethereal
 #newmonster 5411
 #name "Hero"
@@ -82680,7 +82683,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Hero (Ophidian), Gold: 0, Resources: 16, Roles: [infantry, sacred infantry, elite infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -5, 3
@@ -82731,7 +82734,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Hero (Ophidian), Gold: 0, Resources: 21, Roles: [infantry, sacred infantry, elite infantry] (normal infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -82809,10 +82812,10 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Tiseaish Human Slave Champion (Dynastic human), Gold: 7, Resources: 4, Roles: [ranged] (slave archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: mountainunit, Ranged unit
 #newmonster 5414
 #name "Tiseaish Human Slave Champion"
@@ -82847,11 +82850,11 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Tiseaish Light Human Slave Swordsman (Dynastic human), Gold: 7, Resources: 4, Roles: [infantry] (slave inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5415
 #name "Tiseaish Light Human Slave Swordsman"
@@ -82885,11 +82888,11 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Tiseaish Light Human Slave Swordsman (Dynastic human), Gold: 7, Resources: 5, Roles: [infantry] (slave inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5416
 #name "Tiseaish Light Human Slave Swordsman"
@@ -82923,11 +82926,11 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Tiseaish Human Slave Swordsman (Dynastic human), Gold: 7, Resources: 4, Roles: [infantry] (slave inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5417
 #name "Tiseaish Human Slave Swordsman"
@@ -82962,11 +82965,11 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Tiseaish Human Slave Swordsman (Dynastic human), Gold: 7, Resources: 3, Roles: [infantry] (slave inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5418
 #name "Tiseaish Human Slave Swordsman"
@@ -83001,7 +83004,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Tiseaish Dustwalker Camel Champion (Dynastic human), Gold: 85, Resources: 36, Roles: [chariot, elite chariot, sacred chariot] (dustwalker chariot)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -83053,7 +83056,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Tiseaish Dustwalker Camel Champion (Dynastic human), Gold: 85, Resources: 30, Roles: [chariot, elite chariot, sacred chariot] (dustwalker chariot)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -83105,7 +83108,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Star Paragon (Dynastic human), Gold: 50, Resources: 12, Roles: [elite infantry, sacred infantry] (2h inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [elite: []]
@@ -83149,7 +83152,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Paladin of Flame (Dynastic human), Gold: 50, Resources: 12, Roles: [elite ranged, sacred ranged] (dustwalker archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["pillage desc"]], [sacred: []]
@@ -83197,11 +83200,11 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Assassin (Dynastic human), Gold: 50, Resources: 5, Roles: [scout] (human scout)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 5423
 #name "Assassin"
@@ -83238,11 +83241,11 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Castellan (Dynastic human), Gold: 55, Resources: 4, Roles: [infantry] (slave inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5424
 #name "Castellan"
@@ -83282,7 +83285,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Axe Champion (Dynastic human), Gold: 115, Resources: 36, Roles: [chariot, elite chariot, sacred chariot] (dustwalker chariot)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -83339,7 +83342,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- General (Dynastic human), Gold: 105, Resources: 12, Roles: [elite ranged, sacred ranged] (dustwalker archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [filterdesc: ["pillage desc"]], [sacred: []]
@@ -83391,7 +83394,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Inferior Chaplain (Dynastic human), Gold: 90, Resources: 1, Roles: [mage, priest] (T1 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -83442,7 +83445,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Elder Chaplain (Dynastic human), Gold: 155, Resources: 2, Roles: [mage, priest] (T3 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -83491,7 +83494,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Lucent Follower (Dynastic human), Gold: 75, Resources: 3, Roles: [mage, priest] (T1 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -83541,7 +83544,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Lucent Deacon (Dynastic human), Gold: 235, Resources: 3, Roles: [mage, priest] (T2 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -83592,7 +83595,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Lucent Parson (Dynastic human), Gold: 215, Resources: 5, Roles: [mage, priest] (T2 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -83643,7 +83646,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Lucent Binder (Dynastic human), Gold: 405, Resources: 1, Roles: [mage, priest] (T3 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
@@ -83700,7 +83703,7 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Hero (Fir Bolg), Gold: 0, Resources: 35, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -83743,11 +83746,11 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Hero (Dynastic human), Gold: 0, Resources: 1, Roles: [mage, priest] (T3 dustwalker)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: -1, -2
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (370), better researcher +3 - tier 3 mages, werehyena2, resource generator 25, deathcurse, stealthy
 #newmonster 5434
 #name "Hero"
@@ -83886,10 +83889,10 @@ Priests: Moderate, temples cost 300 gold."
 #end
 
 --- Naarinan Swamp Champion (Amazon human), Gold: 12, Resources: 12, Roles: [ranged, elite ranged, sacred ranged] (bow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, -1
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Ranged unit, Keen eyed
 #newmonster 5435
 #name "Naarinan Swamp Champion"
@@ -83924,11 +83927,11 @@ female
 #end
 
 --- Naarinan Hammerer (Amazon human), Gold: 12, Resources: 28, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Keen eyed
 #newmonster 5436
 #name "Naarinan Hammerer"
@@ -83962,11 +83965,11 @@ female
 #end
 
 --- Naarinan Morningstar Champion (Amazon human), Gold: 12, Resources: 28, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Keen eyed
 #newmonster 5437
 #name "Naarinan Morningstar Champion"
@@ -84000,10 +84003,10 @@ female
 #end
 
 --- Naarinan Champion (Amazon human), Gold: 12, Resources: 26, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Keen eyed
 #newmonster 5438
 #name "Naarinan Champion"
@@ -84036,11 +84039,11 @@ female
 #end
 
 --- Naarinan Ichtyid Knight (Ichtyid), Gold: 12, Resources: 14, Roles: [infantry] (piranhid infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 5439
 #name "Naarinan Ichtyid Knight"
@@ -84075,11 +84078,11 @@ female
 #end
 
 --- Naarinan Ichtyid Morningstar Champion (Ichtyid), Gold: 10, Resources: 7, Roles: [infantry] (piranhid infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5440
 #name "Naarinan Ichtyid Morningstar Champion"
@@ -84114,7 +84117,7 @@ female
 #end
 
 --- Naarinan Champion (Amazon human), Gold: 27, Resources: 9, Roles: [mounted, sacred mounted, elite mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -84155,7 +84158,7 @@ female
 #end
 
 --- Naarinan Serpent Champion (Amazon human), Gold: 40, Resources: 31, Roles: [mounted, sacred mounted, elite mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -84199,7 +84202,7 @@ female
 #end
 
 --- Avenging Sentinel (Ichtyid), Gold: 27, Resources: 22, Roles: [sacred infantry, elite infantry] (piranhid elites)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -84241,7 +84244,7 @@ female
 #end
 
 --- Overgrown Disciple (Amazon human), Gold: 16, Resources: 16, Roles: [ranged, elite ranged, sacred ranged] (Xbow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, 4
 -- Armor: 0, 0
 --- Generation tags: [filterdesk: ["chaosrec desc"]], [sacred: []]
@@ -84280,10 +84283,10 @@ female
 #end
 
 --- Scout (Amazon human), Gold: 30, Resources: 8, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout, Keen eyed
 #newmonster 5445
 #name "Scout"
@@ -84319,11 +84322,11 @@ female
 #end
 
 --- Commanding Spearmaster (Ichtyid), Gold: 70, Resources: 14, Roles: [infantry] (piranhid infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 5446
 #name "Commanding Spearmaster"
@@ -84361,11 +84364,11 @@ female
 #end
 
 --- Master Champion (Amazon human), Gold: 70, Resources: 28, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Keen eyed
 #newmonster 5447
 #name "Master Champion"
@@ -84403,7 +84406,7 @@ female
 #end
 
 --- Morningstar Commander (Amazon human), Gold: 105, Resources: 9, Roles: [mounted, sacred mounted, elite mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -84447,7 +84450,7 @@ female
 #end
 
 --- High Priestess (Amazon human), Gold: 120, Resources: 2, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -84485,7 +84488,7 @@ female
 #end
 
 --- Oblivion Disciple (Ichtyid), Gold: 145, Resources: 1, Roles: [mage, priest] (T2 piranhid caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, 0
 -- Armor: 0, 0
 --- Generation tags: [extramage: [1]], [tier1: []]
@@ -84528,7 +84531,7 @@ female
 #end
 
 --- Naarinan Apprentice (Amazon human), Gold: 125, Resources: 13, Roles: [mage, mounted, elite] (warrior-mage_mounted)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -84574,7 +84577,7 @@ female
 #end
 
 --- Ascendant of the River (Ichtyid), Gold: 170, Resources: 6, Roles: [mage, priest] (T2 piranhid caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [helmet]]
@@ -84616,7 +84619,7 @@ female
 #end
 
 --- Ascendant of Forests (Ichtyid), Gold: 155, Resources: 6, Roles: [mage, priest] (T2 piranhid caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [varyslot: [helmet]]
@@ -84658,7 +84661,7 @@ female
 #end
 
 --- King of the River (Ichtyid), Gold: 270, Resources: 1, Roles: [mage, priest] (T3 piranhid caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [helmet]]
@@ -84701,7 +84704,7 @@ female
 #end
 
 --- King of Forests (Ichtyid), Gold: 215, Resources: 1, Roles: [mage, priest] (T3 piranhid caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [helmet]]
@@ -84743,7 +84746,7 @@ female
 #end
 
 --- Hero (Amazon human), Gold: 0, Resources: 29, Roles: [ranged, elite ranged, sacred ranged] (bow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, -1
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werebear"]], [filterdesc: ["werebear desc", "chaosrec desc", "chaosrec desc"]]
@@ -84787,11 +84790,11 @@ female
 #end
 
 --- Hero (Amazon human), Gold: 0, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (270), autodishealer2, ivylord 2, chaosrec_high, cold resource generator 15, Keen eyed
 #newmonster 5457
 #name "Hero"
@@ -84832,7 +84835,7 @@ female
 #end
 
 --- Hero (Amazon human), Gold: 0, Resources: 35, Roles: [ranged, elite ranged, sacred ranged] (Xbow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, 4
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [price_if_command: [at #size 1 +5]], [description: ["can shapeshift into a werehyena"]], [filterdesc: ["werehyena desc", "chaosrec desc"]]
@@ -84929,11 +84932,11 @@ female
 #end
 
 --- Sannbasaigian Sword Champion (Merrow), Gold: 12, Resources: 13, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Quick, pride-2
 #newmonster 5459
 #name "Sannbasaigian Sword Champion"
@@ -84967,11 +84970,11 @@ female
 #end
 
 --- Sannbasaigian Spear Champion (Merrow), Gold: 12, Resources: 11, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Quick, pride-2
 #newmonster 5460
 #name "Sannbasaigian Spear Champion"
@@ -85005,11 +85008,11 @@ female
 #end
 
 --- Sannbasaigian Javelin Champion (Merrow), Gold: 12, Resources: 11, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Quick, pride-2
 #newmonster 5461
 #name "Sannbasaigian Javelin Champion"
@@ -85044,11 +85047,11 @@ female
 #end
 
 --- Sannbasaigian Heavy Sword Champion (Merrow), Gold: 12, Resources: 23, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Quick, pride-2
 #newmonster 5462
 #name "Sannbasaigian Heavy Sword Champion"
@@ -85081,11 +85084,11 @@ female
 #end
 
 --- Sannbasaigian Heavy Spear Champion (Merrow), Gold: 12, Resources: 21, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, Quick, pride-2
 #newmonster 5463
 #name "Sannbasaigian Heavy Spear Champion"
@@ -85118,7 +85121,7 @@ female
 #end
 
 --- Sannbasaigian Elite Spearmaster (Merrow), Gold: 40, Resources: 22, Roles: [mounted] (cavalry_land)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -1
 -- Armor: 0, 0
 -- Offhand: 0, -1
@@ -85159,7 +85162,7 @@ female
 #end
 
 --- Primal Thane (Merrow), Gold: 16, Resources: 13, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -85200,7 +85203,7 @@ female
 #end
 
 --- Follower of Gold (Merrow), Gold: 19, Resources: 23, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags: [sacred: []]
@@ -85238,10 +85241,10 @@ female
 #end
 
 --- Assassin (Merrow), Gold: 50, Resources: 7, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin, Quick
 #newmonster 5467
 #name "Assassin"
@@ -85275,7 +85278,7 @@ female
 #end
 
 --- Spearmaster (Merrow), Gold: 55, Resources: 13, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -85318,7 +85321,7 @@ female
 #end
 
 --- Warchief (Merrow), Gold: 135, Resources: 22, Roles: [mounted] (cavalry_land)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -1
 -- Armor: 0, 0
 -- Offhand: 0, -1
@@ -85362,7 +85365,7 @@ female
 #end
 
 --- Master Chanter (Merrow), Gold: 105, Resources: 1, Roles: [mage, priest] (merrow caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -1
 -- Armor: 0, 0
 --- Generation tags: [priest: [1]]
@@ -85404,7 +85407,7 @@ female
 #end
 
 --- Initiate of the Eternal Tides (Merrow), Gold: 45, Resources: 1, Roles: [mage, priest] (merrow caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, -1
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [1]]
@@ -85439,7 +85442,7 @@ female
 #end
 
 --- Hand of the Eternal Tides (Merrow), Gold: 125, Resources: 1, Roles: [mage, priest] (merrow caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]]
@@ -85477,7 +85480,7 @@ female
 #end
 
 --- Binder of the Eternal Tides (Merrow), Gold: 265, Resources: 1, Roles: [mage, priest] (merrow caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 4, 0
 -- Armor: 0, 0
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [varyslot: [weapon]]
@@ -85519,7 +85522,7 @@ female
 #end
 
 --- Hero (Crustacean), Gold: 0, Resources: 31, Roles: [infantry, elite infantry, sacred infantry, scout] (crab troopers)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 3
 -- Armor: 0, 0
 --- Generation tags: [path: [earth]], [elite: []], [nopose: [ranged, mounted, chariot]], [prev: [start]], [description: ["can enter berserker rage"]], [filterdesc: ["metalman shift desc", "stealthy desc", "berserk desc"]]
@@ -85564,7 +85567,7 @@ female
 #end
 
 --- Hero (Merrow), Gold: 0, Resources: 34, Roles: [mounted] (cavalry_land)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -1
 -- Armor: 0, 0
 --- Generation tags: [elite: []], [itemslot: [feet -1]], [filterdesc: ["stealthy desc"]]
@@ -85625,10 +85628,10 @@ female
 #end
 
 --- Örepingish Serf Champion (Boreal human), Gold: 8, Resources: 5, Roles: [ranged] (serf archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: serf, Ranged unit
 #newmonster 5476
 #name "Örepingish Serf Champion"
@@ -85660,10 +85663,10 @@ female
 #end
 
 --- Örepingish Marsh Champion (Boreal human), Gold: 10, Resources: 8, Roles: [ranged, scout] (archer)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Ranged unit
 #newmonster 5477
 #name "Örepingish Marsh Champion"
@@ -85696,11 +85699,11 @@ female
 #end
 
 --- Örepingish Mace Javelin Thrower (Boreal human), Gold: 10, Resources: 9, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5478
 #name "Örepingish Mace Javelin Thrower"
@@ -85733,11 +85736,11 @@ female
 #end
 
 --- Örepingish Elite Swordsmaster (Boreal human), Gold: 12, Resources: 16, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 5479
 #name "Örepingish Elite Swordsmaster"
@@ -85768,11 +85771,11 @@ female
 #end
 
 --- Örepingish Serf Champion (Boreal human), Gold: 8, Resources: 6, Roles: [infantry] (serf infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, 5
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: serf, Infantry unit
 #newmonster 5480
 #name "Örepingish Serf Champion"
@@ -85804,11 +85807,11 @@ female
 #end
 
 --- Örepingish Jotun Spear Javelin Thrower (Jotun), Gold: 30, Resources: 18, Roles: [infantry] (standard male infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: pillager, Infantry unit
 #newmonster 5481
 #name "Örepingish Jotun Spear Javelin Thrower"
@@ -85846,11 +85849,11 @@ female
 #end
 
 --- Örepingish Jotun Spear Javelin Thrower (Jotun), Gold: 30, Resources: 16, Roles: [infantry] (standard male infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: pillager, Infantry unit
 #newmonster 5482
 #name "Örepingish Jotun Spear Javelin Thrower"
@@ -85888,7 +85891,7 @@ female
 #end
 
 --- Ancient Avenger (Boreal human), Gold: 26, Resources: 8, Roles: [sacred infantry, elite infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -85926,11 +85929,11 @@ female
 #end
 
 --- Assassin (Boreal human), Gold: 50, Resources: 7, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Assassin
 #newmonster 5484
 #name "Assassin"
@@ -85965,11 +85968,11 @@ female
 #end
 
 --- Mace Commander (Boreal human), Gold: 60, Resources: 9, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5485
 #name "Mace Commander"
@@ -86005,11 +86008,11 @@ female
 #end
 
 --- Lieutenant (Boreal human), Gold: 50, Resources: 16, Roles: [infantry, scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: elite +1, Infantry unit
 #newmonster 5486
 #name "Lieutenant"
@@ -86041,7 +86044,7 @@ female
 #end
 
 --- Apprentice Monk (Boreal human), Gold: 50, Resources: 5, Roles: [priest, mage] (Unmounted casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, -3
 -- Offhand: 0, -3
@@ -86078,7 +86081,7 @@ female
 #end
 
 ---  Monk (Boreal human), Gold: 130, Resources: 6, Roles: [priest, mage] (Unmounted casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, -3
 -- Offhand: 0, -3
@@ -86117,7 +86120,7 @@ female
 #end
 
 --- High Monk (Boreal human), Gold: 220, Resources: 14, Roles: [priest, mage] (Unmounted casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, -3
 -- Offhand: 0, -3
@@ -86154,7 +86157,7 @@ female
 #end
 
 --- Örepingish Novice (Boreal human), Gold: 175, Resources: 6, Roles: [mage] (Tier 2-3 mounted mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -86198,7 +86201,7 @@ female
 #end
 
 --- Örepingish Consort (Boreal human), Gold: 185, Resources: 10, Roles: [mage] (Tier 2-3 mounted mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -86242,7 +86245,7 @@ female
 #end
 
 --- Harbinger of the Shining Spiral (Boreal human), Gold: 320, Resources: 18, Roles: [mage] (Tier 2-3 mounted mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -86289,7 +86292,7 @@ female
 #end
 
 --- Harbinger of the Vermillion Spiral (Boreal human), Gold: 305, Resources: 18, Roles: [mage] (Tier 2-3 mounted mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -86336,7 +86339,7 @@ female
 #end
 
 --- Hero (Boreal human), Gold: 0, Resources: 23, Roles: [mage] (Tier 2-3 mounted mages)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -86891,10 +86894,10 @@ female
 #end
 
 --- Tirikish Champion (Amazon human), Gold: 30, Resources: 11, Roles: [ranged, elite ranged, sacred ranged] (Xbow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, 4
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Ranged unit, poisonres5
 #newmonster 5495
 #name "Tirikish Champion"
@@ -86934,11 +86937,11 @@ female
 #end
 
 --- Tirikish Merrow Slave Impaler (Merrow), Gold: 10, Resources: 8, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 5496
 #name "Tirikish Merrow Slave Impaler"
@@ -86973,10 +86976,10 @@ female
 #end
 
 --- Tirikish Merrow Slave Impaler (Merrow), Gold: 10, Resources: 10, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 5497
 #name "Tirikish Merrow Slave Impaler"
@@ -87009,11 +87012,11 @@ female
 #end
 
 --- Tirikish Merrow Slave Impaler (Merrow), Gold: 10, Resources: 9, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 5498
 #name "Tirikish Merrow Slave Impaler"
@@ -87047,11 +87050,11 @@ female
 #end
 
 --- Tirikish Morningstar Champion (Amazon human), Gold: 30, Resources: 10, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5
 #newmonster 5499
 #name "Tirikish Morningstar Champion"
@@ -87090,10 +87093,10 @@ female
 #end
 
 --- Tirikish Champion (Amazon human), Gold: 30, Resources: 7, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5
 #newmonster 5500
 #name "Tirikish Champion"
@@ -87131,11 +87134,11 @@ female
 #end
 
 --- Tirikish Sword Champion (Amazon human), Gold: 30, Resources: 10, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5
 #newmonster 5501
 #name "Tirikish Sword Champion"
@@ -87174,10 +87177,10 @@ female
 #end
 
 --- Tirikish Flail Champion (Amazon human), Gold: 30, Resources: 17, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5
 #newmonster 5502
 #name "Tirikish Flail Champion"
@@ -87215,11 +87218,11 @@ female
 #end
 
 --- Tirikish Heavy Sword Champion (Amazon human), Gold: 30, Resources: 20, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5
 #newmonster 5503
 #name "Tirikish Heavy Sword Champion"
@@ -87258,7 +87261,7 @@ female
 #end
 
 --- Tirikish Merrow Slave Champion (Merrow), Gold: 35, Resources: 22, Roles: [mounted] (cavalry_land)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -1
 -- Armor: 0, 0
 --- Generation tags: [itemslot: [feet -1]]
@@ -87299,7 +87302,7 @@ female
 #end
 
 --- Unyielding Knight (Merrow), Gold: 50, Resources: 38, Roles: [mounted] (cavalry_land)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -1
 -- Armor: 0, 0
 -- Offhand: 0, -1
@@ -87342,10 +87345,10 @@ female
 #end
 
 --- Spy (Amazon human), Gold: 70, Resources: 8, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Spy, poisonres5
 #newmonster 5506
 #name "Spy"
@@ -87386,10 +87389,10 @@ female
 #end
 
 --- Slave Lord (Merrow), Gold: 55, Resources: 10, Roles: [infantry, scout] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: slave, Infantry unit
 #newmonster 5507
 #name "Slave Lord"
@@ -87428,11 +87431,11 @@ female
 #end
 
 --- Morningstar Commander (Amazon human), Gold: 80, Resources: 10, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit, poisonres5
 #newmonster 5508
 #name "Morningstar Commander"
@@ -87476,7 +87479,7 @@ female
 #end
 
 --- Sergeant (Merrow), Gold: 100, Resources: 38, Roles: [mounted] (cavalry_land)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -1
 -- Armor: 0, 0
 -- Offhand: 0, -1
@@ -87522,7 +87525,7 @@ female
 #end
 
 --- High Priestess (Amazon human), Gold: 80, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -87567,7 +87570,7 @@ female
 #end
 
 --- Wailing Bride (Amazon human), Gold: 260, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -87618,7 +87621,7 @@ female
 #end
 
 --- Initiate Mud Priestess (Amazon human), Gold: 100, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -87663,7 +87666,7 @@ female
 #end
 
 ---  Mud Priestess (Amazon human), Gold: 185, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -87707,7 +87710,7 @@ female
 #end
 
 --- Master Mud Priestess (Amazon human), Gold: 255, Resources: 1, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -87754,7 +87757,7 @@ female
 #end
 
 --- Hero (Amazon human), Gold: 0, Resources: 19, Roles: [ranged, elite ranged, sacred ranged] (Xbow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -4, 4
 -- Armor: 0, 0
 --- Generation tags: [primarycommand: [#ethereal, #pierceres]], [filterdesc: ["ethereal desc", "pierceres desc"]], [price_per_command: [#hp 1 10, #hp 0.5 20]], [sacred: []]
@@ -87803,7 +87806,7 @@ female
 #end
 
 --- Hero (Amazon human), Gold: 0, Resources: 33, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -87913,11 +87916,11 @@ female
 #end
 
 --- Imnesetese Humanbred Swamp Champion (Abysian), Gold: 14, Resources: 17, Roles: [humanbred archers, ranged] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: swampunit, Ranged unit
 #newmonster 5517
 #name "Imnesetese Humanbred Swamp Champion"
@@ -87954,10 +87957,10 @@ female
 #end
 
 --- Imnesetese Pike Champion (Abysian), Gold: 20, Resources: 30, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5518
 #name "Imnesetese Pike Champion"
@@ -87992,11 +87995,11 @@ female
 #end
 
 --- Imnesetese Falchion Champion (Abysian), Gold: 20, Resources: 35, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5519
 #name "Imnesetese Falchion Champion"
@@ -88032,10 +88035,10 @@ female
 #end
 
 --- Imnesetese Maul Champion (Abysian), Gold: 20, Resources: 29, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5520
 #name "Imnesetese Maul Champion"
@@ -88070,11 +88073,11 @@ female
 #end
 
 --- Imnesetese Champion (Abysian), Gold: 20, Resources: 21, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5521
 #name "Imnesetese Champion"
@@ -88110,7 +88113,7 @@ female
 #end
 
 --- Imnesetese Champion (Abysian), Gold: 70, Resources: 36, Roles: [mounted, elite mounted, sacred mounted] (abysian cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -88158,7 +88161,7 @@ female
 #end
 
 --- Righteous Destroyer (Abysian), Gold: 21, Resources: 25, Roles: [elite infantry, sacred infantry] (elite abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -88200,7 +88203,7 @@ female
 #end
 
 --- Fire Vindicator (Abysian), Gold: 55, Resources: 36, Roles: [sacred infantry, elite infantry] (burning one infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -31, -72
@@ -88245,11 +88248,11 @@ female
 #end
 
 --- Scout (Abysian), Gold: 50, Resources: 1, Roles: [sacred infantry, scout] (elite demonbred infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 5525
 #name "Scout"
@@ -88288,11 +88291,11 @@ female
 #end
 
 --- Castellan (Abysian), Gold: 70, Resources: 35, Roles: [infantry, scout] (abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5526
 #name "Castellan"
@@ -88331,7 +88334,7 @@ female
 #end
 
 --- Axemaster (Abysian), Gold: 150, Resources: 36, Roles: [mounted, elite mounted, sacred mounted] (abysian cavalry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 5, -15
 -- Armor: 5, -15
 -- Offhand: 5, -15
@@ -88381,7 +88384,7 @@ female
 #end
 
 --- General (Abysian), Gold: 160, Resources: 36, Roles: [sacred infantry, elite infantry] (burning one infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: -31, -72
@@ -88430,7 +88433,7 @@ female
 #end
 
 --- Young Bishop (Abysian), Gold: 65, Resources: 4, Roles: [mage, priest] (lowly abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -88473,7 +88476,7 @@ female
 #end
 
 --- Apprentice Bishop (Abysian), Gold: 155, Resources: 3, Roles: [mage, priest] (middling abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -88516,7 +88519,7 @@ female
 #end
 
 --- Greater Bishop (Abysian), Gold: 210, Resources: 5, Roles: [mage, priest] (lofty abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -88557,7 +88560,7 @@ female
 #end
 
 --- Burgundy Neophyte (Abysian), Gold: 85, Resources: 4, Roles: [mage, priest] (lowly humanbred casters)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -88601,7 +88604,7 @@ female
 #end
 
 --- Burgundy Disciple (Abysian), Gold: 185, Resources: 1, Roles: [mage, priest] (middling abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -88647,7 +88650,7 @@ female
 #end
 
 --- Burgundy Master (Abysian), Gold: 300, Resources: 1, Roles: [mage, priest] (lofty abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -88690,11 +88693,11 @@ female
 #end
 
 --- Hero (Abysian), Gold: 0, Resources: 1, Roles: [mage, priest] (lofty abysian caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (330), ethereal, autodishealer2, carcasscollector, resource generator 25
 #newmonster 5535
 #name "Hero"
@@ -88739,7 +88742,7 @@ female
 #end
 
 --- Hero (Abysian), Gold: 0, Resources: 16, Roles: [elite infantry, sacred infantry] (elite abysian infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -88819,10 +88822,10 @@ female
 #end
 
 --- Halilbriaish Woodland Champion (Amazon human), Gold: 12, Resources: 9, Roles: [ranged, elite ranged, sacred ranged] (bow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, -1
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: castledef +1, forestunit, Ranged unit
 #newmonster 5537
 #name "Halilbriaish Woodland Champion"
@@ -88857,10 +88860,10 @@ female
 #end
 
 --- Halilbriaish Woodland Champion (Amazon human), Gold: 12, Resources: 10, Roles: [ranged, elite ranged, sacred ranged] (bow)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: -2, -1
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: castledef +1, forestunit, Ranged unit
 #newmonster 5538
 #name "Halilbriaish Woodland Champion"
@@ -88895,11 +88898,11 @@ female
 #end
 
 --- Halilbriaish Champion (Amazon human), Gold: 12, Resources: 27, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5539
 #name "Halilbriaish Champion"
@@ -88932,11 +88935,11 @@ female
 #end
 
 --- Halilbriaish Spearmaiden (Amazon human), Gold: 12, Resources: 26, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5540
 #name "Halilbriaish Spearmaiden"
@@ -88969,11 +88972,11 @@ female
 #end
 
 --- Halilbriaish Spearmaiden (Amazon human), Gold: 12, Resources: 27, Roles: [infantry] (standard inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5541
 #name "Halilbriaish Spearmaiden"
@@ -89006,11 +89009,11 @@ female
 #end
 
 --- Halilbriaish Freeman Spearman (Amazon human), Gold: 9, Resources: 9, Roles: [infantry] (freeman inf)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5542
 #name "Halilbriaish Freeman Spearman"
@@ -89041,11 +89044,11 @@ female
 #end
 
 --- Halilbriaish Ogre Spearman (Ogre), Gold: 20, Resources: 7, Roles: [infantry, elite infantry, sacred infantry] (ogre infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, 0
 -- Armor: 0, 0
 -- Offhand: 7, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5543
 #name "Halilbriaish Ogre Spearman"
@@ -89080,7 +89083,7 @@ female
 #end
 
 --- Halilbriaish Champion (Amazon human), Gold: 27, Resources: 8, Roles: [mounted, sacred mounted, elite mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -89121,7 +89124,7 @@ female
 #end
 
 --- Halilbriaish Cataphract (Amazon human), Gold: 60, Resources: 28, Roles: [mounted, sacred mounted, elite mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -89162,7 +89165,7 @@ female
 #end
 
 --- Halilbriaish Lancer (Amazon human), Gold: 60, Resources: 36, Roles: [mounted, sacred mounted, elite mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -89204,7 +89207,7 @@ female
 #end
 
 --- Avenging Reaver (Amazon human), Gold: 13, Resources: 21, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -89244,7 +89247,7 @@ female
 #end
 
 --- Primal Avenger (Amazon human), Gold: 29, Resources: 7, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -89283,10 +89286,10 @@ female
 #end
 
 --- Scout (Amazon human), Gold: 30, Resources: 6, Roles: [scout] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Scout
 #newmonster 5549
 #name "Scout"
@@ -89323,11 +89326,11 @@ female
 #end
 
 --- Master Champion (Ogre), Gold: 80, Resources: 9, Roles: [infantry, elite infantry, sacred infantry] (ogre infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, 0
 -- Armor: 0, 0
 -- Offhand: 7, -3
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Infantry unit
 #newmonster 5550
 #name "Master Champion"
@@ -89366,7 +89369,7 @@ female
 #end
 
 --- Spearmistress (Amazon human), Gold: 105, Resources: 21, Roles: [infantry, elite infantry, sacred infantry] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -89410,7 +89413,7 @@ female
 #end
 
 --- General (Amazon human), Gold: 125, Resources: 8, Roles: [mounted, sacred mounted, elite mounted] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -89455,7 +89458,7 @@ female
 #end
 
 --- High Deaconess (Amazon human), Gold: 120, Resources: 11, Roles: [priest] (warrior-priestess)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -89496,7 +89499,7 @@ female
 #end
 
 --- Novice of Middle Pearls (Amazon human), Gold: 105, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -89536,7 +89539,7 @@ female
 #end
 
 --- Follower of Middle Pearls (Amazon human), Gold: 155, Resources: 3, Roles: [mage, priest] (null)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -89578,7 +89581,7 @@ female
 #end
 
 --- Lord of Middle Pearls (Ogre), Gold: 350, Resources: 1, Roles: [mage, priest] (ogre caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
@@ -89625,7 +89628,7 @@ female
 #end
 
 --- Hero (Van), Gold: 0, Resources: 15, Roles: [sacred infantry, elite infantry] (infantry)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 0, -3
 -- Armor: 0, 0
 -- Offhand: 0, -3
@@ -89671,11 +89674,11 @@ female
 #end
 
 --- Hero (Ogre), Gold: 0, Resources: 1, Roles: [mage, priest] (ogre caster)
---- OFFSET DEBUG: 
+--- OFFSET DEBUG:
 -- Weapon: 1, 0
 -- Armor: 0, 0
 -- Offhand: 0, 0
---- Generation tags: 
+--- Generation tags:
 --- Applied filters: Hero, MAGICPICKS (270), better researcher +3 - tier 3 mages, resource generator 15, thug-tier2, ethereal
 #newmonster 5558
 #name "Hero"
@@ -89777,7 +89780,7 @@ female
 #level 0
 #rarity 5
 #path 3
-#name "Crystalline Court"
+#name "Oblivion Court"
 #homecom 5450 --- Oblivion Disciple
 #homecom 5455 --- King of Forests
 #res 30
@@ -89988,7 +89991,7 @@ Priests: Moderate."
 ---------------------------------------------------------------
 #selectnation 204
 #clear
-#era 2
+#era 3
 #name "Tisea"
 #epithet "Lucent Host"
 #descr "A glorious NationGen nation! Generated from seed -8215374291000536327 with settings integer 8"
@@ -90089,7 +90092,7 @@ Priests: Weak, can perform blood sacrifices."
 
 #clearsites
 #startsite "Swamp of the Wilds"
-#startsite "Crystalline Court"
+#startsite "Oblivion Court"
 
 #clearrec
 #addrecunit 5435
@@ -90156,7 +90159,7 @@ Priests: Weak, can perform blood sacrifices."
 ---------------------------------------------------------------
 #selectnation 206
 #clear
-#era 2
+#era 3
 #name "Sannbasaig"
 #epithet "Age of the Eternal Tide"
 #descr "A glorious NationGen nation! Generated from seed 3585752156799759064 with settings integer 8"
@@ -90402,7 +90405,7 @@ Priests: Moderate."
 ---------------------------------------------------------------
 #selectnation 209
 #clear
-#era 2
+#era 3
 #name "Imneset"
 #epithet "Hollows of Dimensions"
 #descr "A glorious NationGen nation! Generated from seed -202474412152710029 with settings integer 8"
@@ -90559,4 +90562,3 @@ Priests: Weak."
 -- Hiding vanilla nations
 -----------------------------------
 #disableoldnations
-
