@@ -8116,14 +8116,14 @@ Priests: Strong."
 #humanoid
 #end
 
---- Sinamian Champion (Dantih), Gold: 70, Resources: 40, Roles: [ranged, elite ranged, sacred ranged] (tusked one archer)
+--- Sinamese Chakram Takabara (Dantih), Gold: 70, Resources: 40, Roles: [ranged, elite ranged, sacred ranged] (tusked one archer)
 --- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags:
 --- Applied filters: Ranged unit, strong
 #newmonster 4097
-#name "Sinamian Champion"
+#name "Sinamese Chakram Takabara"
 #spr1 "to_say_nothing_of_the_cynocephalian/208-sinam/unit_3992_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/208-sinam/unit_3992_b.tga"
 #humanoid
@@ -8146,21 +8146,21 @@ Priests: Strong."
 #appetite 6
 #weapon 614
 #twiceborn 3446
-#descr "The ranged units of Sinam are outfitted with a chakram or a great bow and medium armor. These ranged units are particularly strong soldiers."
+#descr "The takabara are the ranged units of Sinam. Outfitted with medium armor and a chakram or great bow, these units are particularly strong soldiers."
 #itemslots 31878
 #weapon 12 ---  / mace
 #armor 12 --- Scale Mail Hauberk / chain hauberk
 #weapon 782 ---  / chakram
 #end
 
---- Sinamian Greatbow Champion (Dantih), Gold: 70, Resources: 35, Roles: [ranged, elite ranged, sacred ranged] (tusked one archer)
+--- Sinamese Greatbow Takabara (Dantih), Gold: 70, Resources: 35, Roles: [ranged, elite ranged, sacred ranged] (tusked one archer)
 --- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
 --- Generation tags:
 --- Applied filters: Ranged unit, strong
 #newmonster 4098
-#name "Sinamian Greatbow Champion"
+#name "Sinamese Greatbow Takabara"
 #spr1 "to_say_nothing_of_the_cynocephalian/208-sinam/unit_3993_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/208-sinam/unit_3993_b.tga"
 #humanoid
@@ -8183,14 +8183,14 @@ Priests: Strong."
 #appetite 6
 #weapon 614
 #twiceborn 3446
-#descr "Sinam's ranged units carry chakrams and great bows and are armored with medium armor. They are particularly strong soldiers."
+#descr "The takabara are the ranged units of Sinam. Outfitted with scale hauberks and a chakram or great bow, these units are particularly strong soldiers."
 #itemslots 31878
 #weapon 12 ---  / mace
 #armor 12 --- Scale Mail Hauberk / chain hauberk
 #weapon 266 ---  / great bow
 #end
 
---- Sinamian Wasteland Spearman (Dantih), Gold: 70, Resources: 27, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
+--- Sinamese Longspear Sparabara (Dantih), Gold: 70, Resources: 27, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
 --- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
@@ -8198,7 +8198,7 @@ Priests: Strong."
 --- Generation tags:
 --- Applied filters: wasteunit, Infantry unit, strong
 #newmonster 4099
-#name "Sinamian Wasteland Spearman"
+#name "Sinamese Longspear Sparabara"
 #spr1 "to_say_nothing_of_the_cynocephalian/208-sinam/unit_3994_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/208-sinam/unit_3994_b.tga"
 #humanoid
@@ -8222,14 +8222,14 @@ Priests: Strong."
 #weapon 614
 #twiceborn 3446
 #wastesurvival
-#descr "The infantry of Sinam wear all kinds of armor and are armed with piercing and slashing weapons. They are native to the deserts of Sinam and can move and fight easily in them. These infantry are particularly strong soldiers."
+#descr "The sparabara are the basic infantry of Sinam, outfitted with iron shields and scale cuirasses these loxodon warriors are particularly strong. They are native to the deserts of Sinam and can move and fight easily in them."
 #itemslots 31878
 #armor 7 --- Scale Mail Cuirass / scale cuirass
 #armor 208 --- Iron Shield / shield_iron
 #weapon 28 ---  / longspear_iron
 #end
 
---- Sinamian Wasteland Champion (Dantih), Gold: 70, Resources: 25, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
+--- Sinamese Axe Sparabara (Dantih), Gold: 70, Resources: 25, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
 --- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
@@ -8237,7 +8237,7 @@ Priests: Strong."
 --- Generation tags:
 --- Applied filters: wasteunit, Infantry unit, strong
 #newmonster 4100
-#name "Sinamian Wasteland Champion"
+#name "Sinamese Axe Sparabara"
 #spr1 "to_say_nothing_of_the_cynocephalian/208-sinam/unit_3995_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/208-sinam/unit_3995_b.tga"
 #humanoid
@@ -8261,14 +8261,14 @@ Priests: Strong."
 #weapon 614
 #twiceborn 3446
 #wastesurvival
-#descr "The infantry of Sinam are clad in all kinds of armor and fight with piercing and slashing weapons. They are native to the deserts of Sinam and can move and fight easily in them. They are particularly strong soldiers."
+#descr "The sparabara are the basic infantry of Sinam, outfitted with iron shields and scale cuirasses these loxodon warriors are particularly strong. They are native to the deserts of Sinam and can move and fight easily in them."
 #itemslots 31878
 #armor 7 --- Scale Mail Cuirass / scale cuirass
 #armor 208 --- Iron Shield / shield_iron
 #weapon 17 ---  / axe
 #end
 
---- Sinamian Spear Champion (Dantih), Gold: 70, Resources: 30, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
+--- Sinamese Raider (Dantih), Gold: 70, Resources: 30, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
 --- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
@@ -8276,7 +8276,7 @@ Priests: Strong."
 --- Generation tags:
 --- Applied filters: pillager, Infantry unit, strong
 #newmonster 4101
-#name "Sinamian Spear Champion"
+#name "Sinamese Raider"
 #spr1 "to_say_nothing_of_the_cynocephalian/208-sinam/unit_3996_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/208-sinam/unit_3996_b.tga"
 #humanoid
@@ -8300,14 +8300,14 @@ Priests: Strong."
 #weapon 614
 #twiceborn 3446
 #pillagebonus 2
-#descr "Sinam's Sinamian Spear Champions are merciless oppressors who are armored with all kinds of armor and armed with piercing and slashing weapons. These infantry are particularly strong soldiers."
+#descr "Sinamese Raiders wear the same medium weight armor as the takabara but instead of ranged weapons take up a longspear and buckler. These powerful infantry excel at pillaging and plundering the land."
 #itemslots 31878
 #armor 12 --- Scale Mail Hauberk / scale hauberk
 #armor 1 --- Buckler / buckler_iron
 #weapon 28 ---  / longspear_iron
 #end
 
---- Plane Destroyer (Dantih), Gold: 85, Resources: 57, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
+--- Sinamese Cataphract (Dantih), Gold: 85, Resources: 57, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
 --- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
@@ -8315,7 +8315,7 @@ Priests: Strong."
 --- Generation tags: [elite: []]
 --- Applied filters: Infantry elite, strong
 #newmonster 4102
-#name "Plane Destroyer"
+#name "Sinamese Cataphract"
 #spr1 "to_say_nothing_of_the_cynocephalian/208-sinam/unit_3997_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/208-sinam/unit_3997_b.tga"
 #humanoid
@@ -8338,7 +8338,7 @@ Priests: Strong."
 #appetite 6
 #weapon 614
 #twiceborn 3446
-#descr "The infantry of Sinam are clad in all kinds of armor and fight with piercing and slashing weapons. These infantry are particularly strong soldiers."
+#descr "The loxodon of Sinam are far too massive to field any form of actual cavalry, but the Sinamese Cataphracts bring to bear the full weight that their frame has to offer. Clad in full chain mail and iron caps these towering soldiers are a sight to behold."
 #itemslots 31878
 #armor 18 --- Full Chain Mail / elite chain hauberk
 #armor 20 --- Iron Cap / ironcap_gilt
@@ -8346,7 +8346,7 @@ Priests: Strong."
 #weapon 1 ---  / spear_iron_gilt
 #end
 
---- Astral Disciple (Dantih), Gold: 145, Resources: 72, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
+--- Sinamese Immortal (Dantih), Gold: 145, Resources: 72, Roles: [infantry, elite infantry, sacred infantry] (tusked one infantry)
 --- OFFSET DEBUG:
 -- Weapon: 0, 0
 -- Armor: 0, 0
@@ -8354,7 +8354,7 @@ Priests: Strong."
 --- Generation tags: [primarycommand: [#pierceres]], [filterdesc: ["pierceres desc"]], [price_per_command: [#hp 0.5 20]], [sacred: []]
 --- Applied filters: pierceres, Infantry sacred, strong
 #newmonster 4103
-#name "Astral Disciple"
+#name "Sinamese Immortal"
 #spr1 "to_say_nothing_of_the_cynocephalian/208-sinam/unit_3998_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/208-sinam/unit_3998_b.tga"
 #humanoid
@@ -8379,7 +8379,7 @@ Priests: Strong."
 #twiceborn 3446
 #pierceres
 #holy
-#descr "The sacred units of Sinam carry falchions and are armored with heavy armor. They are particularly strong priests who are resistant to puncture wounds."
+#descr "While not truly immortal, the Immortals of Sinam form the backbone of the Sinamese military. These powerful sacred warriors carry falchions and are armored with heavy armor. Even their bare skin has been blessed and hardened to be resistant to puncture wounds."
 #itemslots 31878
 #armor 14 --- Plate Hauberk / elite plate hauberk
 #armor 20 --- Iron Cap / ironcap_gilt
