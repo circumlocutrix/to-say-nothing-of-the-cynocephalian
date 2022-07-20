@@ -1,0 +1,504 @@
+Nation 120: Triproples
+-----------------------------------
+Race: Humans.
+Military: Light infantry and heavy infantry. Champions. Heavy cavalry. Sacred heavy cavalry. Cheaper forts.
+Magic: Fire and Earth. Weak Water. Some Novice of the Bright Highlands mages. Some Fellow of the Bright Highlands mages.
+Priests: Weak.
+
+Nation 121: Timobeanda
+-----------------------------------
+Race: Humans, some Avvites, prefers Heat scale +1.
+Military: Light infantry and heavy infantry. Champions. Light camel cavalry. Sacred light dog cavalry.
+Magic: Water, Death and Nature. Weak Fire and Earth.
+Priests: Moderate.
+
+Nation 122: Myrmene
+-----------------------------------
+Race: Halfmen.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry.
+Magic: Death and Nature. Weak Astral.
+Priests: Moderate.
+
+Nation 123: Coacotepec
+-----------------------------------
+Race: Zotzs, some Primates, prefers Heat scale +1.
+Military: Light infantry and heavy infantry. Champions. Light jaguar cavalry. Sacred light infantry.
+Magic: Blood. Weak Death and Nature.
+Priests: Strong.
+
+Nation 124: Alingfors
+-----------------------------------
+Race: Jotuns, prefers Cold scale +2.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy skirmisher.
+Magic: Death and Nature. Weak Earth.
+Priests: Strong.
+
+Nation 125: Hrazdan
+-----------------------------------
+Race: Caelians, some Primates.
+Military: Light infantry and heavy infantry. Champions. Sacred Primate heavy bear cavalry.
+Magic: Fire and Death. Weak Water.
+Priests: Strong.
+
+Nation 126: Ishgus
+-----------------------------------
+Race: Humans, some Jotuns.
+Military: Heavy infantry. Champions. Heavy moose cavalry. Sacred heavy ranger.
+Magic: Earth, Death and Blood.
+Priests: Moderate.
+
+Nation 127: Hellethon
+-----------------------------------
+Race: Humans.
+Military: Heavy infantry. Champions. Light serpent cavalry  and  heavy horse  and  flayed serpent cavalry. Sacred light infantry.
+Magic: Water and Nature. Weak Air, Death and Blood.
+Priests: Moderate.
+
+Nation 128: Touomchis
+-----------------------------------
+Race: Humans.
+Military: Light infantry. Champions. Chariots. Sacred light infantry and light infantry.
+Magic: Astral and Nature.
+Priests: Strong.
+
+Nation 129: Assor
+-----------------------------------
+Race: Humans, prefers Heat scale +2.
+Military: Light infantry. Auxiliaries. Chariots. Sacred heavy infantry and heavy infantry.
+Magic: Death. Weak Fire, Water, Nature and Blood.
+Priests: Moderate.
+
+Nation 130: Murgjagan
+-----------------------------------
+Race: Caelians.
+Military: Heavy infantry. Champions. Sacred heavy infantry.
+Magic: Earth. Weak Air, Death and Blood.
+Priests: Moderate.
+
+Nation 131: Cerium
+-----------------------------------
+Race: Humans, prefers Heat scale +2.
+Military: Light infantry and heavy infantry. Auxiliaries. Sacred heavy infantry.
+Magic: Fire and Death. Weak Air and Astral.
+Priests: Strong.
+
+Nation 132: Sinam
+-----------------------------------
+Race: Tusked Ones, prefers Heat scale +1.
+Military: Heavy infantry. Champions. Sacred heavy infantry.
+Magic: Earth and Astral. Weak Death and Nature. Laboratories cost 600 gold.
+Priests: Strong.
+
+Nation 133: Lhotha
+-----------------------------------
+Race: Pale Ones.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry.
+Magic: Earth. Weak Air, Water and Blood.
+Priests: Moderate.
+
+Nation 134: Gaeni
+-----------------------------------
+Race: Caelians, some Primates, prefers Heat scale +1.
+Military: Light infantry and heavy infantry. Champions  and  legionaries. Heavy serpent cavalry. Sacred light infantry and Primate heavy infantry.
+Magic: Fire, Air and Earth.
+Priests: Moderate.
+
+Nation 135: Lekvanstad
+-----------------------------------
+Race: Vanir, some Caelians, prefers Cold scale +1.
+Military: Light infantry. Champions. Heavy cavalry. Sacred light infantry.
+Magic: Air. Weak Fire, Water, Earth and Blood.
+Priests: Moderate, temples cost 800 gold.
+
+Nation 136: Abysbos
+-----------------------------------
+Race: Lamias.
+Military: Heavy infantry. Champions. Sacred heavy ranger.
+Magic: Astral and Death.
+Priests: Strong.
+
+Nation 137: Druichainn
+-----------------------------------
+Race: Fir Bolgs, some Humans.
+Military: Light infantry and heavy infantry. Champions. Light cavalry  and  heavy cavalry. Elite herald. Sacred light skirmisher.
+Magic: Air. Weak Earth, Nature and Blood.
+Priests: Weak.
+
+Nation 138: Kinchenmark
+-----------------------------------
+Race: Hoburgs, some Fir Bolgs, prefers Cold scale +1.
+Military: Light infantry. Champions. Light goat  and  rat cavalry. Sacred light goat cavalry.
+Magic: Air and Nature. Weak Fire and Death.
+Priests: Moderate.
+
+Nation 139: Hrazor
+-----------------------------------
+Race: Caelians, prefers Cold scale +1.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry.
+Magic: Air and Nature. Weak Fire and Water.
+Priests: Moderate.
+
+Nation 140: Banhati
+-----------------------------------
+Race: Primates.
+Military: Light infantry and heavy infantry. Champions. Chariots. Sacred heavy ranger.
+Magic: Astral, Nature and Blood.
+Priests: Weak.
+
+Nation 141: Hashishima
+-----------------------------------
+Race: Humans.
+Military: Light infantry and heavy infantry. Champions. Heavy spider cavalry. Chariots. Sacred heavy ranger.
+Magic:  Weak Fire, Earth and Astral.
+Priests: Strong, temples cost 500 gold.
+
+Nation 142: Sethi
+-----------------------------------
+Race: Lizards, some Humans, prefers Heat scale +2.
+Military: Light infantry and heavy infantry. Champions. Light camel  and  jaguar cavalry. Sacred heavy ranger.
+Magic: Water and Death. Weak Astral and Nature. Laboratories cost 400 gold.
+Priests: Strong.
+
+Nation 143: Hassis
+-----------------------------------
+Race: Lizards, prefers Heat scale +2.
+Military: Light infantry and heavy infantry. Champions. Sacred light ranger.
+Magic: Water and Death.
+Priests: Strong.
+
+Nation 144: Ritsia
+-----------------------------------
+Race: Halfmen, some Gigantes.
+Military: Heavy infantry. Champions. Sacred heavy infantry.
+Magic: Nature and Blood. Weak Air and Earth.
+Priests: Moderate.
+
+Nation 145: Lishasa
+-----------------------------------
+Race: Lizards, prefers Heat scale +2.
+Military: Heavy infantry. Champions. Sacred light ranger.
+Magic: Water, Astral and Death.
+Priests: Moderate.
+
+Nation 146: Otammgal
+-----------------------------------
+Race: Humans.
+Military: Light infantry and heavy infantry. Champions. Sacred light ranger.
+Magic: Fire, Water and Blood. Weak Nature.
+Priests: Moderate, can perform blood sacrifices.
+
+Nation 147: Lamth
+-----------------------------------
+Race: Humans.
+Military: Heavy infantry. Champions. Heavy cavalry. Sacred heavy infantry.
+Magic: Earth and Nature. Weak Water and Death.
+Priests: Moderate.
+
+Nation 148: Gabbzesial
+-----------------------------------
+Race: Avvites, prefers Heat scale +2.
+Military: Heavy infantry. Champions. Heavy camel cavalry. Chariots. Sacred light ranger.
+Magic: Water, Earth and Blood. Laboratories cost 600 gold.
+Priests: Moderate.
+
+Nation 149: Whahimichi
+-----------------------------------
+Race: Crustaceans, some Atlantians.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry.
+Magic: Earth and Blood. National mages are not affected by Drain scale.
+Priests: Moderate.
+
+Nation 150: Nooroor
+-----------------------------------
+Race: Primates, some Nagas, prefers Heat scale +2.
+Military: Light infantry and heavy infantry. Champions. Sacred Naga heavy infantry.
+Magic:  Weak Air, Water and Blood. Some Senior Storm Poet mages. Some Elder Storm Poet mages.
+Priests: Weak, temples cost 500 gold.
+
+Nation 151: Djeneso
+-----------------------------------
+Race: Abysians, prefers Heat scale +3.
+Military: Light infantry and heavy infantry. Heavy scorpion  and  drake cavalry. Sacred heavy infantry.
+Magic:  Weak Fire, Air, Water and Death. Some Initiate Unholy Devastator mages. Some High Unholy Devastator mages.
+Priests: Strong.
+
+Nation 152: Nishisan
+-----------------------------------
+Race: Humans, some Halfmen.
+Military: Light infantry and heavy infantry. Heavy serpent cavalry. Sacred Halfman light infantry.
+Magic: Fire, Earth and Blood.
+Priests: Moderate.
+
+Nation 153: Octfurt
+-----------------------------------
+Race: Hoburgs, some Atlantians, prefers Heat scale +1.
+Military: Light infantry. Auxiliaries. Light ant, caveman  and  hog cavalry. Sacred light ozelotl cavalry, light ant cavalry and light infantry.
+Magic: Earth and Nature. Weak Fire and Astral.
+Priests: Moderate.
+
+Nation 154: Satrania
+-----------------------------------
+Race: Caelians, some Hoburgs, prefers Heat scale +1.
+Military: Light infantry and heavy infantry. Champions. Sacred light ranger.
+Magic: Fire and Earth. Weak Water, Death and Nature.
+Priests: Moderate.
+
+Nation 155: Posetammea
+-----------------------------------
+Race: Atlantians, some Caelians.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry. Expensive forts.
+Magic: Air. Weak Water, Death, Nature and Blood.
+Priests: Strong.
+
+Nation 156: Sirsa
+-----------------------------------
+Race: Humans, prefers Heat scale +2.
+Military: Light infantry. Champions. Chariots. Sacred heavy ranger. Expensive forts.
+Magic: Astral and Nature. Weak Death and Blood.
+Priests: Weak.
+
+Nation 157: Neanus
+-----------------------------------
+Race: Lamias, some Ophidians.
+Military: Heavy infantry. Champions. Sacred heavy ranger.
+Magic: Death and Blood. Weak Nature.
+Priests: Moderate.
+
+Nation 158: Baohtgua
+-----------------------------------
+Race: Illithids, some Halfmen.
+Military: Light infantry and heavy infantry. Champions. Light varied cavalry. Sacred Halfman light infantry.
+Magic: Water and Astral. Weak Fire.
+Priests: Strong.
+
+Nation 159: Cythpos
+-----------------------------------
+Race: Halfmen.
+Military: Light infantry. Champions. Sacred light infantry.
+Magic: Astral and Nature. Weak Fire.
+Priests: Moderate.
+
+Nation 160: Cikos
+-----------------------------------
+Race: Lizards, some Humans, prefers Heat scale +2.
+Military: Light infantry and heavy infantry. Champions. Light cavalry. Sacred heavy infantry.
+Magic: Water and Blood. Weak Death. Some Neophyte Vampiric Icecrafter mages. Some Major Vampiric Icecrafter mages.
+Priests: Strong.
+
+Nation 161: Spivi
+-----------------------------------
+Race: Caelians, prefers Heat scale +1.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy ranger.
+Magic: Fire and Air. Weak Earth, Death and Nature.
+Priests: Weak.
+
+Nation 162: Mizudorf
+-----------------------------------
+Race: Hoburgs, some Bakemonos.
+Military: Light infantry. Champions. Light rat, deer  and  elephant cavalry. Sacred light infantry.
+Magic: Earth. Weak Air. Some Lesser Mason of the Depths mages.
+Priests: Weak, temples cost 300 gold.
+
+Nation 163: Wineira
+-----------------------------------
+Race: Humans.
+Military: Light infantry. Champions. Sacred light infantry.
+Magic: Death. Weak Water and Astral. Laboratories cost 400 gold.
+Priests: Strong.
+
+Nation 164: Sri Log
+-----------------------------------
+Race: Primates, prefers Heat scale +2.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry. Cheaper forts.
+Magic: Astral and Nature.
+Priests: Weak.
+
+Nation 165: Chateche
+-----------------------------------
+Race: Primates, prefers Heat scale +1.
+Military: Light infantry. Champions. Heavy serpent cavalry. Sacred heavy infantry.
+Magic: Water and Astral.
+Priests: Moderate.
+
+Nation 166: Patasa
+-----------------------------------
+Race: Halfmen, some Lizards.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry.
+Magic: Fire, Earth and Nature.
+Priests: Strong.
+
+Nation 167: Djesu
+-----------------------------------
+Race: Abysians, prefers Heat scale +3.
+Military: Heavy infantry. Champions. Heavy camel cavalry. Sacred heavy infantry.
+Magic: Fire and Death. Weak Astral.
+Priests: Strong.
+
+Nation 168: Simbatu
+-----------------------------------
+Race: Humans, some Avvites, prefers Heat scale +1.
+Military: Light infantry. Champions. Light cavalry  and  heavy spider cavalry. Sacred Avvite heavy ranger.
+Magic: Air and Nature. Weak Water and Earth.
+Priests: Moderate.
+
+Nation 169: Omellia
+-----------------------------------
+Race: Halfmen.
+Military: Heavy infantry. Champions. Sacred heavy ranger.
+Magic: Nature. Weak Air, Water and Death.
+Priests: Strong.
+
+Nation 170: Palainia
+-----------------------------------
+Race: Atlantians, some Pale Ones.
+Military: Heavy infantry. Champions. Heavy bear cavalry. Sacred heavy infantry.
+Magic: Water and Death. Weak Fire and Air.
+Priests: Moderate.
+
+Nation 171: Vitibia
+-----------------------------------
+Race: Atlantians, some Nagas.
+Military: Light infantry and heavy infantry. Champions. Heavy bear cavalry. Sacred Naga heavy infantry.
+Magic: Air, Water and Death. Weak Blood. Some Initiate Enraged Devastator mages. Some Enraged Factotum mages. Some Enraged Tutor mages.
+Priests: Strong.
+
+Nation 172: Chlugh
+-----------------------------------
+Race: Sidhes, some Lizards.
+Military: Light infantry and heavy infantry. Light moose cavalry. Sacred Lizard heavy infantry.
+Magic: Air and Nature. Weak Death.
+Priests: Moderate.
+
+Nation 173: Khovati
+-----------------------------------
+Race: Pale Ones.
+Military: Heavy infantry. Champions. Heavy cave grub cavalry. Sacred heavy skirmisher.
+Magic: Earth and Death. Weak Air. National mages are not affected by Drain scale.
+Priests: Strong, temples cost 200 gold.
+
+Nation 174: Tecla
+-----------------------------------
+Race: Zotzs, prefers Cold scale +2.
+Military: Light infantry. Sacred light infantry.
+Magic: Death. Weak Water, Nature and Blood. National mages are not affected by Drain scale.
+Priests: Strong.
+
+Nation 175: Lalbal
+-----------------------------------
+Race: Primates, prefers Heat scale +2.
+Military: Light infantry and heavy infantry. Champions. Heavy lizard cavalry. Sacred heavy ranger.
+Magic: Astral. Weak Death.
+Priests: Weak.
+
+Nation 176: Atlagria
+-----------------------------------
+Race: Ichtyids.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry.
+Magic: Water, Death and Nature. Weak Astral.
+Priests: Strong, can perform blood sacrifices.
+
+Nation 177: Onapolis
+-----------------------------------
+Race: Halfmen.
+Military: Heavy infantry. Champions. Sacred heavy infantry.
+Magic: Fire and Water. Weak Air and Astral.
+Priests: Strong.
+
+Nation 178: Lillerus
+-----------------------------------
+Race: Vanir, some Humans, prefers Cold scale +1.
+Military: Light infantry and heavy infantry. Champions. Sacred Human light infantry.
+Magic: Air and Blood. Weak Earth.
+Priests: Weak.
+
+Nation 179: Leirholm
+-----------------------------------
+Race: Vaettis, some Primates, prefers Cold scale +2.
+Military: Light infantry and heavy infantry. Champions. Heavy boar cavalry. Sacred Primate heavy chariot.
+Magic: Astral, Death and Nature.
+Priests: Weak, temples cost 500 gold.
+
+Nation 180: Shangrisala
+-----------------------------------
+Race: Pale Ones.
+Military: Heavy infantry. Champions. Sacred heavy infantry.
+Magic: Water and Death. Weak Earth and Blood.
+Priests: Strong, can perform blood sacrifices.
+
+Nation 181: Csithi
+-----------------------------------
+Race: Lizards, some Humans, prefers Heat scale +2.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry.
+Magic: Water and Death. Weak Fire and Earth.
+Priests: Weak.
+
+Nation 182: Sma-behdty
+-----------------------------------
+Race: Abysians, some Ichtyids, prefers Heat scale +3.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy infantry.
+Magic: Air, Water and Death. Weak Fire and Nature.
+Priests: Strong.
+
+Nation 183: Lhabafan
+-----------------------------------
+Race: Pale Ones, some Humans.
+Military: Light infantry and heavy infantry. Champions. Sacred heavy skirmisher.
+Magic: Water, Astral and Blood. Weak Death. Some Paramount Hermetic Rainmaker mages. Some Paramount Abyssal Rainmaker mages. Some Paramount Stellar Rainmaker mages.
+Priests: Strong, temples cost 300 gold.
+
+Nation 184: Laphain
+-----------------------------------
+Race: Fir Bolgs, some Humans.
+Military: Light infantry and heavy infantry. Champions. Light cavalry. Elite aspirant. Sacred light infantry.
+Magic: Air and Astral.
+Priests: Weak.
+
+Nation 185: Ymunheim
+-----------------------------------
+Race: Vanir, prefers Cold scale +1.
+Military: Light infantry and heavy infantry. Heavy cavalry. Sacred light infantry and heavy cavalry.
+Magic: Air, Water and Blood. Weak Fire.
+Priests: Moderate.
+
+Nation 186: Dewda
+-----------------------------------
+Race: Primates, prefers Heat scale +2.
+Military: Light infantry and heavy infantry. Sacred heavy ranger and heavy ranger.
+Magic: Earth. Weak Fire, Air, Astral and Death. Some Harbinger of Ash Wastes mages.
+Priests: Strong.
+
+Nation 187: Alingsund
+-----------------------------------
+Race: Vanir, prefers Cold scale +1.
+Military: Light infantry and heavy infantry. Champions. Light cavalry. Sacred light cavalry. Expensive forts.
+Magic: Air, Earth and Nature. Weak Death.
+Priests: Moderate.
+
+Nation 188: Edomkahdod
+-----------------------------------
+Race: Avvites, prefers Heat scale +2.
+Military: Heavy infantry. Champions. Heavy camel cavalry. Sacred light cavalry.
+Magic: Blood. Weak Earth, Astral and Nature. Some Neophyte of the Surreal Spheres mages. Some Sorcerer of the Surreal Spheres mages.
+Priests: Moderate.
+
+Nation 189: Uganmatia
+-----------------------------------
+Race: Humans, some Illithids.
+Military: Light infantry. Champions. Heavy cavalry. Chariots. Sacred heavy ranger.
+Magic:  Weak Earth and Blood. Some Chaos Apprentice mages. Some Chaos Devastator mages. Some Chaos Hellcaller mages. Laboratories cost 400 gold.
+Priests: Strong.
+
+Nation 190: Vaycatmark
+-----------------------------------
+Race: Hoburgs.
+Military: Light infantry and heavy infantry. Legionaries. Light hawk cavalry. Sacred light ranger.
+Magic: Water and Nature. Weak Fire, Death and Blood. Laboratories cost 600 gold.
+Priests: Weak.
+
+Nation 191: Ekgard
+-----------------------------------
+Race: Humans, prefers Cold scale +1.
+Military: Light infantry and heavy infantry. Heavy cavalry. Sacred light cavalry.
+Magic: Nature. Weak Air, Water and Blood.
+Priests: Moderate, temples cost 300 gold.
+
