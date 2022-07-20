@@ -8017,6 +8017,11 @@ Priests: Strong."
 
 #templepic 6
 
+#addgod 472
+#addgod 657
+#addgod 2464
+#addgod 3388
+
 #end
 
 --- Sites for nation 208: Sinam
