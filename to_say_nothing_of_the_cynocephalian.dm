@@ -312,6 +312,7 @@ Priests: Moderate."
 #fortera 2
 #likesterr 0
 
+#homerealm 1
 #homerealm 2
 #homerealm 10
 
