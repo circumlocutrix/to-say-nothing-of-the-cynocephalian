@@ -7132,6 +7132,11 @@ Priests: Strong."
 
 #templepic 8
 
+#addgod 1340
+#addgod 3121
+#addgod 3330
+#addgod 2426
+
 #end
 
 --- Sites for nation 207: Öreping
