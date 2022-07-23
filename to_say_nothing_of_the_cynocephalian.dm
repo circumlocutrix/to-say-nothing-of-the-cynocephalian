@@ -247,9 +247,9 @@
 #clear
 #era 2
 #name "Ymunheim"
-#epithet "Glory of the Adept Mages"
+#epithet "Glory of the Mandarbmarxist Lelfs"
 #descr "Mandarbmax's Nation"
-#summary "Race: Vanir, prefers Cold scale +1.
+#summary "Race: Lelfs, prefers Cold scale +1.
 
 Military: Light infantry and heavy infantry. Heavy cavalry. Sacred light infantry and heavy cavalry.
 
@@ -272,7 +272,7 @@ Priests: Moderate."
 #addrecunit 5219
 #addrecunit 5220
 #addrecunit 5221
-#addrecunit 5222
+
 #addrecunit 5223
 #addrecunit 5224
 #addreccom 5226
@@ -725,7 +725,7 @@ Priests: Moderate."
 #mounted
 #weapon 56 --- Hoof
 #ressize 2
-#descr "The Ymunheimian Champions of Ymunheim ride into battle clad in medium armor astride horses."
+#descr "The Ymunheimian Champions of Ymunheim ride into battle clad in medium armor astride horses. All were once twins but killed and ate their twins as part of their training."
 #itemslots 13446
 #armor 12 --- Scale Mail Hauberk / scale hauberk
 #armor 119 --- Reinforced Leather Cap / reinfleathercap
@@ -764,7 +764,7 @@ Priests: Moderate."
 #stealthy 0
 #nametype 115
 #holy
-#descr "Ymunheim's sacred units are clad in light and medium armor and fight with a short sword or a spear. The Enigmatic Vindicators are expertly trained warriors."
+#descr "Mandarbmax's sacred units are clad in light and medium armor and fight with a short sword or a spear. The Enigmatic Vindicators are expertly trained and incompetently armed warriors."
 #itemslots 15494
 #armor 7 --- Scale Mail Cuirass / scale cuirass
 #armor 120 --- Leather Cap / leathercap
@@ -780,7 +780,7 @@ Priests: Moderate."
 --- Generation tags: [path: [nature]], [itemslot: [feet -1]], [filterdesc: ["springpower desc"]], [sacred: []]
 --- Applied filters: springpower-low, Mounted sacred
 #newmonster 5225
-#name "Overgrown Ranger"
+#name "Thug Bodyguard"
 #spr1 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5120_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5120_b.tga"
 #mountedhumanoid
@@ -807,7 +807,7 @@ Priests: Moderate."
 #ressize 2
 #springpower 25
 #holy
-#descr "The sacred units of Ymunheim are armored with light and medium armor and armed with a short sword or a spear. They have been given the strength of spring and they are strongest in spring months."
+#descr "The sacred units of Mandarbmax's nation are armored with light and medium armor and armed with a short sword or a loaf of bread. They have been given the strength of spring and they are strongest in spring months. They ride their horsies real fast and don't afraid of lightning."
 #itemslots 13446
 #armor 13 --- Chain Mail Hauberk / chain hauberk
 #armor 120 --- Leather Cap / leathercap
@@ -823,7 +823,7 @@ Priests: Moderate."
 --- Generation tags:
 --- Applied filters: Scout
 #newmonster 5226
-#name "Scout"
+#name "Lelf Infiltrator"
 #spr1 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5121_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5121_b.tga"
 #humanoid
@@ -905,7 +905,7 @@ Priests: Moderate."
 --- Generation tags: [itemslot: [feet -1]]
 --- Applied filters: elite +1, Mounted unit
 #newmonster 5228
-#name "Colonel"
+#name "Cheap, disposable antithug"
 #spr1 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5123_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5123_b.tga"
 #mountedhumanoid
@@ -933,7 +933,7 @@ Priests: Moderate."
 #goodleader
 #poormagicleader
 #poorundeadleader
-#descr "Colonels are highly skilled soldiers; they make clever officials whose plans are executed by their armies. The Colonels are also charged with commanding any supernatural entity the mages of Ymunheim might raise, although they can control only a handful of these beings."
+#descr "Colonels are highly skilled soldiers; they make disposable counterthugs whose attacks are frustrated by their armies. The Colonels are also charged with commanding any supernatural entity the mages of Ymunheim might raise, although they can control only a handful of these beings. They are often found with a variety of armor piercing and armor negating weaponry and rarely ranged weaponry. They eat the corpses of dead elites."
 #itemslots 13446
 #armor 13 --- Chain Mail Hauberk / chain hauberk
 #armor 120 --- Leather Cap / leathercap
@@ -949,7 +949,7 @@ Priests: Moderate."
 --- Generation tags: [priest: [1]]
 --- Applied filters: PRIESTPICKS
 #newmonster 5229
-#name "Gode"
+#name "Geode"
 #spr1 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5124_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5124_b.tga"
 #humanoid
@@ -974,7 +974,7 @@ Priests: Moderate."
 #magicskill 8 1
 #holy
 #poorleader
-#descr "The Acolytes hold a very minor place in Ymunheim's hierarchy, with barely more status than a Enigmatic Vindicator. The Acolytes of Ymunheim are short-sighted leaders whose orders are obeyed by their assistants."
+#descr "All lelfs are born out of rocks but some are born out of geodes and are thus blessed with absurdly high defense skill at the cost of actual armor. Dumbasses."
 #itemslots 15494
 #weapon 7 ---  / metalstaff
 #armor 2 --- Shield / shield6
@@ -989,7 +989,7 @@ Priests: Moderate."
 --- Generation tags: [priest: [2]]
 --- Applied filters: PRIESTPICKS
 #newmonster 5230
-#name "Exarch"
+#name "Exgeode"
 #spr1 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5125_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5125_b.tga"
 #humanoid
@@ -1015,7 +1015,7 @@ Priests: Moderate."
 #holy
 #okleader
 #command 20.0
-#descr "Ymunheim's Exarchs are the spiritual chiefs of Ymunheim, spreading the faith among the people. The Exarchs of Ymunheim are adequate leaders whose decrees are obeyed by their lackeys."
+#descr "Some Geodes get really stuck up their own asses and think they are worth more. No one likes them."
 #itemslots 15494
 #armor 158 --- Robes / simplerobe2
 #armor 2 --- Shield / shield6
@@ -1030,7 +1030,7 @@ Priests: Moderate."
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [magepriest: []], [itemslot: [feet -1]], [varyslot: [weapon]]
 --- Applied filters: MAGICPICKS (140), PRIESTPICKS
 #newmonster 5231
-#name "Torrent Galderman"
+#name "Air Lelf"
 #spr1 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5126_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5126_b.tga"
 #mountedhumanoid
@@ -1061,7 +1061,7 @@ Priests: Moderate."
 #magicskill 8 1
 #poorleader
 #holy
-#descr "Ymunheim's Torrent Galdermen are mages of air magic. The Torrent Galdermen of Ymunheim are respected for their studies and have some small influence among the faithful. The Torrent Galdermen of Ymunheim are rash leaders whose mandates are carried out by their pawns."
+#descr "Mandarbmax's Air Lelfs are responsible for casting shockwave."
 #itemslots 13446
 #weapon 8 ---  / broadsword
 #armor 2 --- Shield / shield6
@@ -1077,7 +1077,7 @@ Priests: Moderate."
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [magepriest: []], [itemslot: [feet -1]], [varyslot: [weapon]]
 --- Applied filters: MAGICPICKS (140), PRIESTPICKS
 #newmonster 5232
-#name "Torrent Warlock"
+#name "Water Lelf"
 #spr1 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5127_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5127_b.tga"
 #mountedhumanoid
@@ -1108,7 +1108,7 @@ Priests: Moderate."
 #magicskill 8 1
 #okleader
 #holy
-#descr "The Torrent Warlocks are experienced in blood magic. The Torrent Warlocks make up the body of Ymunheim's priests, responsible for overseeing most of the day to day tasks of the church. The Torrent Warlocks of Ymunheim are adequate officials whose plans are carried out by their escorts."
+#descr "Water Lelfs are rarely recruited because water elementals don't work in cold dominion."
 #itemslots 13446
 #weapon 13 ---  / hammer
 #armor 2 --- Shield / shield6
@@ -1124,7 +1124,7 @@ Priests: Moderate."
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [2]], [magepriest: []], [itemslot: [feet -1]], [varyslot: [weapon]]
 --- Applied filters: MAGICPICKS (140), PRIESTPICKS
 #newmonster 5233
-#name "Torrent Adept"
+#name "Blood Lelf"
 #spr1 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5128_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5128_b.tga"
 #mountedhumanoid
@@ -1155,7 +1155,7 @@ Priests: Moderate."
 #magicskill 8 1
 #poorleader
 #holy
-#descr "Ymunheim's Torrent Adepts are known for their water magic. Ymunheim's Torrent Adepts make up the body of Ymunheim's priests, responsible for overseeing most of the day to day tasks of the church. Ymunheim's Torrent Adepts are craven leaders whose mandates are enacted by their escorts."
+#descr "Blood lelfs are very expensive because other lelfs like them. They get away with it because Mandarbmax likes them too. How else do you afford storm demons?"
 #itemslots 13446
 #weapon 446 ---  / sceptre
 #armor 2 --- Shield / shield6
@@ -1171,7 +1171,7 @@ Priests: Moderate."
 --- Generation tags: [identifier: [schoolmage]], [schoolmage: [3]], [magepriest: []], [itemslot: [feet -1]], [varyslot: [weapon]]
 --- Applied filters: MAGICPICKS (235), waterele, iceprot, PRIESTPICKS
 #newmonster 5234
-#name "Adept Demonologist of Torrents"
+#name "True Lelf"
 #spr1 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5129_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/201-ymunheim/unit_5129_b.tga"
 #mountedhumanoid
@@ -1208,7 +1208,7 @@ Priests: Moderate."
 #okleader
 #older -10
 #holy
-#descr "The Adept Demonologists of Torrents are legendary for their air magic. The Adept Demonologists of Torrents are esteemed for their abilities and the people follow them in matters of faith. The Adept Demonologists of Torrents of Ymunheim are undistinguished officials whose orders are executed by their pawns. They have been given hard icy skin. They have mastery over water and an elemental will appear in battle to fight for them."
+#descr "Memetacular protection abilities, funny crosspaths with fire, and most importantly, they turn into a lelf head when they attack."
 #itemslots 13446
 #armor 8 --- Chain Mail Cuirass / goldencuirass
 #armor 148 --- Crown / lizardcrown1
@@ -1285,7 +1285,7 @@ Priests: Moderate."
 #clear
 #era 2
 #name "Ishgus"
-#epithet "Circle of the Topaz"
+#epithet "Circle of the Mountain Boys"
 #descr "Forest Boy's Nation"
 #summary "Race: Humans, some Jotuns.
 
@@ -2007,7 +2007,7 @@ female
 #stealthy 25
 #assassin
 #noleader
-#descr "Ishgus's Assassins are not occupied with the problems of service in the armies of Ishgus. They are skilled in eliminating their enemies and can stealthily ambush enemy commanders in single combat."
+#descr "Ishgus's Assassins are not occupied with the problems of service in the armies of Ishgus. They are skilled in eliminating their enemies and can stealthily ambush enemy commanders in single combat. No one expects to get assassinated by a fucking flail to the head. That is called the element of surprise!"
 #itemslots 15494
 #weapon 16 ---  / flail
 #armor 10 --- Leather Hauberk / leather hauberk
@@ -2458,7 +2458,7 @@ female
 #clear
 #era 2
 #name "Lalbal"
-#epithet "Age of the Dawning Forest"
+#epithet "Age of the Dawning Kaltrop"
 #descr "Kaltrop's Nation"
 #summary "Race: Primates, prefers Heat scale +2.
 
@@ -2553,7 +2553,7 @@ Priests: Weak."
 --- Generation tags:
 --- Applied filters: Ranged unit
 #newmonster 5001
-#name "Lalbaline Markata Champion"
+#name "Lalbaline Flaming Arrows Champion"
 #spr1 "to_say_nothing_of_the_cynocephalian/203-lalbal/unit_4896_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/203-lalbal/unit_4896_b.tga"
 #humanoid
@@ -2577,7 +2577,7 @@ Priests: Weak."
 #undisciplined
 #minsizeleader 0
 #weapon 92 --- Fist given to units that could otherwise only kick.
-#descr "Lalbal's Lalbaline Markata Champions are light ranged units wielding slings."
+#descr "Lalbal's Lalbaline Flaming Arrows are light ranged units who are ideal for casting flaming arrows on."
 #itemslots 15494
 #weapon 22 ---  / sling
 #end
@@ -3246,7 +3246,7 @@ Priests: Weak."
 #clear
 #era 2
 #name "Neanus"
-#epithet "Dawn of the Chosen Forest Revenants"
+#epithet "Dawn of the xFalz's Chosen Revenants"
 #descr "xFalz's Nation"
 #summary "Race: Lamias, some Ophidians.
 
@@ -4763,7 +4763,7 @@ Priests: Moderate."
 #clear
 #era 2
 #name "Ritsia"
-#epithet "Twisted Time"
+#epithet "Mindblow Time"
 #descr "MindBlow's Nation"
 #summary "Race: Halfmen, some Gigantes.
 
@@ -5459,7 +5459,7 @@ Priests: Moderate."
 #twiceborn 3450
 #pillagebonus 3
 #regeneration 10
-#descr "The infantry of Ritsia carry piercing and blunt weapons and are armored with all kinds of armor. The infantry of Ritsia are rapacious soldiers and they loot and plunder without mercy. They are gifted with self-healing flesh."
+#descr "The infantry of Ritsia carry piercing and blunt weapons and are armored with all kinds of armor. The infantry of Ritsia are rapacious soldiers and they loot and plunder without mercy. They are gifted with self-healing flesh. Other nations' blessing is that it is cap only"
 #itemslots 15494
 #armor 17 --- Full Scale Mail / iron full scale
 #armor 21 --- Full Helmet / ironfullhelm_light
@@ -6042,9 +6042,9 @@ Priests: Moderate."
 #clear
 #era 2
 #name "Lillerus"
-#epithet "Windswept Hollows"
+#epithet "Tall Round Hollows; Many Champions"
 #descr "Trhmc's Nation"
-#summary "Race: Vanir, some Humans, prefers Cold scale +1.
+#summary "Race: v. srs elfs, some Humans, prefers Cold scale +1.
 
 Military: Light infantry and heavy infantry. Champions. Sacred Human light infantry.
 
@@ -6616,7 +6616,7 @@ Priests: Weak."
 --- Generation tags:
 --- Applied filters: Assassin
 #newmonster 5077
-#name "Assassin"
+#name "Personal Blender"
 #spr1 "to_say_nothing_of_the_cynocephalian/206-lillerus/unit_4972_a.tga"
 #spr2 "to_say_nothing_of_the_cynocephalian/206-lillerus/unit_4972_b.tga"
 #humanoid
@@ -6641,7 +6641,7 @@ Priests: Weak."
 #assassin
 #noleader
 #ambidextrous 2
-#descr "The Assassins of Lillerus are not entrusted with the privilege of conducting Lillerus's armies in battle. They are trained in assassination and can stealthily ambush enemy commanders in single combat."
+#descr "The Assassins of Lillerus are not entrusted with the privilege of conducting Lillerus's armies in battle. They are trained in assassination and can stealthily ambush enemy commanders in single combat, and sometimes in groups with greatswords of sharpness because wew look at dem stats!"
 #itemslots 15494
 #weapon 10 ---  / elitefalchion
 #armor 10 --- Leather Hauberk / leather hauberk
@@ -6801,7 +6801,7 @@ Priests: Weak."
 #magicskill 1 1
 #poorleader
 #ambidextrous 1
-#descr "The Lillerusine Initiates of Lillerus are unskilled users of air magic. The Lillerusine Initiates of Lillerus are indecisive commanders whose orders are carried out by their guardians."
+#descr "Those who can't assassinate do magic."
 #itemslots 15494
 #weapon 9 ---  / dagger
 #armor 20 --- Iron Cap / ironcap
@@ -6846,7 +6846,7 @@ Priests: Weak."
 #magicskill 7 1
 #magicskill 3 1
 #poorleader
-#descr "Lillerus's Lillerusine Fellows are able users of air magic. The Lillerusine Fellows of Lillerus are indecisive officers whose mandates are carried out by their assistants."
+#descr "Lillerus's Lillerusine Fellows are able users of air magic. The Lillerusine Fellows of Lillerus are indecisive officers whose mandates are carried out by their assistants. Very nearly god's perfect thugs but they aren't sacred."
 #itemslots 13446
 #weapon 446 ---  / sceptre
 #armor 3 --- Kite Shield / kite5
@@ -7066,7 +7066,7 @@ Priests: Weak."
 #clear
 #era 2
 #name "Öreping"
-#epithet "Scorched Tundra"
+#epithet "Scorched Choksny"
 #descr "Choksny's Nation"
 #summary "Race: Humans, some Jotuns, prefers Cold scale +1.
 
@@ -7472,7 +7472,7 @@ Priests: Strong."
 #secondtmpshape 5371
 #holy
 #ambidextrous 2
-#descr "Öreping's sacred units are armored with light armor and armed with a falchion or a mace. They will explode as a burst of elemental energy upon death, spawning a fire elemental."
+#descr "Öreping's sacred units are armored with light armor and armed with a falchion or a mace. They will explode as a burst of elemental energy upon death, spawning a fire elemental. Actually only 27 on average and with a very short life span due to their lack of armor."
 #itemslots 15494
 #armor 6 --- Ring Mail Cuirass / ring cuirass
 #armor 120 --- Leather Cap / leathercap
@@ -7701,7 +7701,7 @@ Priests: Strong."
 #holy
 #goodleader
 #rpcost 4
-#descr "Öreping's High Monks are at the head of Öreping's religious heirarchy, the most prestigious of the faithful. Öreping's High Monks are able leaders whose orders are executed by their guardians."
+#descr "Öreping's High Monks are at the head of Öreping's religious heirarchy, the most prestigious of the faithful. As such they are allowed to have broad swords. Öreping's High Monks are able leaders whose orders are executed by their guardians."
 #itemslots 15494
 #armor 8 --- Chain Mail Cuirass / gode_cuirass_gold_dark
 #armor 2 --- Shield / shield10_painted
@@ -7953,7 +7953,7 @@ Priests: Strong."
 #clear
 #era 2
 #name "Sinam"
-#epithet "Scions of the Mountain"
+#epithet "Circumlocutrixir of the Mountain"
 #descr "Circumlocutrix's Nation"
 #summary "Race: Tusked Ones, prefers Heat scale +1.
 
@@ -8385,7 +8385,7 @@ Priests: Strong."
 #twiceborn 3446
 #pierceres
 #holy
-#descr "While not truly immortal, the Immortals of Sinam form the backbone of the Sinamese military. These powerful sacred warriors carry falchions and are armored with heavy armor. Even their bare skin has been blessed and hardened to be resistant to puncture wounds."
+#descr "While not truly immortal, the Immortals of Sinam form the backbone of the Sinamese military. These powerful sacred warriors carry falchions and are armored with heavy armor. Even their bare skin has been blessed and hardened to be resistant to puncture wounds. Cast armor rust on them, it will not matter anyway."
 #itemslots 31878
 #armor 14 --- Plate Hauberk / elite plate hauberk
 #armor 20 --- Iron Cap / ironcap_gilt
@@ -8632,7 +8632,7 @@ Priests: Strong."
 #holy
 #goodleader
 #command -20.0
-#descr "The Anathemants of Sinam are at the summit of Sinam's religious heirarchy, the greatest of the clergy. Sinam's Anathemants are adept leaders whose commands are carried out by their lackeys. They are particularly strong priests."
+#descr "The Anathemants of Sinam are at the summit of Sinam's religious heirarchy, the greatest of the clergy. Sinam's Anathemants are adept leaders whose commands are carried out by their lackeys. They are particularly strong priests with particularly strong attacks."
 #itemslots 31878
 #armor 159 --- Imperial Robes / kimono_dark5
 #weapon 781 ---  / log
@@ -8910,7 +8910,7 @@ Priests: Strong."
 #clear
 #era 2
 #name "Naarina"
-#epithet "Swamp of the Wilds"
+#epithet "Swamp of Jo Brandon"
 #descr "Jo brandon's Nation"
 #summary "Race: Humans, some Ichtyids.
 
@@ -9585,7 +9585,7 @@ female
 #amphibian
 #nametype 117
 #forestsurvival
-#descr "Piranhids are a fierce race of fishmen that typically dwell in and around jungle rivers. They are renowned as brutal savages. The sacred units in Naarina are outfitted with a short bone trident or a crossbow and light and medium armor. They have been given the strength of chaos and they grow stronger in lands of turmoil."
+#descr "Piranhids are a fierce race of fishmen that typically dwell in and around jungle rivers. They are renowned as brutal savages with very short legs. The sacred units in Naarina are outfitted with a short bone trident or a crossbow and light and medium armor. They have been given the strength of chaos and they grow stronger in lands of turmoil. Vulnerable to walking away."
 #chaospower 1
 #chaosrec 5
 #holy
@@ -10245,7 +10245,7 @@ female
 #clear
 #era 2
 #name "Djeneso"
-#epithet "Unholy Disciples"
+#epithet "Maxxximmisssed's Disciples"
 #descr "Maxximissed's Nation"
 #summary "Race: Abysians, prefers Heat scale +3.
 
@@ -10876,7 +10876,7 @@ Priests: Strong."
 #fireres 25
 #darkvision 50
 #twiceborn 1978
-#descr "The Abysians are a race of hellish humanoids with magma bodies. They radiate a furnace-like heat and are impervious to all forms of fire. Djenesoan Drake Knights ride into battle clad in medium and heavy armor astride drakes."
+#descr "The Abysians are a race of hellish humanoids with magma bodies. They radiate a furnace-like heat and are impervious to all forms of fire. Djenesoan Drake Knights ride into battle clad in medium and heavy armor astride drakes.Boy I hope you took fire resistance if you want to fight these."
 #mounted
 #weapon 567 --- Drake Fire
 #weapon 20 --- Bite
