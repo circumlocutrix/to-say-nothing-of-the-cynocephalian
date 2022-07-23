@@ -8980,6 +8980,8 @@ Priests: Weak, can perform blood sacrifices."
 
 #templepic 12
 
+#addgod 2556
+
 #end
 
 --- Sites for nation 122: Naarina
